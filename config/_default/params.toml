@@ -84,7 +84,7 @@ show_related = {post = true, project = true, publication = true, talk = true}
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email: laurent.perrinet@univ-amu.fr
+email = laurent.perrinet@univ-amu.fr
 phone = "888 888 88 88"
 
 # Address
