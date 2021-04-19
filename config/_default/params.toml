@@ -89,8 +89,7 @@ phone = "888 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Institut de Neurosciences de la Timone (UMR 7289) <br> Aix Marseille Université, CNRS <br> Faculté de Médecine - Bâtiment Neurosciences,<br>
-    27, Bd Jean Moulin", city = "Marseille", region = "PACA", postcode = "13385 Marseille Cedex 05", country = "France", country_code = "FR"}
+address = {street = "Institut de Neurosciences de la Timone (UMR 7289), Aix Marseille Université, CNRS; Faculté de Médecine - Bâtiment Neurosciences, 27, Bd Jean Moulin", city = "Marseille", region = "PACA", postcode = "13385 Marseille Cedex 05", country = "France", country_code = "FR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
