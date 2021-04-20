@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>events | CONECT = **Co**mputational **Ne**uroscience **C**en**t**er - INT</title>
+    <title>events | CONECT | Computationam Neuroscience Center @ INT</title>
     <link>https://CONECT-INT.github.io/tag/events/</link>
       <atom:link href="https://CONECT-INT.github.io/tag/events/index.xml" rel="self" type="application/rss+xml" />
     <description>events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The [CONECT group](https://conect-int.github.io/people/).</copyright><lastBuildDate>Tue, 16 Jun 2020 06:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The [CONECT group](https://conect-int.github.io/people/)</copyright><lastBuildDate>Tue, 16 Jun 2020 06:00:00 +0000</lastBuildDate>
     <image>
       <url>https://CONECT-INT.github.io/images/icon_hu7e281b73228ab43411ccffce0f285528_35679_512x512_fill_lanczos_center_2.png</url>
       <title>events</title>
