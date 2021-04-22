@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About CONECT | CONECT | Computational Neuroscience Center @ INT</title>
-    <link>https://CONECT-INT.github.io/post/</link>
-      <atom:link href="https://CONECT-INT.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>About CONECT</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The [CONECT group](https://conect-int.github.io/people/)</copyright>
+    <title>David Hansel | CONECT | Computational Neuroscience Center @ INT</title>
+    <link>https://CONECT-INT.github.io/author/david-hansel/</link>
+      <atom:link href="https://CONECT-INT.github.io/author/david-hansel/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Hansel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The [CONECT group](https://conect-int.github.io/people/)</copyright><lastBuildDate>Wed, 21 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://CONECT-INT.github.io/images/icon_hu7e281b73228ab43411ccffce0f285528_35679_512x512_fill_lanczos_center_2.png</url>
-      <title>About CONECT</title>
-      <link>https://CONECT-INT.github.io/post/</link>
+      <url>https://CONECT-INT.github.io/author/david-hansel/avatar_hu794d02c8c35f871575d5fb9fe890d34f_5395_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>David Hansel</title>
+      <link>https://CONECT-INT.github.io/author/david-hansel/</link>
     </image>
     
     <item>
