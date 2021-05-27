@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://CONECT-INT.github.io/authors/</loc>
-    <lastmod>2021-04-22T14:20:07+02:00</lastmod>
+    <loc>https://CONECT-INT.github.io/event/2021-04-23-conect-course-phdprogram/</loc>
+    <lastmod>2021-04-22T12:05:06+02:00</lastmod>
   </url><url>
     <loc>https://CONECT-INT.github.io/</loc>
+    <lastmod>2021-04-22T14:20:07+02:00</lastmod>
+  </url><url>
+    <loc>https://CONECT-INT.github.io/authors/</loc>
     <lastmod>2021-04-22T14:20:07+02:00</lastmod>
   </url><url>
     <loc>https://CONECT-INT.github.io/post/about-conect/</loc>
