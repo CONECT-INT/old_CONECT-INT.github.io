@@ -237,7 +237,29 @@ Supplementary notes can be added here, including &lt;a href=&#34;https://sourcet
       <link>https://CONECT-INT.github.io/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://CONECT-INT.github.io/people/</guid>
-      <description></description>
+      <description>&lt;p&gt;Within INT, many such components already exist, either carried by researchers in computational neurosciences or as themes strongly anchored in this field. A survey of the current situation reveals the existence of projects around different scales:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;dynamics and function of small and large-scale neural networks (Laurent Perrinet with Frédéric Chavane, David Hansel, Carl van Vreeswijk)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bayesian inference and predictive process models (Anna Montagnini, Emmanuel Daucé and Laurent Perrinet), reinforcement learning, action selection, decision (Andrea Brovelli and Emmanuel Daucé), link with attentional mechanisms (Guilhem Ibos)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;information theory and functional connectivity for the analysis of cognitive brain networks (Andrea Brovelli and Bruno Giordano)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;deep learning for data processing in acoustics and semantics (Bruno Giordano), deep learning + neuroimaging (in voice perception) (Charly Lamothe)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;brain anatomy, particularly as applied to the formation of cortical folding (Julien Lefèvre with Guillaume Auzias, Sylvain Takerkart and Olivier Coulon),&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the development of prognostic models of the evolution of certain pathologies (Lionel Velly, Sylvain Takerkart),&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A structuring of these different components through a center (independent of existing and future teams) would be a major asset to reach a new stage in the creation of INT³.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
