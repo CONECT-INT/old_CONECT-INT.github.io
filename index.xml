@@ -7,7 +7,7 @@
     <description>CONECT | Computational Neuroscience Center @ INT</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The [CONECT group](https://conect-int.github.io/people/)</copyright><lastBuildDate>Thu, 17 Jun 2021 14:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://CONECT-INT.github.io/images/icon_hu7e281b73228ab43411ccffce0f285528_35679_512x512_fill_lanczos_center_2.png</url>
+      <url>https://CONECT-INT.github.io/images/icon_hu7e281b73228ab43411ccffce0f285528_35679_512x512_fill_lanczos_center_3.png</url>
       <title>CONECT | Computational Neuroscience Center @ INT</title>
       <link>https://CONECT-INT.github.io/</link>
     </image>
@@ -40,7 +40,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Zoom link  &lt;a href=&#34;https://univ-amu-fr.zoom.us/j/91200617032?pwd=WHRWNy9kNXoyQWZhUHMzS0RzSW1udz09&#34;&gt;https://univ-amu-fr.zoom.us/j/91200617032?pwd=WHRWNy9kNXoyQWZhUHMzS0RzSW1udz09&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Zoom link  &lt;a href=&#34;https://univ-amu-fr.zoom.us/j/91200617032?pwd=WHRWNy9kNXoyQWZhUHMzS0RzSW1udz09&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://univ-amu-fr.zoom.us/j/91200617032?pwd=WHRWNy9kNXoyQWZhUHMzS0RzSW1udz09&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
@@ -102,7 +102,7 @@
 &lt;ul&gt;
 &lt;li&gt;Friday, April 23, 2021; 9:00-12:30&lt;/li&gt;
 &lt;li&gt;Objective: Applying the Theory on the eBrains platform&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/albertoarturovergani/CNT-2021&#34;&gt;https://github.com/albertoarturovergani/CNT-2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/albertoarturovergani/CNT-2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/albertoarturovergani/CNT-2021&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;2&#34;&gt;
 &lt;li&gt;&lt;em&gt;Hands-on practice&lt;/em&gt;&lt;/li&gt;
@@ -110,8 +110,8 @@
 &lt;ul&gt;
 &lt;li&gt;Friday, April 23, 2021; 14:00-17:00&lt;/li&gt;
 &lt;li&gt;Objective: replicating Mainen &amp;amp; Sejnowski (1995)&lt;/li&gt;
-&lt;li&gt;github : &lt;a href=&#34;https://github.com/CONECT-INT/2021-04-23_PhDProgram-course-in-computational-neurosciences/&#34;&gt;https://github.com/CONECT-INT/2021-04-23_PhDProgram-course-in-computational-neurosciences/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;AMETICE :  &lt;a href=&#34;https://ametice.univ-amu.fr/course/view.php?id=72868#section-4&#34;&gt;https://ametice.univ-amu.fr/course/view.php?id=72868#section-4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;github : &lt;a href=&#34;https://github.com/CONECT-INT/2021-04-23_PhDProgram-course-in-computational-neurosciences/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/CONECT-INT/2021-04-23_PhDProgram-course-in-computational-neurosciences/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AMETICE :  &lt;a href=&#34;https://ametice.univ-amu.fr/course/view.php?id=72868#section-4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ametice.univ-amu.fr/course/view.php?id=72868#section-4&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;!--more--&gt;
 &lt;h1 id=&#34;hands-on-session-reproduction-of-the-article-by-mainen--sejnowski-1995&#34;&gt;Hands-on session: reproduction of the article by Mainen &amp;amp; Sejnowski, 1995&lt;/h1&gt;
@@ -126,8 +126,8 @@
 &lt;p&gt;Tools needed: &lt;a href=&#34;https://jupyter.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jupyter&lt;/a&gt;, with &lt;a href=&#34;https://numpy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;numpy&lt;/a&gt; and &lt;a href=&#34;https://matplotlib.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;matplotlib&lt;/a&gt;. These are standard tools and are easily installed on any platform. Other hosted solutions exist:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://wiki.ebrains.eu/bin/view/Collabs/neuromorphic/SpiNNaker/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ebrains / HBP&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://deepnote.com/&#34;&gt;https://deepnote.com/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;on &lt;a href=&#34;https://colab.research.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GoogleColab&lt;/a&gt; &lt;a href=&#34;https://colab.research.google.com/github/CONECT-INT/2021-04_PhDProgram-neurosciences-computationnelles/blob/master/MainenSejnowski1995.ipynb&#34;&gt;https://colab.research.google.com/github/CONECT-INT/2021-04_PhDProgram-neurosciences-computationnelles/blob/master/MainenSejnowski1995.ipynb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://deepnote.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://deepnote.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;on &lt;a href=&#34;https://colab.research.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GoogleColab&lt;/a&gt; &lt;a href=&#34;https://colab.research.google.com/github/CONECT-INT/2021-04_PhDProgram-neurosciences-computationnelles/blob/master/MainenSejnowski1995.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://colab.research.google.com/github/CONECT-INT/2021-04_PhDProgram-neurosciences-computationnelles/blob/master/MainenSejnowski1995.ipynb&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -158,16 +158,16 @@
 &lt;h1 id=&#34;appendices&#34;&gt;Appendices&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;an article to read about time in the brain: &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-temps/&#34;&gt;https://laurentperrinet.github.io/publication/perrinet-19-temps/&lt;/a&gt; &lt;a href=&#34;https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;direct link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;an article to read about time in the brain: &lt;a href=&#34;https://laurentperrinet.github.io/publication/perrinet-19-temps/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://laurentperrinet.github.io/publication/perrinet-19-temps/&lt;/a&gt; &lt;a href=&#34;https://theconversation.com/temps-et-cerveau-comment-notre-perception-nous-fait-voyager-dans-le-temps-127567&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;direct link&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-04-18-jnlf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;From illusions to visual hallucinations: a door on perception&lt;/a&gt; - (&lt;a href=&#34;https://laurentperrinet.github.io/2019-04-18_JNLF/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;) - article on visual perception: &lt;a href=&#34;https://laurentperrinet.github.io/post/2019-06-06-theconversation/&#34;&gt;https://laurentperrinet.github.io/post/2019-06-06-theconversation/&lt;/a&gt; &lt;a href=&#34;https://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;direct link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-04-18-jnlf/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;From illusions to visual hallucinations: a door on perception&lt;/a&gt; - (&lt;a href=&#34;https://laurentperrinet.github.io/2019-04-18_JNLF/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;) - article on visual perception: &lt;a href=&#34;https://laurentperrinet.github.io/post/2019-06-06-theconversation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://laurentperrinet.github.io/post/2019-06-06-theconversation/&lt;/a&gt; &lt;a href=&#34;https://theconversation.com/illusions-et-hallucinations-visuelles-une-porte-sur-la-perception-117389&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;direct link&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://laurentperrinet.github.io/talk/2019-04-03-a-course-on-vision-and-modelization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Modelling spiking neural networks using Brian, Nest and pyNN&lt;/a&gt; - (&lt;a href=&#34;https://laurentperrinet.github.io/2019-01-14_LACONEU/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://laurentperrinet.github.io/talk/2018-03-26-cours-neuro-comp-fep/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tutorial on predictive coding&lt;/a&gt; &lt;a href=&#34;https://laurentperrinet.github.io/talk/2017-06-30-telluride/&#34;&gt;https://laurentperrinet.github.io/talk/2017-06-30-telluride/&lt;/a&gt; &lt;a href=&#34;https://laurentperrinet.github.io/sciblog/files/2017-06-30_Telluride.html&#34;&gt;https://laurentperrinet.github.io/sciblog/files/2017-06-30_Telluride.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://laurentperrinet.github.io/talk/2018-03-26-cours-neuro-comp-fep/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tutorial on predictive coding&lt;/a&gt; &lt;a href=&#34;https://laurentperrinet.github.io/talk/2017-06-30-telluride/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://laurentperrinet.github.io/talk/2017-06-30-telluride/&lt;/a&gt; &lt;a href=&#34;https://laurentperrinet.github.io/sciblog/files/2017-06-30_Telluride.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://laurentperrinet.github.io/sciblog/files/2017-06-30_Telluride.html&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
