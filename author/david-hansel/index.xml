@@ -28,7 +28,14 @@
       <link>https://CONECT-INT.github.io/slides/conect/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://CONECT-INT.github.io/slides/conect/</guid>
-      <description>&lt;h1 id=&#34;conect&#34;&gt;CoNeCt&lt;/h1&gt;
+      <description>
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/images/open-book.jpg&#34;
+  &gt;
+
+&lt;h1 id=&#34;conect&#34;&gt;CoNeCt&lt;/h1&gt;
 &lt;h2 id=&#34;the-computational-neuroscience-center--int&#34;&gt;the &lt;strong&gt;Co&lt;/strong&gt;mputational &lt;strong&gt;Ne&lt;/strong&gt;uroscience &lt;strong&gt;C&lt;/strong&gt;en&lt;strong&gt;t&lt;/strong&gt;er @ INT&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://conect-int.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://conect-int.github.io&lt;/a&gt;&lt;/p&gt;
 &lt;aside class=&#34;notes&#34;&gt;
@@ -41,39 +48,60 @@
 &lt;hr&gt;
 &lt;h2 id=&#34;a-revolution-over-the-past-decade-tremendous-technological-advances&#34;&gt;A revolution over the past decade: Tremendous technological advances:&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;two photon imaging,&lt;/li&gt;
-&lt;li&gt;large population recording-array technologies,&lt;/li&gt;
-&lt;li&gt;optogenetic circuit control tools,&lt;/li&gt;
-&lt;li&gt;transgenic manipulations as well as&lt;/li&gt;
+&lt;li&gt;two photon imaging&lt;/li&gt;
+&lt;li&gt;large population recording-array technologies&lt;/li&gt;
+&lt;li&gt;optogenetic circuit control tools&lt;/li&gt;
+&lt;li&gt;transgenic manipulations&lt;/li&gt;
 &lt;li&gt;large volume circuit reconstructions&lt;/li&gt;
 &lt;/ul&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;These experiments have begun to produce a huge amount of data, on a broad spectrum of temporal and spatial scales, providing finer and more quantitative descriptions of the biological reality than we would have been able to dream of only a decade ago.&lt;/li&gt;
+&lt;li&gt;These experiments have begun to produce a huge amount of data, on a broad spectrum of temporal and spatial scales,&lt;/li&gt;
+&lt;li&gt;providing finer and more quantitative descriptions of the biological reality than we would have been able to dream of only a decade ago.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;a-transdisciplinary-revolution&#34;&gt;A transdisciplinary revolution&lt;/h2&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;across several disciplines (physics, biology, robotics, psychiatry)&lt;/li&gt;
-&lt;li&gt;and multiple scales&lt;/li&gt;
-&lt;li&gt;new frontiers and&lt;/li&gt;
+&lt;li&gt;and multiple scales (from short to long-term, from micro to macro, from theory to biology)&lt;/li&gt;
+&lt;li&gt;new frontiers and &lt;span class=&#34;fragment &#34; &gt;
+&amp;hellip;new challenges
+&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-&lt;ul&gt;
-&lt;li&gt;&amp;hellip;new challenges&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/span&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
-&lt;li&gt;The daunting complexity of the biological reality revealed by these technologies highlights the importance of neurophysics to provide a conceptual bridge between abstract principles of brain function and their biological implementations within neural circuits. This revolution is accompanied by a parallel revolution in the domain of Artificial Intelligence. An exponential number of algorithms in sensory processing, such as image classification, or reinforcement learning have realized practical tools which have replaced the classical tools we were using on a daily basis by a novel range of intelligent tools of a new generation. &lt;strong&gt;This is the context in which we are creating CONECT.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;daunting complexity of the biological reality revealed by these technologies highlights the importance of neurophysics&lt;/li&gt;
+&lt;li&gt;to provide a conceptual bridge between abstract principles of brain function and their biological implementations within neural circuits.&lt;/li&gt;
+&lt;li&gt;This revolution is accompanied by a parallel revolution in the domain of Artificial Intelligence. An exponential number of algorithms in sensory processing, such as image classification, or reinforcement learning have realized practical tools which have replaced the classical tools we were using on a daily basis by a novel range of intelligent tools of a new generation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;This is the context in which we are creating CONECT.&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;actions&#34;&gt;Actions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;across several disciplines (physics, biology, robotics, psychiatry)&lt;/li&gt;
+&lt;li&gt;and multiple scales (from short to long-term, from micro to macro, from theory to biology)&lt;/li&gt;
+&lt;li&gt;new frontiers and &lt;span class=&#34;fragment &#34; &gt;
+&amp;hellip;new challenges
+&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;daunting complexity of the biological reality revealed by these technologies highlights the importance of neurophysics&lt;/li&gt;
+&lt;li&gt;to provide a conceptual bridge between abstract principles of brain function and their biological implementations within neural circuits.&lt;/li&gt;
+&lt;li&gt;This revolution is accompanied by a parallel revolution in the domain of Artificial Intelligence. An exponential number of algorithms in sensory processing, such as image classification, or reinforcement learning have realized practical tools which have replaced the classical tools we were using on a daily basis by a novel range of intelligent tools of a new generation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;This is the context in which we are creating CONECT.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://conect-int.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://conect-int.github.io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto://int-conect@univ-amu.fr&#34;&gt;Contact us!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://framateam.org/int-marseille/channels/conect&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Discuss&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
 &lt;ul&gt;
@@ -181,10 +209,6 @@ Three
   color: navy;
 }
 &lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
