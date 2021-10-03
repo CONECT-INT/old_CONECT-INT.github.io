@@ -81,6 +81,8 @@ but distinct
 &lt;p&gt;This approach is therefore complementary but distinct in its purpose from neuroinformatics (creation of tools for analyzing neuroscientific data) or artificial intelligence (creation of algorithms inspired by the functioning of the brain). The field of computational neuroscience is still young but its community is now structured in an autonomous community with strong interaction with the other branches of neuroscience. It is this autonomy that we want to foster at INT.
 &lt;/aside&gt;
 &lt;hr&gt;
+&lt;h2 id=&#34;actors-of-conect&#34;&gt;Actors of CoNeCt&lt;/h2&gt;
+&lt;hr&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://conect-int.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://conect-int.github.io&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;mailto://int-conect@univ-amu.fr&#34;&gt;Contact us @ int-conect@univ-amu.fr!&lt;/a&gt;&lt;/p&gt;
@@ -102,6 +104,10 @@ but distinct
 &lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
 &lt;li&gt;Supports speaker notes&lt;/li&gt;
 &lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;list-checkboxes&#34;&gt;list checkboxes&lt;/h2&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example
 &lt;ul&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;

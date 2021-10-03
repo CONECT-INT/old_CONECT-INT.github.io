@@ -5,12 +5,54 @@
     <link>https://CONECT-INT.github.io/</link>
       <atom:link href="https://CONECT-INT.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>CONECT | Computational Neuroscience Center @ INT</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The [CONECT group](https://conect-int.github.io/people/)</copyright><lastBuildDate>Thu, 17 Jun 2021 14:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The [CONECT group](https://conect-int.github.io/people/)</copyright><lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://CONECT-INT.github.io/images/icon_hu7e281b73228ab43411ccffce0f285528_35679_512x512_fill_lanczos_center_3.png</url>
       <title>CONECT | Computational Neuroscience Center @ INT</title>
       <link>https://CONECT-INT.github.io/</link>
     </image>
+    
+    <item>
+      <title>Objectives of CONECT</title>
+      <link>https://CONECT-INT.github.io/post/objectives-conect/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://CONECT-INT.github.io/post/objectives-conect/</guid>
+      <description>&lt;p&gt;Neuroscience is in revolution: Over the past decade, tremendous technological advances across several disciplines have dramatically expanded the frontiers of experimentally accessible neuroscientific facts.&lt;/p&gt;
+&lt;p&gt;Bridging across different spatial and temporal scales, combination of in vivo two photon imaging, large population recording-array technologies, optogenetic circuit control tools, transgenic manipulations as well as large volume circuit reconstructions are now used to examine the function, structure and dynamics of neural networks on an unprecedented level of detail and precision. Current applications of these novel techniques include sensory information processing, motor production, neural correlates of learning, memory and decision making as well as mechanisms of dysfunctions and disease. These experiments have begun to produce a huge amount of data, on a broad spectrum of temporal and spatial scales, providing finer and more quantitative descriptions of the biological reality than we would have been able to dream of only a decade ago. The daunting complexity of the biological reality revealed by these technologies highlights the importance of neurophysics to provide a conceptual bridge between abstract principles of brain function and their biological implementations within neural circuits. This revolution is accompanied by a parallel revolution in the domain of Artificial Intelligence. An exponential number of algorithms in sensory processing, such as image classification, or reinforcement learning have realized practical tools which have replaced the classical tools we were using on a daily basis by a novel range of intelligent tools of a new generation. &lt;strong&gt;This is the context in which we are creating CONECT.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are convinced that close collaboration between experimentalists and theoreticians in neuroscience is essential to develop mechanistic as well as quantitative understandings of how the brain performs its functions. This is in fact a primary motivating force in establishing this center. However, for such collaborations to be effective, experimentalists must be well aware of the approaches and challenges in modeling while theoreticians must be well acquainted with the experimental techniques, their power and the challenges they present. CoNeCt has also the ambition to contribute to the training of a new generation of neuroscientists who will have all these qualities.&lt;/p&gt;
+&lt;p&gt;This approach is therefore complementary but distinct in its purpose from neuroinformatics (creation of tools for analyzing neuroscientific data) or artificial intelligence (creation of algorithms inspired by the functioning of the brain). The field of computational neuroscience is still young but its community is now structured in an autonomous community with strong interaction with the other branches of neuroscience. It is this autonomy that we want to foster at INT.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Actors of CONECT</title>
+      <link>https://CONECT-INT.github.io/post/actors-conect/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://CONECT-INT.github.io/post/actors-conect/</guid>
+      <description>&lt;p&gt;Within INT, many components of CONECT already exist, either carried by researchers in computational neurosciences or as themes strongly anchored in this field. A survey of the current situation reveals the existence of projects at different scales.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;from the cellular to the network level
+&lt;ul&gt;
+&lt;li&gt;deciphering the biophysical principles underlying robustness of neuronal activity using quantitative genotype-to-phenotype mapping strategies and realistic neuronal model databases (Jean-Marc &lt;strong&gt;Goaillard&lt;/strong&gt; and Fabien Tell).&lt;/li&gt;
+&lt;li&gt;dynamics and function of small and large-scale neural networks (Laurent &lt;strong&gt;Perrinet&lt;/strong&gt; with Frédéric Chavane, &lt;em&gt;David Hansel, Carl van Vreeswijk&lt;/em&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;from networks to mesoscopic levels :
+&lt;ul&gt;
+&lt;li&gt;Bayesian inference and predictive process models (Anna &lt;strong&gt;Montagnini&lt;/strong&gt;, Emmanuel Daucé and Laurent Perrinet), reinforcement learning, action selection, decision (Andrea Brovelli and Emmanuel Daucé), link with attentional mechanisms (Guilhem Ibos)&lt;/li&gt;
+&lt;li&gt;information theory and functional connectivity for the analysis of cognitive brain networks (Andrea &lt;strong&gt;Brovelli&lt;/strong&gt; and Bruno Giordano)&lt;/li&gt;
+&lt;li&gt;deep learning for data processing &lt;del&gt;in acoustics and semantics&lt;/del&gt; (Bruno &lt;strong&gt;Giordano&lt;/strong&gt;), deep learning + neuroimaging (&lt;em&gt;in voice perception&lt;/em&gt;) (Charly Lamothe) computational neuroscience and data processing in neuroinformatics (S Takerkart, NIT platform)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;at brain level
+&lt;ul&gt;
+&lt;li&gt;brain anatomy, particularly as applied to the formation of cortical folding (Julien Lefèvre with Guillaume Auzias, Sylvain Takerkart and Olivier &lt;strong&gt;Coulon&lt;/strong&gt;),&lt;/li&gt;
+&lt;li&gt;the development of prognostic models of the evolution of certain pathologies (Lionel Velly, Sylvain &lt;strong&gt;Takerkart&lt;/strong&gt;),&lt;/li&gt;
+&lt;li&gt;develop the collaboration of theoretical neurosciences with neuroinformatics, notably with the &lt;a href=&#34;http://www.int.univ-amu.fr/spip.php?page=plateform&amp;amp;equipe=CRISE&amp;amp;lang=fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIT&lt;/a&gt; (Sylvain &lt;strong&gt;Takerkart&lt;/strong&gt;, Guillaume Auzias)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A structuring of these different components through a center (independent of existing and future teams) would be a major asset to reach a new stage in the creation of INT³.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>2021-06-17: CONECT meeting #3</title>
@@ -173,7 +215,7 @@
     </item>
     
     <item>
-      <title>Objectives of CONECT</title>
+      <title>Why CONECT?</title>
       <link>https://CONECT-INT.github.io/post/about-conect/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://CONECT-INT.github.io/post/about-conect/</guid>
@@ -285,6 +327,8 @@ but distinct
 &lt;p&gt;This approach is therefore complementary but distinct in its purpose from neuroinformatics (creation of tools for analyzing neuroscientific data) or artificial intelligence (creation of algorithms inspired by the functioning of the brain). The field of computational neuroscience is still young but its community is now structured in an autonomous community with strong interaction with the other branches of neuroscience. It is this autonomy that we want to foster at INT.
 &lt;/aside&gt;
 &lt;hr&gt;
+&lt;h2 id=&#34;actors-of-conect&#34;&gt;Actors of CoNeCt&lt;/h2&gt;
+&lt;hr&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://conect-int.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://conect-int.github.io&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;mailto://int-conect@univ-amu.fr&#34;&gt;Contact us @ int-conect@univ-amu.fr!&lt;/a&gt;&lt;/p&gt;
@@ -306,6 +350,10 @@ but distinct
 &lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
 &lt;li&gt;Supports speaker notes&lt;/li&gt;
 &lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;list-checkboxes&#34;&gt;list checkboxes&lt;/h2&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example
 &lt;ul&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;

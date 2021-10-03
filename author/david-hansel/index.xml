@@ -14,6 +14,17 @@
     
     <item>
       <title>Objectives of CONECT</title>
+      <link>https://CONECT-INT.github.io/post/objectives-conect/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://CONECT-INT.github.io/post/objectives-conect/</guid>
+      <description>&lt;p&gt;Neuroscience is in revolution: Over the past decade, tremendous technological advances across several disciplines have dramatically expanded the frontiers of experimentally accessible neuroscientific facts.&lt;/p&gt;
+&lt;p&gt;Bridging across different spatial and temporal scales, combination of in vivo two photon imaging, large population recording-array technologies, optogenetic circuit control tools, transgenic manipulations as well as large volume circuit reconstructions are now used to examine the function, structure and dynamics of neural networks on an unprecedented level of detail and precision. Current applications of these novel techniques include sensory information processing, motor production, neural correlates of learning, memory and decision making as well as mechanisms of dysfunctions and disease. These experiments have begun to produce a huge amount of data, on a broad spectrum of temporal and spatial scales, providing finer and more quantitative descriptions of the biological reality than we would have been able to dream of only a decade ago. The daunting complexity of the biological reality revealed by these technologies highlights the importance of neurophysics to provide a conceptual bridge between abstract principles of brain function and their biological implementations within neural circuits. This revolution is accompanied by a parallel revolution in the domain of Artificial Intelligence. An exponential number of algorithms in sensory processing, such as image classification, or reinforcement learning have realized practical tools which have replaced the classical tools we were using on a daily basis by a novel range of intelligent tools of a new generation. &lt;strong&gt;This is the context in which we are creating CONECT.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are convinced that close collaboration between experimentalists and theoreticians in neuroscience is essential to develop mechanistic as well as quantitative understandings of how the brain performs its functions. This is in fact a primary motivating force in establishing this center. However, for such collaborations to be effective, experimentalists must be well aware of the approaches and challenges in modeling while theoreticians must be well acquainted with the experimental techniques, their power and the challenges they present. CoNeCt has also the ambition to contribute to the training of a new generation of neuroscientists who will have all these qualities.&lt;/p&gt;
+&lt;p&gt;This approach is therefore complementary but distinct in its purpose from neuroinformatics (creation of tools for analyzing neuroscientific data) or artificial intelligence (creation of algorithms inspired by the functioning of the brain). The field of computational neuroscience is still young but its community is now structured in an autonomous community with strong interaction with the other branches of neuroscience. It is this autonomy that we want to foster at INT.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Why CONECT?</title>
       <link>https://CONECT-INT.github.io/post/about-conect/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://CONECT-INT.github.io/post/about-conect/</guid>
@@ -97,6 +108,8 @@ but distinct
 &lt;/ul&gt;
 &lt;p&gt;This approach is therefore complementary but distinct in its purpose from neuroinformatics (creation of tools for analyzing neuroscientific data) or artificial intelligence (creation of algorithms inspired by the functioning of the brain). The field of computational neuroscience is still young but its community is now structured in an autonomous community with strong interaction with the other branches of neuroscience. It is this autonomy that we want to foster at INT.
 &lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;actors-of-conect&#34;&gt;Actors of CoNeCt&lt;/h2&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://conect-int.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://conect-int.github.io&lt;/a&gt;&lt;/p&gt;
