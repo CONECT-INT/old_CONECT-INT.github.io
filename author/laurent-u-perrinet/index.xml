@@ -49,7 +49,7 @@
 &lt;section data-noprocess data-shortcode-slide
   
       
-      data-background-image=&#34;/images/open-book.jpg&#34;
+      data-background-image=&#34;/media/open-book.jpg&#34;
   &gt;
 
 &lt;h1 id=&#34;conect&#34;&gt;CoNeCt&lt;/h1&gt;
@@ -117,9 +117,8 @@ but distinct
 &lt;hr&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://conect-int.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://conect-int.github.io&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;mailto://int-conect@univ-amu.fr&#34;&gt;Contact us!&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://framateam.org/int-marseille/channels/conect&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Discuss&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;mailto://int-conect@univ-amu.fr&#34;&gt;Contact us @ int-conect@univ-amu.fr!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://framateam.org/int-marseille/channels/conect&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Let&amp;rsquo;s discuss on Mattermost&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
