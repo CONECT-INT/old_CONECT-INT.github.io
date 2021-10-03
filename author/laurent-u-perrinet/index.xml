@@ -48,13 +48,14 @@
       <description>&lt;h1 id=&#34;conect&#34;&gt;CoNeCt&lt;/h1&gt;
 &lt;h2 id=&#34;the-computational-neuroscience-center--int&#34;&gt;the &lt;strong&gt;Co&lt;/strong&gt;mputational &lt;strong&gt;Ne&lt;/strong&gt;uroscience &lt;strong&gt;C&lt;/strong&gt;en&lt;strong&gt;t&lt;/strong&gt;er @ INT&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://conect-int.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://conect-int.github.io&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;hahahugoshortcode-s0-hbhb&#34;&gt;&lt;aside class=&#34;notes&#34;&gt;
+&lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;CONECT with one N&lt;/li&gt;
 &lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;/aside&gt;&lt;/h2&gt;
+&lt;/aside&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;a-revolution-over-the-past-decade-tremendous-technological-advances&#34;&gt;A revolution over the past decade: Tremendous technological advances:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;two photon imaging,&lt;/li&gt;
@@ -66,7 +67,7 @@
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;li&gt;These experiments have begun to produce a huge amount of data, on a broad spectrum of temporal and spatial scales, providing finer and more quantitative descriptions of the biological reality than we would have been able to dream of only a decade ago.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;/aside&gt;
@@ -74,7 +75,7 @@
 &lt;h2 id=&#34;a-transdisciplinary-revolution&#34;&gt;A transdisciplinary revolution&lt;/h2&gt;
 &lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;across several disciplines (physics, biology psychiatry)&lt;/li&gt;
+&lt;li&gt;across several disciplines (physics, biology, robotics, psychiatry)&lt;/li&gt;
 &lt;li&gt;and multiple scales&lt;/li&gt;
 &lt;li&gt;new frontiers and&lt;/li&gt;
 &lt;/ul&gt;
@@ -84,6 +85,12 @@
 &lt;li&gt;&amp;hellip;new challenges&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/span&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;The daunting complexity of the biological reality revealed by these technologies highlights the importance of neurophysics to provide a conceptual bridge between abstract principles of brain function and their biological implementations within neural circuits. This revolution is accompanied by a parallel revolution in the domain of Artificial Intelligence. An exponential number of algorithms in sensory processing, such as image classification, or reinforcement learning have realized practical tools which have replaced the classical tools we were using on a daily basis by a novel range of intelligent tools of a new generation. &lt;strong&gt;This is the context in which we are creating CONECT.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
 &lt;ul&gt;
