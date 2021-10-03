@@ -5,7 +5,7 @@
     <link>https://CONECT-INT.github.io/post/</link>
       <atom:link href="https://CONECT-INT.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>About CONECT</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The [CONECT group](https://conect-int.github.io/people/)</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The [CONECT group](https://conect-int.github.io/people/)</copyright><lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://CONECT-INT.github.io/images/icon_hu7e281b73228ab43411ccffce0f285528_35679_512x512_fill_lanczos_center_3.png</url>
       <title>About CONECT</title>
@@ -62,7 +62,86 @@
       <link>https://CONECT-INT.github.io/post/objectives-conect/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://CONECT-INT.github.io/post/objectives-conect/</guid>
-      <description>&lt;h1 id=&#34;objectives-and-actions&#34;&gt;Objectives and actions&lt;/h1&gt;</description>
+      <description>&lt;p&gt;CONECT aims to serve as an incubator within INT to promote the use of methodologies developed in computational and theoretical neuroscience. It is not a service platform, but a catalyst for the creation and maturation of new multi-approach projects within INT.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;to &lt;strong&gt;create a space for scientific discussion and animation&lt;/strong&gt; :
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Journal Clubs&lt;/strong&gt; dedicated to transversal aspects guided by advances in computational neurosciences, and occasionally a &amp;ldquo;BrainHack&amp;rdquo; to lift locks on the use of tools and means implemented at INT or on AMU (mesocentre), should explicitly state specialization levels (from &amp;ldquo;safe&amp;rdquo; for persons not directly in the field to more specialized levels).
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Data club / Theory club&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;identify and propose &lt;strong&gt;INT seminars&lt;/strong&gt; in computational neurosciences&lt;/li&gt;
+&lt;li&gt;organization of &lt;strong&gt;debates&lt;/strong&gt; on theoretical aspects related to neuroscience&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;communicate&lt;/strong&gt;: youtube (on the model of &lt;em&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCCSIveazurb4qrNIV7KV9fg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WWTNS&lt;/a&gt;&lt;/em&gt;), twitter, facebook, share our own publications&lt;/li&gt;
+&lt;li&gt;create &lt;strong&gt;social moments&lt;/strong&gt;: breakfasts, happy hours, retreat, pizza day,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;general public&lt;/strong&gt; : semaine du cerveau, the conversation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;train students and staff&lt;/strong&gt; and attract young researchers:
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Master level:
+&lt;ul&gt;
+&lt;li&gt;create a space for sharing Master&amp;rsquo;s or thesis subjects to be distributed in the SdV doctoral schools but also to the &amp;ldquo;hard&amp;rdquo; sciences (ED info, engineering schools),
+&lt;ul&gt;
+&lt;li&gt;In addition to training in neurosciences, we could try to build on&lt;/li&gt;
+&lt;li&gt;the Master Computational and Mathematical Biology (CMB, in connection with the CenTuri Institute) where there are courses in computational neurosciences (Laurent Pezard) and mathematical modeling for biology, in the broadest sense.&lt;/li&gt;
+&lt;li&gt;JL is involved in a business UE and next year in a programming UE. Some courses of the Master in Cognitive Sciences of the ILCB could also be interesting (NAMES of the speakers on AI?).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; secure two scholarships for Master 2 students for 2021/2022,
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; valider en réunion CE (&lt;strong&gt;Frédéric Chavane&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; call for proposal - receive candidatures (09/2021 - 12/2021)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; start (01/2022)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;PhDs and above:
+&lt;ul&gt;
+&lt;li&gt;The aim of this program is to help post-doctoral students to set up post-doctoral fellowships or to help them apply for jobs related to computational neurosciences (IR, CR, MdC, private sector, &amp;hellip;) ;&lt;/li&gt;
+&lt;li&gt;courses ? training (theoretical) - see that of PhDprogram&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;What can be done @ INT (open to all staff) vs @ Timone (with INS, eBrains&amp;hellip;) vs @ NeuroSchool (course for master &amp;amp; PhD program) vs @ Instituts (IA&amp;amp;Santé, Marseille Imaging, NeuroMarseille)&lt;/li&gt;
+&lt;li&gt;What to train on ?
+&lt;ul&gt;
+&lt;li&gt;Theory &amp;amp; modeling : for better understanding by all and stimulating interactions&lt;/li&gt;
+&lt;li&gt;Data analysis : to help experimentalists to use advanced analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;structuring the network&lt;/strong&gt; of computational neurosciences at INT, on Timone, on AMU and in France &amp;amp; International:
+&lt;ul&gt;
+&lt;li&gt;SAB début 2022 - HCERES Juin 2022
+&lt;ul&gt;
+&lt;li&gt;SWOT&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;participate in the development of INT³ Projects by actively participating in the development of requests for means (ANR, Carnot Institute, foundations),
+&lt;ul&gt;
+&lt;li&gt;Projects in general, in particular the &amp;lsquo;Transient&amp;rsquo; Project&lt;/li&gt;
+&lt;li&gt;cooperate in writing grants specific to computational neuroscience for actors of CONECT (CRCNS, &amp;hellip;) and related to CONECT (eBrains, PEPR Neurosciences computationnelles, &amp;hellip;)&lt;/li&gt;
+&lt;li&gt;coordinate activities with local partners (INS, INMED &amp;hellip;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;to elaborate a development strategy involving academic partners (bio-robotics, neurology, cognitive development, &amp;hellip;) and private partners (start-ups, new information technology sector, &amp;hellip;)
+&lt;ul&gt;
+&lt;li&gt;opening to Marseille and outside (Destexhe)&lt;/li&gt;
+&lt;li&gt;International&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;increase the visibility&lt;/strong&gt; and attractiveness of INT in computational neurosciences
+&lt;ul&gt;
+&lt;li&gt;communicate through a dedicated space on &lt;a href=&#34;https://conect-int.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://conect-int.github.io/&lt;/a&gt; to share CONECT&amp;rsquo;s activities, regularly updated by a newsletter,&lt;/li&gt;
+&lt;li&gt;Develop collaboration and visibility on AMU through the creation of a biannual conference at CIRM&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     
   </channel>
