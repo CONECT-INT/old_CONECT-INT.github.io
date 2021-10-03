@@ -152,54 +152,10 @@ but distinct
 
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Events: 
-
-
-
-
-
-
-  
-    
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-&lt;div class=&#34;view-list-item&#34;&gt;
-  &lt;i class=&#34;far fa-calendar-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://CONECT-INT.github.io/event/&#34; &gt;Recent &amp;amp; Upcoming Events&lt;/a&gt;
-
-  
-  &lt;div class=&#34;article-metadata&#34;&gt;
-    &lt;span&gt;
-      Jan 1, 0001 12:00 AM
-    &lt;/span&gt;
-    
-  &lt;/div&gt;
-  
-
-  
-
-  
-
-&lt;/div&gt;
-
-  
-
-&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://CONECT-INT.github.io/event&#34;&gt;Past events&lt;/a&gt; and future&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Objectives: 
+
 
 
 
@@ -231,50 +187,22 @@ but distinct
   
 
   
-  &lt;div class=&#34;btn-links&#34;&gt;
-    
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  &lt;a class=&#34;btn btn-outline-primary btn-page-header btn-sm&#34; href=&#34;https://CONECT-INT.github.io/slides/conect/&#34; target=&#34;_blank&#34;&gt;
-    Slides
-  &lt;/a&gt;
-  
-
-
-
-
-
-
-  &lt;/div&gt;
-  
 
 &lt;/div&gt;
 
   
 
-&lt;/p&gt;
+
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Actors&lt;/li&gt;
+&lt;li&gt;we already organized events within or outside INT&lt;/li&gt;
+&lt;li&gt;objectives : exist&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://conect-int.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://conect-int.github.io&lt;/a&gt;&lt;/p&gt;
