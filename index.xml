@@ -177,6 +177,28 @@
     </item>
     
     <item>
+      <title>2021-12-10 : CONECT talk - &#34;Sequence anticipation and STDP emerge from a voltage-based predictive learning rule&#34; (Matteo Saponati)</title>
+      <link>https://CONECT-INT.github.io/event/2021-12-10_seminaire-matteo-saponati/</link>
+      <pubDate>Fri, 10 Dec 2021 11:00:00 +0000</pubDate>
+      <guid>https://CONECT-INT.github.io/event/2021-12-10_seminaire-matteo-saponati/</guid>
+      <description>&lt;p&gt;During a seminar at the Institute of Neurosciences Timone in Marseille, &lt;a href=&#34;https://github.com/matteosaponati&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matteo Saponati&lt;/a&gt;, will present his recent work on &amp;ldquo;&lt;strong&gt;Sequence anticipation and STDP emerge from a voltage-based predictive learning rule&lt;/strong&gt;&amp;quot;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Intelligent behavior depends on the brain’s ability to anticipate future events. However, the learning rules that enable neurons to predict and fire ahead of sensory inputs remain largely unknown. We propose a plasticity rule based on predictive processing, where the neuron learns a low-rank model of the synaptic input dynamics in its membrane potential. Neurons thereby amplify those synapses that maximally predict other synaptic inputs based on their temporal relations, which provide a solution to an optimization problem that can be implemented at the single-neuron level using only local information. Consequently, neurons learn sequences over long timescales and shift their spikes towards the first inputs in a sequence. We show that this mechanism can explain the development of anticipatory motion signaling and recall in the visual system. Furthermore, we demonstrate that the learning rule gives rise to several experimentally observed STDP (spike-timing-dependent plasticity) mechanisms. These findings suggest prediction as a guiding principle to orchestrate learning and synaptic plasticity in single neurons.
+&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.10.31.466667v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biorxiv.org/content/10.1101/2021.10.31.466667v1&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;when: Friday 10th of December at 11am&lt;/li&gt;
+&lt;li&gt;where: Salle Laurent Vinay at the &lt;a href=&#34;https://www.int.univ-amu.fr/contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institute of Neurosciences Timone&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    PhD candidate &lt;a href=&#34;https://github.com/matteosaponati&#34;&gt;Matteo Saponati&lt;/a&gt;  is a student at &lt;a href=&#34;https://www.esi-frankfurt.de/research/vinck-lab/&#34;&gt;Ernst Strüngmann Institute (ESI) for Neuroscience - IMPRS for Neural Circuits&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>2021-06-17: CONECT meeting #3</title>
       <link>https://CONECT-INT.github.io/event/2021-06-17-conect-meeting/</link>
       <pubDate>Thu, 17 Jun 2021 14:00:00 +0000</pubDate>
