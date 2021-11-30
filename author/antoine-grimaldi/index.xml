@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antoine Grimaldi | CONECT | Computational Neuroscience Center @ INT</title>
+    <link>https://CONECT-INT.github.io/author/antoine-grimaldi/</link>
+      <atom:link href="https://CONECT-INT.github.io/author/antoine-grimaldi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antoine Grimaldi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The [CONECT group](https://conect-int.github.io/people/)</copyright>
+    <image>
+      <url>https://CONECT-INT.github.io/author/antoine-grimaldi/avatar_hu85406bb2d5f7db2dce1cab01b4e48063_27520_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Antoine Grimaldi</title>
+      <link>https://CONECT-INT.github.io/author/antoine-grimaldi/</link>
+    </image>
+    
+  </channel>
+</rss>
