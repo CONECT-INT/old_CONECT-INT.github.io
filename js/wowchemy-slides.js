@@ -1,6 +1,6 @@
 (() => {
   // ns-params:@params
-  var slides = { highlight_style: "dracula", theme: "black" };
+  var slides = { highlight_style: "github", theme: "white" };
 
   // ns-hugo:/var/folders/3p/m0g52j9j69z3gj8ktpgg1dm00000gn/T/hugo_cache/modules/filecache/modules/pkg/mod/github.com/wowchemy/wowchemy-hugo-modules/wowchemy@v0.0.0-20210209220000-aa4fe0c75726/assets/js/wowchemy-utils.js
   function fixMermaid() {
