@@ -180,8 +180,10 @@
 &lt;li&gt;
 &lt;p&gt;publicly available recordings from the motor cortex (M1/PMd) during an instructed reach-to-grasp task (&lt;a href=&#34;https://www.nature.com/articles/sdata201855&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nature.com/articles/sdata201855&lt;/a&gt;, available at the following URL in BIDS: &lt;a href=&#34;https://gin.g-node.org/sprenger/multielectrode_grasp/src/bep_animalephys&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gin.g-node.org/sprenger/multielectrode_grasp/src/bep_animalephys&lt;/a&gt;)&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v4&lt;/a&gt; : V1, gratings-like, natural stimulations : extracellular electrophy recordings in cat V1&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;methods&#34;&gt;Methods&lt;/h2&gt;
 &lt;p&gt;Data visualisation, neural decoding, principal component analysis, kinematic and geometric analyses of neural trajectories in high-dimensional space, hypothesis-testing, null distributions and statistics&lt;/p&gt;
 </description>
