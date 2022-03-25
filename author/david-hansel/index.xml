@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Hansel | CONECT | Computational Neuroscience Center @ INT</title>
-    <link>https://CONECT-INT.github.io/author/david-hansel/</link>
-      <atom:link href="https://CONECT-INT.github.io/author/david-hansel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://conect-int.github.io/author/david-hansel/</link>
+      <atom:link href="https://conect-int.github.io/author/david-hansel/index.xml" rel="self" type="application/rss+xml" />
     <description>David Hansel</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The [CONECT group](https://conect-int.github.io/people/)</copyright><lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://CONECT-INT.github.io/author/david-hansel/avatar_hu794d02c8c35f871575d5fb9fe890d34f_5395_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://conect-int.github.io/author/david-hansel/avatar_hu794d02c8c35f871575d5fb9fe890d34f_5395_270x270_fill_q75_lanczos_center.jpg</url>
       <title>David Hansel</title>
-      <link>https://CONECT-INT.github.io/author/david-hansel/</link>
+      <link>https://conect-int.github.io/author/david-hansel/</link>
     </image>
     
     <item>
       <title>Why CONECT?</title>
-      <link>https://CONECT-INT.github.io/post/about-conect/</link>
+      <link>https://conect-int.github.io/post/about-conect/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://CONECT-INT.github.io/post/about-conect/</guid>
+      <guid>https://conect-int.github.io/post/about-conect/</guid>
       <description>&lt;p&gt;Neuroscience is in revolution: Over the past decade, tremendous technological advances across several disciplines have dramatically expanded the frontiers of experimentally accessible neuroscientific facts.&lt;/p&gt;
 &lt;p&gt;Bridging across different spatial and temporal scales, combination of in vivo two photon imaging, large population recording-array technologies, optogenetic circuit control tools, transgenic manipulations as well as large volume circuit reconstructions are now used to examine the function, structure and dynamics of neural networks on an unprecedented level of detail and precision. Current applications of these novel techniques include sensory information processing, motor production, neural correlates of learning, memory and decision making as well as mechanisms of dysfunctions and disease. These experiments have begun to produce a huge amount of data, on a broad spectrum of temporal and spatial scales, providing finer and more quantitative descriptions of the biological reality than we would have been able to dream of only a decade ago. The daunting complexity of the biological reality revealed by these technologies highlights the importance of neurophysics to provide a conceptual bridge between abstract principles of brain function and their biological implementations within neural circuits. This revolution is accompanied by a parallel revolution in the domain of Artificial Intelligence. An exponential number of algorithms in sensory processing, such as image classification, or reinforcement learning have realized practical tools which have replaced the classical tools we were using on a daily basis by a novel range of intelligent tools of a new generation. This is the context in which we are creating CONECT.&lt;/p&gt;
 &lt;p&gt;We are convinced that &lt;em&gt;&lt;strong&gt;the close collaboration between experimentalists and theoreticians in neuroscience is essential to develop mechanistic as well as quantitative understandings of how the brain performs its functions&lt;/strong&gt;&lt;/em&gt;. This is in fact a primary motivating force in establishing this center. However, for such collaborations to be effective, experimentalists must be well aware of the approaches and challenges in modeling while theoreticians must be well acquainted with the experimental techniques, their power and the challenges they present. CONECT has also the ambition to contribute to the training of a new generation of neuroscientists who will have all these qualities.&lt;/p&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>Objectives of CONECT</title>
-      <link>https://CONECT-INT.github.io/post/objectives-conect/</link>
+      <link>https://conect-int.github.io/post/objectives-conect/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://CONECT-INT.github.io/post/objectives-conect/</guid>
+      <guid>https://conect-int.github.io/post/objectives-conect/</guid>
       <description>&lt;p&gt;CONECT aims to serve as an incubator within INT to promote the use of methodologies developed in computational and theoretical neuroscience. It is not a service platform, but a catalyst for the creation and maturation of new multi-approach projects within INT.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -124,9 +124,9 @@
     
     <item>
       <title>Slides</title>
-      <link>https://CONECT-INT.github.io/slides/conect/</link>
+      <link>https://conect-int.github.io/slides/conect/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://CONECT-INT.github.io/slides/conect/</guid>
+      <guid>https://conect-int.github.io/slides/conect/</guid>
       <description>
 &lt;section data-noprocess data-shortcode-slide
   
@@ -246,7 +246,7 @@ but distinct
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-newspaper pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://CONECT-INT.github.io/post/actors-conect/&#34; &gt;Actors of CONECT&lt;/a&gt;
+  &lt;a href=&#34;https://conect-int.github.io/post/actors-conect/&#34; &gt;Actors of CONECT&lt;/a&gt;
 
   
 
@@ -286,7 +286,7 @@ but distinct
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-newspaper pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://CONECT-INT.github.io/post/objectives-conect/&#34; &gt;Objectives of CONECT&lt;/a&gt;
+  &lt;a href=&#34;https://conect-int.github.io/post/objectives-conect/&#34; &gt;Objectives of CONECT&lt;/a&gt;
 
   
 
@@ -301,7 +301,7 @@ but distinct
 
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://CONECT-INT.github.io/event&#34;&gt;Past events&lt;/a&gt; and future&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://conect-int.github.io/event&#34;&gt;Past events&lt;/a&gt; and future&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://amubox.univ-amu.fr/f/867023067&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Methodology&lt;/a&gt;&lt;/p&gt;

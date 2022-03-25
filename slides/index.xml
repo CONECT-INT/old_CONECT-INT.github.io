@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slides | CONECT | Computational Neuroscience Center @ INT</title>
-    <link>https://CONECT-INT.github.io/slides/</link>
-      <atom:link href="https://CONECT-INT.github.io/slides/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://conect-int.github.io/slides/</link>
+      <atom:link href="https://conect-int.github.io/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The [CONECT group](https://conect-int.github.io/people/)</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     <item>
       <title>Slides</title>
-      <link>https://CONECT-INT.github.io/slides/conect/</link>
+      <link>https://conect-int.github.io/slides/conect/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://CONECT-INT.github.io/slides/conect/</guid>
+      <guid>https://conect-int.github.io/slides/conect/</guid>
       <description>
 &lt;section data-noprocess data-shortcode-slide
   
@@ -130,7 +130,7 @@ but distinct
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-newspaper pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://CONECT-INT.github.io/post/actors-conect/&#34; &gt;Actors of CONECT&lt;/a&gt;
+  &lt;a href=&#34;https://conect-int.github.io/post/actors-conect/&#34; &gt;Actors of CONECT&lt;/a&gt;
 
   
 
@@ -170,7 +170,7 @@ but distinct
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-newspaper pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://CONECT-INT.github.io/post/objectives-conect/&#34; &gt;Objectives of CONECT&lt;/a&gt;
+  &lt;a href=&#34;https://conect-int.github.io/post/objectives-conect/&#34; &gt;Objectives of CONECT&lt;/a&gt;
 
   
 
@@ -185,7 +185,7 @@ but distinct
 
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://CONECT-INT.github.io/event&#34;&gt;Past events&lt;/a&gt; and future&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://conect-int.github.io/event&#34;&gt;Past events&lt;/a&gt; and future&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://amubox.univ-amu.fr/f/867023067&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Methodology&lt;/a&gt;&lt;/p&gt;
@@ -209,10 +209,10 @@ but distinct
     
     <item>
       <title>Slides</title>
-      <link>https://CONECT-INT.github.io/slides/example/</link>
+      <link>https://conect-int.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://CONECT-INT.github.io/slides/example/</guid>
-      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+      <guid>https://conect-int.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;toto-creates-slides-in-markdown-with-wowchemy&#34;&gt;Toto Creates slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;

@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://CONECT-INT.github.io/sitemap.xml
+Sitemap: https://conect-int.github.io/sitemap.xml

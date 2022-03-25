@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | CONECT | Computational Neuroscience Center @ INT</title>
-    <link>https://CONECT-INT.github.io/authors/</link>
-      <atom:link href="https://CONECT-INT.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://conect-int.github.io/authors/</link>
+      <atom:link href="https://conect-int.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The [CONECT group](https://conect-int.github.io/people/)</copyright><lastBuildDate>Fri, 04 Mar 2022 14:30:00 +0000</lastBuildDate>
     <image>
-      <url>https://CONECT-INT.github.io/images/icon_hu7e281b73228ab43411ccffce0f285528_35679_512x512_fill_lanczos_center_3.png</url>
+      <url>https://conect-int.github.io/images/icon_hu7e281b73228ab43411ccffce0f285528_35679_512x512_fill_lanczos_center_3.png</url>
       <title>Authors</title>
-      <link>https://CONECT-INT.github.io/authors/</link>
+      <link>https://conect-int.github.io/authors/</link>
     </image>
     
   </channel>

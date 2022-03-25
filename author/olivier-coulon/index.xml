@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Olivier Coulon | CONECT | Computational Neuroscience Center @ INT</title>
-    <link>https://CONECT-INT.github.io/author/olivier-coulon/</link>
-      <atom:link href="https://CONECT-INT.github.io/author/olivier-coulon/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://conect-int.github.io/author/olivier-coulon/</link>
+      <atom:link href="https://conect-int.github.io/author/olivier-coulon/index.xml" rel="self" type="application/rss+xml" />
     <description>Olivier Coulon</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The [CONECT group](https://conect-int.github.io/people/)</copyright>
     <image>
-      <url>https://CONECT-INT.github.io/author/olivier-coulon/avatar_hub1d6bde7d66e52a180b2ebea5580bfed_10345_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://conect-int.github.io/author/olivier-coulon/avatar_hub1d6bde7d66e52a180b2ebea5580bfed_10345_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Olivier Coulon</title>
-      <link>https://CONECT-INT.github.io/author/olivier-coulon/</link>
+      <link>https://conect-int.github.io/author/olivier-coulon/</link>
     </image>
     
   </channel>

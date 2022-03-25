@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laurent U Perrinet | CONECT | Computational Neuroscience Center @ INT</title>
-    <link>https://CONECT-INT.github.io/author/laurent-u-perrinet/</link>
-      <atom:link href="https://CONECT-INT.github.io/author/laurent-u-perrinet/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://conect-int.github.io/author/laurent-u-perrinet/</link>
+      <atom:link href="https://conect-int.github.io/author/laurent-u-perrinet/index.xml" rel="self" type="application/rss+xml" />
     <description>Laurent U Perrinet</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The [CONECT group](https://conect-int.github.io/people/)</copyright><lastBuildDate>Fri, 04 Mar 2022 14:30:00 +0000</lastBuildDate>
     <image>
-      <url>https://CONECT-INT.github.io/author/laurent-u-perrinet/avatar_hu34ad5b8db880542c60288aed1996fc62_245755_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://conect-int.github.io/author/laurent-u-perrinet/avatar_hu34ad5b8db880542c60288aed1996fc62_245755_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Laurent U Perrinet</title>
-      <link>https://CONECT-INT.github.io/author/laurent-u-perrinet/</link>
+      <link>https://conect-int.github.io/author/laurent-u-perrinet/</link>
     </image>
     
     <item>
       <title>Why CONECT?</title>
-      <link>https://CONECT-INT.github.io/post/about-conect/</link>
+      <link>https://conect-int.github.io/post/about-conect/</link>
       <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://CONECT-INT.github.io/post/about-conect/</guid>
+      <guid>https://conect-int.github.io/post/about-conect/</guid>
       <description>&lt;p&gt;Neuroscience is in revolution: Over the past decade, tremendous technological advances across several disciplines have dramatically expanded the frontiers of experimentally accessible neuroscientific facts.&lt;/p&gt;
 &lt;p&gt;Bridging across different spatial and temporal scales, combination of in vivo two photon imaging, large population recording-array technologies, optogenetic circuit control tools, transgenic manipulations as well as large volume circuit reconstructions are now used to examine the function, structure and dynamics of neural networks on an unprecedented level of detail and precision. Current applications of these novel techniques include sensory information processing, motor production, neural correlates of learning, memory and decision making as well as mechanisms of dysfunctions and disease. These experiments have begun to produce a huge amount of data, on a broad spectrum of temporal and spatial scales, providing finer and more quantitative descriptions of the biological reality than we would have been able to dream of only a decade ago. The daunting complexity of the biological reality revealed by these technologies highlights the importance of neurophysics to provide a conceptual bridge between abstract principles of brain function and their biological implementations within neural circuits. This revolution is accompanied by a parallel revolution in the domain of Artificial Intelligence. An exponential number of algorithms in sensory processing, such as image classification, or reinforcement learning have realized practical tools which have replaced the classical tools we were using on a daily basis by a novel range of intelligent tools of a new generation. This is the context in which we are creating CONECT.&lt;/p&gt;
 &lt;p&gt;We are convinced that &lt;em&gt;&lt;strong&gt;the close collaboration between experimentalists and theoreticians in neuroscience is essential to develop mechanistic as well as quantitative understandings of how the brain performs its functions&lt;/strong&gt;&lt;/em&gt;. This is in fact a primary motivating force in establishing this center. However, for such collaborations to be effective, experimentalists must be well aware of the approaches and challenges in modeling while theoreticians must be well acquainted with the experimental techniques, their power and the challenges they present. CONECT has also the ambition to contribute to the training of a new generation of neuroscientists who will have all these qualities.&lt;/p&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>Objectives of CONECT</title>
-      <link>https://CONECT-INT.github.io/post/objectives-conect/</link>
+      <link>https://conect-int.github.io/post/objectives-conect/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://CONECT-INT.github.io/post/objectives-conect/</guid>
+      <guid>https://conect-int.github.io/post/objectives-conect/</guid>
       <description>&lt;p&gt;CONECT aims to serve as an incubator within INT to promote the use of methodologies developed in computational and theoretical neuroscience. It is not a service platform, but a catalyst for the creation and maturation of new multi-approach projects within INT.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -124,9 +124,9 @@
     
     <item>
       <title>2022-03-04 : INT Seminar - &#34;Unifying Different Psychometric Methods : Theory and Experiment&#34; (Jonathan Vacher)</title>
-      <link>https://CONECT-INT.github.io/event/2022-03-04_seminaire-jonathan-vacher/</link>
+      <link>https://conect-int.github.io/event/2022-03-04_seminaire-jonathan-vacher/</link>
       <pubDate>Fri, 04 Mar 2022 14:30:00 +0000</pubDate>
-      <guid>https://CONECT-INT.github.io/event/2022-03-04_seminaire-jonathan-vacher/</guid>
+      <guid>https://conect-int.github.io/event/2022-03-04_seminaire-jonathan-vacher/</guid>
       <description>&lt;p&gt;During a seminar at the Institute of Neurosciences Timone in Marseille, &lt;a href=&#34;https://jonathanvacher.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jonathan Vacher&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Unifying Different Psychometric Methods : Theory and Experiment&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The two-alternative forced choice (2AFC) paradigm is one of the main methods used to measure perceptual thresholds and biases. Measurements from a 2AFC experiment can be modelled using signal detection theory (SDT) from which the psychometric function can be derived theoretically. Recent efforts to combine SDT with Bayesian probabilities has linked thresholds and biases to hypothesized prior knowledge and optimal encoding/decoding [1]. From another perspective, the maximum likelihood difference scaling (MLDS) paradigm is a more recent method that allows the experimenter to estimate a perceptual scale that links a physical property to a psychological dimension [2]. Such a perceptual scale is obtained from the comparison of relative differences between pairs of stimuli. Here again, the underlying model can be understood in terms of SDT and Bayesian probabilities. However, no comparison between MLDS and 2AFC measurements has been performed yet. Here, we introduce the theory that unifies those measurements and we present some preliminary experimental results. In this context, we further explore how MLDS measurements could help to understand the perception of more complex textures generated from the statistic of deep neural network features [3].&lt;/p&gt;
@@ -144,9 +144,9 @@
     
     <item>
       <title>2022-03-04 : CONECT Seminar - &#34;Explainable AI for computational auditory neurosciences&#34; (Etienne Thoret)</title>
-      <link>https://CONECT-INT.github.io/event/2022-02-24_seminaire-etienne-thoret/</link>
+      <link>https://conect-int.github.io/event/2022-02-24_seminaire-etienne-thoret/</link>
       <pubDate>Thu, 24 Feb 2022 14:00:00 +0000</pubDate>
-      <guid>https://CONECT-INT.github.io/event/2022-02-24_seminaire-etienne-thoret/</guid>
+      <guid>https://conect-int.github.io/event/2022-02-24_seminaire-etienne-thoret/</guid>
       <description>&lt;p&gt;Etienne Thoret (ILCB/PRISM/LIS/AMU) kindly accepted to present his research project during our novel series of CONECT-core © seminars (=seminars open to all but focused on the core theoretical scientific questions of the CONECT members):&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Explainable AI for computational auditory neurosciences&lt;/strong&gt;&lt;/p&gt;
@@ -159,9 +159,9 @@
     
     <item>
       <title>2021-12-10 : CONECT talk - &#34;Sequence anticipation and STDP emerge from a voltage-based predictive learning rule&#34; (Matteo Saponati)</title>
-      <link>https://CONECT-INT.github.io/event/2021-12-10_seminaire-matteo-saponati/</link>
+      <link>https://conect-int.github.io/event/2021-12-10_seminaire-matteo-saponati/</link>
       <pubDate>Fri, 10 Dec 2021 11:00:00 +0000</pubDate>
-      <guid>https://CONECT-INT.github.io/event/2021-12-10_seminaire-matteo-saponati/</guid>
+      <guid>https://conect-int.github.io/event/2021-12-10_seminaire-matteo-saponati/</guid>
       <description>&lt;p&gt;During a seminar at the Institute of Neurosciences Timone in Marseille, &lt;a href=&#34;https://github.com/matteosaponati&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matteo Saponati&lt;/a&gt;, will present his recent work showing that &amp;ldquo;&lt;strong&gt;Sequence anticipation and STDP emerge from a voltage-based predictive learning rule&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Intelligent behavior depends on the brain’s ability to anticipate future events. However, the learning rules that enable neurons to predict and fire ahead of sensory inputs remain largely unknown. We propose a plasticity rule based on predictive processing, where the neuron learns a low-rank model of the synaptic input dynamics in its membrane potential. Neurons thereby amplify those synapses that maximally predict other synaptic inputs based on their temporal relations, which provide a solution to an optimization problem that can be implemented at the single-neuron level using only local information. Consequently, neurons learn sequences over long timescales and shift their spikes towards the first inputs in a sequence. We show that this mechanism can explain the development of anticipatory motion signaling and recall in the visual system. Furthermore, we demonstrate that the learning rule gives rise to several experimentally observed STDP (spike-timing-dependent plasticity) mechanisms. These findings suggest prediction as a guiding principle to orchestrate learning and synaptic plasticity in single neurons.
@@ -181,9 +181,9 @@
     
     <item>
       <title>2020-09-11 : CONECT talk - &#34;Feedforward and feedback processes in visual recognition&#34; (T Serre)</title>
-      <link>https://CONECT-INT.github.io/event/2020-09-11_seminaire-thomas-serre/</link>
+      <link>https://conect-int.github.io/event/2020-09-11_seminaire-thomas-serre/</link>
       <pubDate>Fri, 11 Sep 2020 14:00:00 +0000</pubDate>
-      <guid>https://CONECT-INT.github.io/event/2020-09-11_seminaire-thomas-serre/</guid>
+      <guid>https://conect-int.github.io/event/2020-09-11_seminaire-thomas-serre/</guid>
       <description>&lt;p&gt;During a seminar at the Institute of Neurosciences Timone in Marseille, &lt;a href=&#34;http://serre-lab.clps.brown.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thomas Serre&lt;/a&gt; will present his recent work on &amp;ldquo;Feedforward and feedback processes in visual recognition&amp;rdquo;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Progress in deep learning has spawned great successes in many engineering applications. As a prime example, convolutional neural networks, a type of feedforward neural networks, are now approaching – and sometimes even surpassing – human accuracy on a variety of visual recognition tasks. In this talk, however, I will show that these neural networks and their recent extensions exhibit a limited ability to solve seemingly simple visual reasoning problems involving incremental grouping, similarity, and spatial relation judgments. Our group has developed a recurrent network model of classical and extra-classical receptive fields that is constrained by the anatomy and physiology of the visual cortex. The model was shown to account for diverse visual illusions providing computational evidence for a novel canonical circuit that is shared across visual modalities. I will show that this computational neuroscience model can be turned into a modern end-to-end trainable deep recurrent network architecture that addresses some of the shortcomings exhibited by state-of-the-art feedforward networks for solving complex visual reasoning tasks. This suggests that neuroscience may contribute powerful new ideas and approaches to computer science and artificial intelligence.&lt;/p&gt;
@@ -198,9 +198,9 @@
     
     <item>
       <title>Slides</title>
-      <link>https://CONECT-INT.github.io/slides/conect/</link>
+      <link>https://conect-int.github.io/slides/conect/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://CONECT-INT.github.io/slides/conect/</guid>
+      <guid>https://conect-int.github.io/slides/conect/</guid>
       <description>
 &lt;section data-noprocess data-shortcode-slide
   
@@ -320,7 +320,7 @@ but distinct
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-newspaper pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://CONECT-INT.github.io/post/actors-conect/&#34; &gt;Actors of CONECT&lt;/a&gt;
+  &lt;a href=&#34;https://conect-int.github.io/post/actors-conect/&#34; &gt;Actors of CONECT&lt;/a&gt;
 
   
 
@@ -360,7 +360,7 @@ but distinct
 
 &lt;div class=&#34;view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-newspaper pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-  &lt;a href=&#34;https://CONECT-INT.github.io/post/objectives-conect/&#34; &gt;Objectives of CONECT&lt;/a&gt;
+  &lt;a href=&#34;https://conect-int.github.io/post/objectives-conect/&#34; &gt;Objectives of CONECT&lt;/a&gt;
 
   
 
@@ -375,7 +375,7 @@ but distinct
 
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://CONECT-INT.github.io/event&#34;&gt;Past events&lt;/a&gt; and future&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://conect-int.github.io/event&#34;&gt;Past events&lt;/a&gt; and future&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://amubox.univ-amu.fr/f/867023067&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Methodology&lt;/a&gt;&lt;/p&gt;
