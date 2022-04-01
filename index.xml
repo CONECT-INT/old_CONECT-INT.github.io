@@ -164,7 +164,7 @@
       <description>&lt;h1 id=&#34;title-neural-computation-through-population-dynamics&#34;&gt;Title: Neural computation through population dynamics&lt;/h1&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Program in construction - you can already &lt;a href=&#34;https://centuri-livingsystems.org/hackathon-2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;register to the hackathon&lt;/a&gt;!
+    Program in construction - you can already &lt;a href=&#34;https://centuri-livingsystems.org/hackathon-2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;register to the hackathon&lt;/a&gt; (June 24 - 26, 2022) and check the program of the &lt;a href=&#34;https://centuri-livingsystems.org/centuri-summer-school-2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;summer school&lt;/a&gt; (June 20 - July 01, 2022)!
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;h2 id=&#34;question&#34;&gt;Question&lt;/h2&gt;
@@ -194,6 +194,23 @@
 &lt;li&gt;YYY&lt;/li&gt;
 &lt;li&gt;ZZZ&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2022-05-12 : A CONECT seminar &#34;Global organization of neuronal activity only requires unstructured local connectivity&#34; (David Dahmen)</title>
+      <link>https://conect-int.github.io/event/2022-05-12_seminaire-david-dahmen/</link>
+      <pubDate>Thu, 12 May 2022 14:30:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/event/2022-05-12_seminaire-david-dahmen/</guid>
+      <description>&lt;p&gt;During a CONECT seminar &lt;a href=&#34;https://jonathanvacher.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Dahmen&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Global organization of neuronal activity only requires unstructured local connectivity&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35049496/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dahmen D, Layer M, Deutz L, Dąbrowska PA, Voges N, von Papen M, Brochier T, Riehle A, Diesmann M, Grün S, Helias M. Elife. 2022 Jan 20;11:e68422&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Dr. &lt;a href=&#34;https://www.fz-juelich.de/SharedDocs/Personen/INM/INM-6/EN/staff/Dahmen_David.html?nn=724620&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Dahmen&lt;/a&gt; is a PostDoc at the Research Centre Jülich (Institute of Neuroscience and Medicine (INM-6), Computational and Systems Neuroscience &amp;amp; Institute for Advanced Simulation (IAS-6), Theoretical Neuroscience &amp;amp; JARA-Institut Brain structure-function relationships (INM-10)).
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -647,7 +664,7 @@ but distinct
       <link>https://conect-int.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://conect-int.github.io/slides/example/</guid>
-      <description>&lt;h1 id=&#34;toto-creates-slides-in-markdown-with-wowchemy&#34;&gt;Toto Creates slides in Markdown with Wowchemy&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;tutu-creates-slides-in-markdown-with-wowchemy&#34;&gt;Tutu Creates slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;

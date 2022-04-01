@@ -5,12 +5,29 @@
     <link>https://conect-int.github.io/tag/events/</link>
       <atom:link href="https://conect-int.github.io/tag/events/index.xml" rel="self" type="application/rss+xml" />
     <description>events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The [CONECT group](https://conect-int.github.io/people/)</copyright><lastBuildDate>Fri, 04 Mar 2022 14:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The [CONECT group](https://conect-int.github.io/people/)</copyright><lastBuildDate>Thu, 12 May 2022 14:30:00 +0000</lastBuildDate>
     <image>
       <url>https://conect-int.github.io/images/icon_hu7e281b73228ab43411ccffce0f285528_35679_512x512_fill_lanczos_center_3.png</url>
       <title>events</title>
       <link>https://conect-int.github.io/tag/events/</link>
     </image>
+    
+    <item>
+      <title>2022-05-12 : A CONECT seminar &#34;Global organization of neuronal activity only requires unstructured local connectivity&#34; (David Dahmen)</title>
+      <link>https://conect-int.github.io/event/2022-05-12_seminaire-david-dahmen/</link>
+      <pubDate>Thu, 12 May 2022 14:30:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/event/2022-05-12_seminaire-david-dahmen/</guid>
+      <description>&lt;p&gt;During a CONECT seminar &lt;a href=&#34;https://jonathanvacher.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Dahmen&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Global organization of neuronal activity only requires unstructured local connectivity&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35049496/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dahmen D, Layer M, Deutz L, Dąbrowska PA, Voges N, von Papen M, Brochier T, Riehle A, Diesmann M, Grün S, Helias M. Elife. 2022 Jan 20;11:e68422&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Dr. &lt;a href=&#34;https://www.fz-juelich.de/SharedDocs/Personen/INM/INM-6/EN/staff/Dahmen_David.html?nn=724620&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Dahmen&lt;/a&gt; is a PostDoc at the Research Centre Jülich (Institute of Neuroscience and Medicine (INM-6), Computational and Systems Neuroscience &amp;amp; Institute for Advanced Simulation (IAS-6), Theoretical Neuroscience &amp;amp; JARA-Institut Brain structure-function relationships (INM-10)).
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>2022-03-04 : INT Seminar - &#34;Unifying Different Psychometric Methods : Theory and Experiment&#34; (Jonathan Vacher)</title>
