@@ -5,18 +5,18 @@
     <link>https://conect-int.github.io/tag/events/</link>
       <atom:link href="https://conect-int.github.io/tag/events/index.xml" rel="self" type="application/rss+xml" />
     <description>events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The [CONECT group](https://conect-int.github.io/people/)</copyright><lastBuildDate>Thu, 12 May 2022 14:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 May 2022 14:30:00 +0000</lastBuildDate>
     <image>
-      <url>https://conect-int.github.io/images/icon_hu7e281b73228ab43411ccffce0f285528_35679_512x512_fill_lanczos_center_3.png</url>
+      <url>https://conect-int.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>events</title>
       <link>https://conect-int.github.io/tag/events/</link>
     </image>
     
     <item>
       <title>2022-05-12 : A CONECT seminar &#34;Global organization of neuronal activity only requires unstructured local connectivity&#34; (David Dahmen)</title>
-      <link>https://conect-int.github.io/event/2022-05-12_seminaire-david-dahmen/</link>
+      <link>https://conect-int.github.io/talk/2022-05-12-a-conect-seminar-global-organization-of-neuronal-activity-only-requires-unstructured-local-connectivity-david-dahmen/</link>
       <pubDate>Thu, 12 May 2022 14:30:00 +0000</pubDate>
-      <guid>https://conect-int.github.io/event/2022-05-12_seminaire-david-dahmen/</guid>
+      <guid>https://conect-int.github.io/talk/2022-05-12-a-conect-seminar-global-organization-of-neuronal-activity-only-requires-unstructured-local-connectivity-david-dahmen/</guid>
       <description>&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://jonathanvacher.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Dahmen&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Global organization of neuronal activity only requires unstructured local connectivity&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35049496/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dahmen D, Layer M, Deutz L, Dąbrowska PA, Voges N, von Papen M, Brochier T, Riehle A, Diesmann M, Grün S, Helias M. Elife. 2022 Jan 20;11:e68422&lt;/a&gt;&lt;/p&gt;
@@ -31,9 +31,9 @@
     
     <item>
       <title>2022-03-04 : INT Seminar - &#34;Unifying Different Psychometric Methods : Theory and Experiment&#34; (Jonathan Vacher)</title>
-      <link>https://conect-int.github.io/event/2022-03-04_seminaire-jonathan-vacher/</link>
+      <link>https://conect-int.github.io/talk/2022-03-04-int-seminar-unifying-different-psychometric-methods-theory-and-experiment-jonathan-vacher/</link>
       <pubDate>Fri, 04 Mar 2022 14:30:00 +0000</pubDate>
-      <guid>https://conect-int.github.io/event/2022-03-04_seminaire-jonathan-vacher/</guid>
+      <guid>https://conect-int.github.io/talk/2022-03-04-int-seminar-unifying-different-psychometric-methods-theory-and-experiment-jonathan-vacher/</guid>
       <description>&lt;p&gt;During a seminar at the Institute of Neurosciences Timone in Marseille, &lt;a href=&#34;https://jonathanvacher.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jonathan Vacher&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Unifying Different Psychometric Methods : Theory and Experiment&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The two-alternative forced choice (2AFC) paradigm is one of the main methods used to measure perceptual thresholds and biases. Measurements from a 2AFC experiment can be modelled using signal detection theory (SDT) from which the psychometric function can be derived theoretically. Recent efforts to combine SDT with Bayesian probabilities has linked thresholds and biases to hypothesized prior knowledge and optimal encoding/decoding [1]. From another perspective, the maximum likelihood difference scaling (MLDS) paradigm is a more recent method that allows the experimenter to estimate a perceptual scale that links a physical property to a psychological dimension [2]. Such a perceptual scale is obtained from the comparison of relative differences between pairs of stimuli. Here again, the underlying model can be understood in terms of SDT and Bayesian probabilities. However, no comparison between MLDS and 2AFC measurements has been performed yet. Here, we introduce the theory that unifies those measurements and we present some preliminary experimental results. In this context, we further explore how MLDS measurements could help to understand the perception of more complex textures generated from the statistic of deep neural network features [3].&lt;/p&gt;
@@ -50,10 +50,10 @@
     </item>
     
     <item>
-      <title>2022-03-04 : CONECT Seminar - &#34;Explainable AI for computational auditory neurosciences&#34; (Etienne Thoret)</title>
-      <link>https://conect-int.github.io/event/2022-02-24_seminaire-etienne-thoret/</link>
+      <title>2022-02-24 : CONECT Seminar - &#34;Explainable AI for computational auditory neurosciences&#34; (Etienne Thoret)</title>
+      <link>https://conect-int.github.io/talk/2022-02-24-conect-seminar-explainable-ai-for-computational-auditory-neurosciences-etienne-thoret/</link>
       <pubDate>Thu, 24 Feb 2022 14:00:00 +0000</pubDate>
-      <guid>https://conect-int.github.io/event/2022-02-24_seminaire-etienne-thoret/</guid>
+      <guid>https://conect-int.github.io/talk/2022-02-24-conect-seminar-explainable-ai-for-computational-auditory-neurosciences-etienne-thoret/</guid>
       <description>&lt;p&gt;Etienne Thoret (ILCB/PRISM/LIS/AMU) kindly accepted to present his research project during our novel series of CONECT-core © seminars (=seminars open to all but focused on the core theoretical scientific questions of the CONECT members):&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Explainable AI for computational auditory neurosciences&lt;/strong&gt;&lt;/p&gt;
@@ -66,9 +66,9 @@
     
     <item>
       <title>2021-12-10 : CONECT seminar - &#34;Sequence anticipation and STDP emerge from a voltage-based predictive learning rule&#34; (Matteo Saponati)</title>
-      <link>https://conect-int.github.io/event/2021-12-10_seminaire-matteo-saponati/</link>
+      <link>https://conect-int.github.io/talk/2021-12-10-conect-seminar-sequence-anticipation-and-stdp-emerge-from-a-voltage-based-predictive-learning-rule-matteo-saponati/</link>
       <pubDate>Fri, 10 Dec 2021 11:00:00 +0000</pubDate>
-      <guid>https://conect-int.github.io/event/2021-12-10_seminaire-matteo-saponati/</guid>
+      <guid>https://conect-int.github.io/talk/2021-12-10-conect-seminar-sequence-anticipation-and-stdp-emerge-from-a-voltage-based-predictive-learning-rule-matteo-saponati/</guid>
       <description>&lt;p&gt;During a seminar at the Institute of Neurosciences Timone in Marseille, &lt;a href=&#34;https://github.com/matteosaponati&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matteo Saponati&lt;/a&gt;, will present his recent work showing that &amp;ldquo;&lt;strong&gt;Sequence anticipation and STDP emerge from a voltage-based predictive learning rule&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Intelligent behavior depends on the brain’s ability to anticipate future events. However, the learning rules that enable neurons to predict and fire ahead of sensory inputs remain largely unknown. We propose a plasticity rule based on predictive processing, where the neuron learns a low-rank model of the synaptic input dynamics in its membrane potential. Neurons thereby amplify those synapses that maximally predict other synaptic inputs based on their temporal relations, which provide a solution to an optimization problem that can be implemented at the single-neuron level using only local information. Consequently, neurons learn sequences over long timescales and shift their spikes towards the first inputs in a sequence. We show that this mechanism can explain the development of anticipatory motion signaling and recall in the visual system. Furthermore, we demonstrate that the learning rule gives rise to several experimentally observed STDP (spike-timing-dependent plasticity) mechanisms. These findings suggest prediction as a guiding principle to orchestrate learning and synaptic plasticity in single neurons.
@@ -88,9 +88,9 @@
     
     <item>
       <title>2020-09-11 : CONECT seminar - &#34;Feedforward and feedback processes in visual recognition&#34; (T Serre)</title>
-      <link>https://conect-int.github.io/event/2020-09-11_seminaire-thomas-serre/</link>
+      <link>https://conect-int.github.io/talk/2020-09-11-conect-seminar-feedforward-and-feedback-processes-in-visual-recognition-t-serre/</link>
       <pubDate>Fri, 11 Sep 2020 14:00:00 +0000</pubDate>
-      <guid>https://conect-int.github.io/event/2020-09-11_seminaire-thomas-serre/</guid>
+      <guid>https://conect-int.github.io/talk/2020-09-11-conect-seminar-feedforward-and-feedback-processes-in-visual-recognition-t-serre/</guid>
       <description>&lt;p&gt;During a seminar at the Institute of Neurosciences Timone in Marseille, &lt;a href=&#34;http://serre-lab.clps.brown.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thomas Serre&lt;/a&gt; will present his recent work on &amp;ldquo;Feedforward and feedback processes in visual recognition&amp;rdquo;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Progress in deep learning has spawned great successes in many engineering applications. As a prime example, convolutional neural networks, a type of feedforward neural networks, are now approaching – and sometimes even surpassing – human accuracy on a variety of visual recognition tasks. In this talk, however, I will show that these neural networks and their recent extensions exhibit a limited ability to solve seemingly simple visual reasoning problems involving incremental grouping, similarity, and spatial relation judgments. Our group has developed a recurrent network model of classical and extra-classical receptive fields that is constrained by the anatomy and physiology of the visual cortex. The model was shown to account for diverse visual illusions providing computational evidence for a novel canonical circuit that is shared across visual modalities. I will show that this computational neuroscience model can be turned into a modern end-to-end trainable deep recurrent network architecture that addresses some of the shortcomings exhibited by state-of-the-art feedforward networks for solving complex visual reasoning tasks. This suggests that neuroscience may contribute powerful new ideas and approaches to computer science and artificial intelligence.&lt;/p&gt;

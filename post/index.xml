@@ -5,9 +5,9 @@
     <link>https://conect-int.github.io/post/</link>
       <atom:link href="https://conect-int.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>About CONECT</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The [CONECT group](https://conect-int.github.io/people/)</copyright><lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://conect-int.github.io/images/icon_hu7e281b73228ab43411ccffce0f285528_35679_512x512_fill_lanczos_center_3.png</url>
+      <url>https://conect-int.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>About CONECT</title>
       <link>https://conect-int.github.io/post/</link>
     </image>
@@ -36,12 +36,12 @@
 &lt;li&gt;from the cellular to the network level
 &lt;ul&gt;
 &lt;li&gt;deciphering the biophysical principles underlying robustness of neuronal activity using quantitative genotype-to-phenotype mapping strategies and realistic neuronal model databases (&lt;strong&gt;Jean-Marc Goaillard&lt;/strong&gt; and Fabien Tell).&lt;/li&gt;
-&lt;li&gt;dynamics and function of small and large-scale neural networks (&lt;strong&gt;&lt;a href=&#34;https://conect-int.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent Perrinet&lt;/a&gt;&lt;/strong&gt; with &lt;a href=&#34;../../author/frederic-y-chavane&#34;&gt;Frédéric Chavane&lt;/a&gt;, &lt;em&gt;&lt;a href=&#34;../../author/david-hansel&#34;&gt;David Hansel&lt;/a&gt;, Carl van Vreeswijk&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;dynamics and function of small and large-scale neural networks (&lt;strong&gt;&lt;a href=&#34;&#34;&gt;Laurent Perrinet&lt;/a&gt;&lt;/strong&gt; with &lt;a href=&#34;../../author/frederic-y-chavane&#34;&gt;Frédéric Chavane&lt;/a&gt;, &lt;em&gt;&lt;a href=&#34;../../author/david-hansel&#34;&gt;David Hansel&lt;/a&gt;, Carl van Vreeswijk&lt;/em&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;from networks to mesoscopic levels :
 &lt;ul&gt;
-&lt;li&gt;Bayesian inference and predictive process models (&lt;strong&gt;&lt;a href=&#34;../../author/anna-montagnini&#34;&gt;Anna Montagnini&lt;/a&gt;&lt;/strong&gt;, &lt;a href=&#34;../../author/emmanuel-dauce&#34;&gt;Emmanuel Daucé&lt;/a&gt; and &lt;a href=&#34;https://conect-int.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent Perrinet&lt;/a&gt;), reinforcement learning, action selection, decision &lt;a href=&#34;../../author/andrea-brovelli&#34;&gt;Andrea Brovelli&lt;/a&gt; and &lt;a href=&#34;../../author/emmanuel-dauce&#34;&gt;Emmanuel Daucé&lt;/a&gt;), link with attentional mechanisms (Guilhem Ibos)&lt;/li&gt;
+&lt;li&gt;Bayesian inference and predictive process models (&lt;strong&gt;&lt;a href=&#34;../../author/anna-montagnini&#34;&gt;Anna Montagnini&lt;/a&gt;&lt;/strong&gt;, &lt;a href=&#34;../../author/emmanuel-dauce&#34;&gt;Emmanuel Daucé&lt;/a&gt; and &lt;a href=&#34;&#34;&gt;Laurent Perrinet&lt;/a&gt;), reinforcement learning, action selection, decision &lt;a href=&#34;../../author/andrea-brovelli&#34;&gt;Andrea Brovelli&lt;/a&gt; and &lt;a href=&#34;../../author/emmanuel-dauce&#34;&gt;Emmanuel Daucé&lt;/a&gt;), link with attentional mechanisms (Guilhem Ibos)&lt;/li&gt;
 &lt;li&gt;information theory and functional connectivity for the analysis of cognitive brain networks (&lt;strong&gt;&lt;a href=&#34;../../author/andrea-brovelli&#34;&gt;Andrea Brovelli&lt;/a&gt;&lt;/strong&gt; and &lt;a href=&#34;../../author/bruno-giordano&#34;&gt;Bruno Giordano&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;deep learning for data processing (&lt;strong&gt;&lt;a href=&#34;../../author/bruno-giordano&#34;&gt;Bruno Giordano&lt;/a&gt;&lt;/strong&gt;), deep learning + neuroimaging (&lt;em&gt;in voice perception&lt;/em&gt;) (Charly Lamothe) computational neuroscience and data processing in neuroinformatics (Sylvain Takerkart, NIT platform)&lt;/li&gt;
 &lt;/ul&gt;

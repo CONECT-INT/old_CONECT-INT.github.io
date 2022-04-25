@@ -5,9 +5,9 @@
     <link>https://conect-int.github.io/</link>
       <atom:link href="https://conect-int.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>CONECT | Computational Neuroscience Center @ INT</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The [CONECT group](https://conect-int.github.io/people/)</copyright><lastBuildDate>Thu, 16 Jun 2022 14:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Jun 2022 14:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://conect-int.github.io/images/icon_hu7e281b73228ab43411ccffce0f285528_35679_512x512_fill_lanczos_center_3.png</url>
+      <url>https://conect-int.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>CONECT | Computational Neuroscience Center @ INT</title>
       <link>https://conect-int.github.io/</link>
     </image>
@@ -36,12 +36,12 @@
 &lt;li&gt;from the cellular to the network level
 &lt;ul&gt;
 &lt;li&gt;deciphering the biophysical principles underlying robustness of neuronal activity using quantitative genotype-to-phenotype mapping strategies and realistic neuronal model databases (&lt;strong&gt;Jean-Marc Goaillard&lt;/strong&gt; and Fabien Tell).&lt;/li&gt;
-&lt;li&gt;dynamics and function of small and large-scale neural networks (&lt;strong&gt;&lt;a href=&#34;https://conect-int.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent Perrinet&lt;/a&gt;&lt;/strong&gt; with &lt;a href=&#34;../../author/frederic-y-chavane&#34;&gt;Frédéric Chavane&lt;/a&gt;, &lt;em&gt;&lt;a href=&#34;../../author/david-hansel&#34;&gt;David Hansel&lt;/a&gt;, Carl van Vreeswijk&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;dynamics and function of small and large-scale neural networks (&lt;strong&gt;&lt;a href=&#34;&#34;&gt;Laurent Perrinet&lt;/a&gt;&lt;/strong&gt; with &lt;a href=&#34;../../author/frederic-y-chavane&#34;&gt;Frédéric Chavane&lt;/a&gt;, &lt;em&gt;&lt;a href=&#34;../../author/david-hansel&#34;&gt;David Hansel&lt;/a&gt;, Carl van Vreeswijk&lt;/em&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;from networks to mesoscopic levels :
 &lt;ul&gt;
-&lt;li&gt;Bayesian inference and predictive process models (&lt;strong&gt;&lt;a href=&#34;../../author/anna-montagnini&#34;&gt;Anna Montagnini&lt;/a&gt;&lt;/strong&gt;, &lt;a href=&#34;../../author/emmanuel-dauce&#34;&gt;Emmanuel Daucé&lt;/a&gt; and &lt;a href=&#34;https://conect-int.github.io/author/laurent-u-perrinet/&#34;&gt;Laurent Perrinet&lt;/a&gt;), reinforcement learning, action selection, decision &lt;a href=&#34;../../author/andrea-brovelli&#34;&gt;Andrea Brovelli&lt;/a&gt; and &lt;a href=&#34;../../author/emmanuel-dauce&#34;&gt;Emmanuel Daucé&lt;/a&gt;), link with attentional mechanisms (Guilhem Ibos)&lt;/li&gt;
+&lt;li&gt;Bayesian inference and predictive process models (&lt;strong&gt;&lt;a href=&#34;../../author/anna-montagnini&#34;&gt;Anna Montagnini&lt;/a&gt;&lt;/strong&gt;, &lt;a href=&#34;../../author/emmanuel-dauce&#34;&gt;Emmanuel Daucé&lt;/a&gt; and &lt;a href=&#34;&#34;&gt;Laurent Perrinet&lt;/a&gt;), reinforcement learning, action selection, decision &lt;a href=&#34;../../author/andrea-brovelli&#34;&gt;Andrea Brovelli&lt;/a&gt; and &lt;a href=&#34;../../author/emmanuel-dauce&#34;&gt;Emmanuel Daucé&lt;/a&gt;), link with attentional mechanisms (Guilhem Ibos)&lt;/li&gt;
 &lt;li&gt;information theory and functional connectivity for the analysis of cognitive brain networks (&lt;strong&gt;&lt;a href=&#34;../../author/andrea-brovelli&#34;&gt;Andrea Brovelli&lt;/a&gt;&lt;/strong&gt; and &lt;a href=&#34;../../author/bruno-giordano&#34;&gt;Bruno Giordano&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;deep learning for data processing (&lt;strong&gt;&lt;a href=&#34;../../author/bruno-giordano&#34;&gt;Bruno Giordano&lt;/a&gt;&lt;/strong&gt;), deep learning + neuroimaging (&lt;em&gt;in voice perception&lt;/em&gt;) (Charly Lamothe) computational neuroscience and data processing in neuroinformatics (Sylvain Takerkart, NIT platform)&lt;/li&gt;
 &lt;/ul&gt;
@@ -157,10 +157,10 @@
     </item>
     
     <item>
-      <title>2022-06-16: CONECT-CENTURI summer school</title>
-      <link>https://conect-int.github.io/event/2022-06-16-conect-centuri-summer-school/</link>
+      <title>2022-06-16: CONECT at the CENTURI summer school</title>
+      <link>https://conect-int.github.io/talk/2022-06-16-conect-at-the-centuri-summer-school/</link>
       <pubDate>Thu, 16 Jun 2022 14:00:00 +0000</pubDate>
-      <guid>https://conect-int.github.io/event/2022-06-16-conect-centuri-summer-school/</guid>
+      <guid>https://conect-int.github.io/talk/2022-06-16-conect-at-the-centuri-summer-school/</guid>
       <description>&lt;h1 id=&#34;title-neural-computation-through-population-dynamics&#34;&gt;Title: Neural computation through population dynamics&lt;/h1&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -199,9 +199,9 @@
     
     <item>
       <title>2022-05-12 : A CONECT seminar &#34;Global organization of neuronal activity only requires unstructured local connectivity&#34; (David Dahmen)</title>
-      <link>https://conect-int.github.io/event/2022-05-12_seminaire-david-dahmen/</link>
+      <link>https://conect-int.github.io/talk/2022-05-12-a-conect-seminar-global-organization-of-neuronal-activity-only-requires-unstructured-local-connectivity-david-dahmen/</link>
       <pubDate>Thu, 12 May 2022 14:30:00 +0000</pubDate>
-      <guid>https://conect-int.github.io/event/2022-05-12_seminaire-david-dahmen/</guid>
+      <guid>https://conect-int.github.io/talk/2022-05-12-a-conect-seminar-global-organization-of-neuronal-activity-only-requires-unstructured-local-connectivity-david-dahmen/</guid>
       <description>&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://jonathanvacher.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Dahmen&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Global organization of neuronal activity only requires unstructured local connectivity&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35049496/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dahmen D, Layer M, Deutz L, Dąbrowska PA, Voges N, von Papen M, Brochier T, Riehle A, Diesmann M, Grün S, Helias M. Elife. 2022 Jan 20;11:e68422&lt;/a&gt;&lt;/p&gt;
@@ -216,9 +216,9 @@
     
     <item>
       <title>2022-03-04 : INT Seminar - &#34;Unifying Different Psychometric Methods : Theory and Experiment&#34; (Jonathan Vacher)</title>
-      <link>https://conect-int.github.io/event/2022-03-04_seminaire-jonathan-vacher/</link>
+      <link>https://conect-int.github.io/talk/2022-03-04-int-seminar-unifying-different-psychometric-methods-theory-and-experiment-jonathan-vacher/</link>
       <pubDate>Fri, 04 Mar 2022 14:30:00 +0000</pubDate>
-      <guid>https://conect-int.github.io/event/2022-03-04_seminaire-jonathan-vacher/</guid>
+      <guid>https://conect-int.github.io/talk/2022-03-04-int-seminar-unifying-different-psychometric-methods-theory-and-experiment-jonathan-vacher/</guid>
       <description>&lt;p&gt;During a seminar at the Institute of Neurosciences Timone in Marseille, &lt;a href=&#34;https://jonathanvacher.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jonathan Vacher&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Unifying Different Psychometric Methods : Theory and Experiment&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The two-alternative forced choice (2AFC) paradigm is one of the main methods used to measure perceptual thresholds and biases. Measurements from a 2AFC experiment can be modelled using signal detection theory (SDT) from which the psychometric function can be derived theoretically. Recent efforts to combine SDT with Bayesian probabilities has linked thresholds and biases to hypothesized prior knowledge and optimal encoding/decoding [1]. From another perspective, the maximum likelihood difference scaling (MLDS) paradigm is a more recent method that allows the experimenter to estimate a perceptual scale that links a physical property to a psychological dimension [2]. Such a perceptual scale is obtained from the comparison of relative differences between pairs of stimuli. Here again, the underlying model can be understood in terms of SDT and Bayesian probabilities. However, no comparison between MLDS and 2AFC measurements has been performed yet. Here, we introduce the theory that unifies those measurements and we present some preliminary experimental results. In this context, we further explore how MLDS measurements could help to understand the perception of more complex textures generated from the statistic of deep neural network features [3].&lt;/p&gt;
@@ -235,10 +235,10 @@
     </item>
     
     <item>
-      <title>2022-03-04 : CONECT Seminar - &#34;Explainable AI for computational auditory neurosciences&#34; (Etienne Thoret)</title>
-      <link>https://conect-int.github.io/event/2022-02-24_seminaire-etienne-thoret/</link>
+      <title>2022-02-24 : CONECT Seminar - &#34;Explainable AI for computational auditory neurosciences&#34; (Etienne Thoret)</title>
+      <link>https://conect-int.github.io/talk/2022-02-24-conect-seminar-explainable-ai-for-computational-auditory-neurosciences-etienne-thoret/</link>
       <pubDate>Thu, 24 Feb 2022 14:00:00 +0000</pubDate>
-      <guid>https://conect-int.github.io/event/2022-02-24_seminaire-etienne-thoret/</guid>
+      <guid>https://conect-int.github.io/talk/2022-02-24-conect-seminar-explainable-ai-for-computational-auditory-neurosciences-etienne-thoret/</guid>
       <description>&lt;p&gt;Etienne Thoret (ILCB/PRISM/LIS/AMU) kindly accepted to present his research project during our novel series of CONECT-core © seminars (=seminars open to all but focused on the core theoretical scientific questions of the CONECT members):&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Explainable AI for computational auditory neurosciences&lt;/strong&gt;&lt;/p&gt;
@@ -251,9 +251,9 @@
     
     <item>
       <title>2021-12-10 : CONECT seminar - &#34;Sequence anticipation and STDP emerge from a voltage-based predictive learning rule&#34; (Matteo Saponati)</title>
-      <link>https://conect-int.github.io/event/2021-12-10_seminaire-matteo-saponati/</link>
+      <link>https://conect-int.github.io/talk/2021-12-10-conect-seminar-sequence-anticipation-and-stdp-emerge-from-a-voltage-based-predictive-learning-rule-matteo-saponati/</link>
       <pubDate>Fri, 10 Dec 2021 11:00:00 +0000</pubDate>
-      <guid>https://conect-int.github.io/event/2021-12-10_seminaire-matteo-saponati/</guid>
+      <guid>https://conect-int.github.io/talk/2021-12-10-conect-seminar-sequence-anticipation-and-stdp-emerge-from-a-voltage-based-predictive-learning-rule-matteo-saponati/</guid>
       <description>&lt;p&gt;During a seminar at the Institute of Neurosciences Timone in Marseille, &lt;a href=&#34;https://github.com/matteosaponati&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matteo Saponati&lt;/a&gt;, will present his recent work showing that &amp;ldquo;&lt;strong&gt;Sequence anticipation and STDP emerge from a voltage-based predictive learning rule&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Intelligent behavior depends on the brain’s ability to anticipate future events. However, the learning rules that enable neurons to predict and fire ahead of sensory inputs remain largely unknown. We propose a plasticity rule based on predictive processing, where the neuron learns a low-rank model of the synaptic input dynamics in its membrane potential. Neurons thereby amplify those synapses that maximally predict other synaptic inputs based on their temporal relations, which provide a solution to an optimization problem that can be implemented at the single-neuron level using only local information. Consequently, neurons learn sequences over long timescales and shift their spikes towards the first inputs in a sequence. We show that this mechanism can explain the development of anticipatory motion signaling and recall in the visual system. Furthermore, we demonstrate that the learning rule gives rise to several experimentally observed STDP (spike-timing-dependent plasticity) mechanisms. These findings suggest prediction as a guiding principle to orchestrate learning and synaptic plasticity in single neurons.
@@ -273,18 +273,18 @@
     
     <item>
       <title>2021-06-17: CONECT meeting #3</title>
-      <link>https://conect-int.github.io/event/2021-06-17-conect-meeting/</link>
+      <link>https://conect-int.github.io/talk/2021-06-17-conect-meeting-#3/</link>
       <pubDate>Thu, 17 Jun 2021 14:00:00 +0000</pubDate>
-      <guid>https://conect-int.github.io/event/2021-06-17-conect-meeting/</guid>
+      <guid>https://conect-int.github.io/talk/2021-06-17-conect-meeting-#3/</guid>
       <description>&lt;p&gt;There will be a third meeting of the CONECT group for the Thursday meeting devoted to the kick-off of these initiatives for INT3. It will consist of an internal meeting (14:00-15:00) and of a talk open to the institute (15:00-16:00).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>2021-05-27: CONECT meeting - talk by Matthias Pessiglione</title>
-      <link>https://conect-int.github.io/event/2021-05-27-conect-meeting/</link>
+      <link>https://conect-int.github.io/talk/2021-05-27-conect-meeting-talk-by-matthias-pessiglione/</link>
       <pubDate>Thu, 27 May 2021 14:00:00 +0000</pubDate>
-      <guid>https://conect-int.github.io/event/2021-05-27-conect-meeting/</guid>
+      <guid>https://conect-int.github.io/talk/2021-05-27-conect-meeting-talk-by-matthias-pessiglione/</guid>
       <description>&lt;p&gt;This is the second meeting of the CONECT group for the Thursday meeting devoted to the kick-off of these initiatives for INT3. It consists of an internal meeting (14:00-15:00) and of a talk open to the institute (15:00-16:00) by &lt;a href=&#34;https://insb.cnrs.fr/fr/personne/mathias-pessiglione&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matthias Pessiglione (INSB)&lt;/a&gt;.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -306,9 +306,9 @@
     
     <item>
       <title>2021-04-29: CONECT kick-off - talk by Rufin van Rullen</title>
-      <link>https://conect-int.github.io/event/2021-04-29-conect-kickoff/</link>
+      <link>https://conect-int.github.io/talk/2021-04-29-conect-kick-off-talk-by-rufin-van-rullen/</link>
       <pubDate>Thu, 29 Apr 2021 14:00:00 +0000</pubDate>
-      <guid>https://conect-int.github.io/event/2021-04-29-conect-kickoff/</guid>
+      <guid>https://conect-int.github.io/talk/2021-04-29-conect-kick-off-talk-by-rufin-van-rullen/</guid>
       <description>&lt;p&gt;First meeting of the CONECT group for the Thursday meeting devoted to the kick-off of these initiatives for INT3. It consists of an internal meeting (14:00-15:00) and of a talk open to the institute (15:00-16:00).&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -340,9 +340,9 @@
     
     <item>
       <title>2021-04-23 : PhDProgram course in computational neuroscience</title>
-      <link>https://conect-int.github.io/event/2021-04-23-conect-course-phdprogram/</link>
+      <link>https://conect-int.github.io/talk/2021-04-23-phdprogram-course-in-computational-neuroscience/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://conect-int.github.io/event/2021-04-23-conect-course-phdprogram/</guid>
+      <guid>https://conect-int.github.io/talk/2021-04-23-phdprogram-course-in-computational-neuroscience/</guid>
       <description>&lt;p&gt;Computational neuroscience is an expanding field that is proving to be essential in neurosciences. The aim of this short intensive course will be to provide a common background in computational neuroscience. The course, after a brief historical overview of the field, will focus on the description of a few selected modelling and theoretical approaches that are currently developed, including details about their limits and advantages, and that can be applied to different scales of analysis (from the single neuron to the whole brain). In addition, we will provide a theoretical and a practical session on artificial neuronal networks of spiking neurons.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -395,7 +395,29 @@
 &lt;li&gt;The goal of this first task is to create a &amp;ldquo;raster plot&amp;rdquo; that shows the reproducibility of a spike train with repetitions of the same stimulus, as in this work in the &lt;a href=&#34;https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/#/1/3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;rodent retina&lt;/a&gt; or in the &lt;a href=&#34;https://laurentperrinet.github.io/2019-04-03_a_course_on_vision_and_modelization/#/1/6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cat cortex (V1)&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Here, we will attempt to replicate Figure 1 of &lt;a href=&#34;http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.299.8560&amp;amp;rep=rep1&amp;amp;type=pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mainen &amp;amp; Sejnowski (1995)&lt;/a&gt;:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://i.stack.imgur.com/ixnrz.png&#34; alt=&#34;Mainen Sejnowski 1995&#34; title=&#34;figure 1&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://i.stack.imgur.com/ixnrz.png&#34; alt=&#34;Mainen Sejnowski 1995&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      figure 1
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;h2 id=&#34;getting-to-know-the-tools-numpy-and-matplotlib&#34;&gt;getting to know the tools: numpy and matplotlib&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;we are going to create vectors representing the dynamics of a value as a function of time&lt;/li&gt;
@@ -433,9 +455,9 @@
     
     <item>
       <title>2020-09-11 : CONECT seminar - &#34;Feedforward and feedback processes in visual recognition&#34; (T Serre)</title>
-      <link>https://conect-int.github.io/event/2020-09-11_seminaire-thomas-serre/</link>
+      <link>https://conect-int.github.io/talk/2020-09-11-conect-seminar-feedforward-and-feedback-processes-in-visual-recognition-t-serre/</link>
       <pubDate>Fri, 11 Sep 2020 14:00:00 +0000</pubDate>
-      <guid>https://conect-int.github.io/event/2020-09-11_seminaire-thomas-serre/</guid>
+      <guid>https://conect-int.github.io/talk/2020-09-11-conect-seminar-feedforward-and-feedback-processes-in-visual-recognition-t-serre/</guid>
       <description>&lt;p&gt;During a seminar at the Institute of Neurosciences Timone in Marseille, &lt;a href=&#34;http://serre-lab.clps.brown.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thomas Serre&lt;/a&gt; will present his recent work on &amp;ldquo;Feedforward and feedback processes in visual recognition&amp;rdquo;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Progress in deep learning has spawned great successes in many engineering applications. As a prime example, convolutional neural networks, a type of feedforward neural networks, are now approaching – and sometimes even surpassing – human accuracy on a variety of visual recognition tasks. In this talk, however, I will show that these neural networks and their recent extensions exhibit a limited ability to solve seemingly simple visual reasoning problems involving incremental grouping, similarity, and spatial relation judgments. Our group has developed a recurrent network model of classical and extra-classical receptive fields that is constrained by the anatomy and physiology of the visual cortex. The model was shown to account for diverse visual illusions providing computational evidence for a novel canonical circuit that is shared across visual modalities. I will show that this computational neuroscience model can be turned into a modern end-to-end trainable deep recurrent network architecture that addresses some of the shortcomings exhibited by state-of-the-art feedforward networks for solving complex visual reasoning tasks. This suggests that neuroscience may contribute powerful new ideas and approaches to computer science and artificial intelligence.&lt;/p&gt;
@@ -503,7 +525,7 @@ Supplementary notes can be added here, including &lt;a href=&#34;https://sourcet
 &lt;li&gt;across several disciplines (physics, genetics, biology, robotics, psychiatry, ..)&lt;/li&gt;
 &lt;li&gt;and multiple scales (from micro to macro, from short to long-term, from theory to biology)&lt;/li&gt;
 &lt;li&gt;new frontiers&lt;span class=&#34;fragment &#34; &gt;
-&amp;hellip; and new challenges
+… and new challenges
 &lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;aside class=&#34;notes&#34;&gt;
@@ -564,14 +586,6 @@ but distinct
 
 
 
-  
-    
-
-
-
-
-
-
 
 
 
@@ -580,7 +594,17 @@ but distinct
 
 
 
-&lt;div class=&#34;view-list-item&#34;&gt;
+
+
+
+
+
+  
+
+
+
+
+&lt;div class=&#34;view-list view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-newspaper pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
   &lt;a href=&#34;https://conect-int.github.io/post/actors-conect/&#34; &gt;Actors of CONECT&lt;/a&gt;
 
@@ -592,7 +616,6 @@ but distinct
 
 &lt;/div&gt;
 
-  
 
 
 &lt;/li&gt;
@@ -604,14 +627,6 @@ but distinct
 
 
 
-  
-    
-
-
-
-
-
-
 
 
 
@@ -620,7 +635,17 @@ but distinct
 
 
 
-&lt;div class=&#34;view-list-item&#34;&gt;
+
+
+
+
+
+  
+
+
+
+
+&lt;div class=&#34;view-list view-list-item&#34;&gt;
   &lt;i class=&#34;far fa-newspaper pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
   &lt;a href=&#34;https://conect-int.github.io/post/objectives-conect/&#34; &gt;Objectives of CONECT&lt;/a&gt;
 
@@ -632,7 +657,6 @@ but distinct
 
 &lt;/div&gt;
 
-  
 
 
 &lt;/li&gt;
@@ -664,8 +688,8 @@ but distinct
       <link>https://conect-int.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://conect-int.github.io/slides/example/</guid>
-      <description>&lt;h1 id=&#34;tutu-creates-slides-in-markdown-with-wowchemy&#34;&gt;Tutu Creates slides in Markdown with Wowchemy&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
 &lt;ul&gt;
@@ -673,16 +697,6 @@ but distinct
 &lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
 &lt;li&gt;Supports speaker notes&lt;/li&gt;
 &lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;list-checkboxes&#34;&gt;list checkboxes&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
@@ -701,11 +715,10 @@ but distinct
 &lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
 &lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Code block:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
 &lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
 &lt;p&gt;Block math:&lt;/p&gt;
@@ -715,19 +728,18 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
 &lt;p&gt;Make content appear incrementally&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
 {{% fragment %}} **Two** {{% /fragment %}}
 {{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-   One 
+  One
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-   **Two** 
+  &lt;strong&gt;Two&lt;/strong&gt;
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-   Three 
+  Three
 &lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
@@ -738,12 +750,12 @@ $$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
 &lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
@@ -777,21 +789,19 @@ $$&lt;/p&gt;
 
 &lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
 &lt;p&gt;Customize the slide style and background&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
 &lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
 &lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
