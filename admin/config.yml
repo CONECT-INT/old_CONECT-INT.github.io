@@ -1,5 +1,5 @@
 backend:
-  branch: main
+  branch: master
   name: git-gateway
   squash_merges: true
 collections:
@@ -69,7 +69,7 @@ collections:
         required: false
         widget: boolean
       - label: Image
-        media_folder: /static/media
+        media_folder: /assets/media
         media_library:
           config:
             multiple: false
@@ -101,7 +101,7 @@ collections:
   folder: content/home
   identifier_field: widget_id
   label: Homepage
-  media_folder: /static/media
+  media_folder: /assets/media
   name: home
   path: '{{slug}}'
   public_folder: ""
@@ -357,6 +357,7 @@ collections:
     widget: list
   - label: External link (optional - replaces link to project page)
     name: external_link
+    required: false
     widget: string
   - fields:
     - label: Link
@@ -828,5 +829,6 @@ collections:
     name: terms
   label: Pages
   name: pages
-media_folder: static/media
+local_backend: false
+media_folder: assets/media
 public_folder: /media

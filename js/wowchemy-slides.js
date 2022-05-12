@@ -2,21 +2,8 @@
   // ns-params:@params
   var slides = { highlight_style: "dracula", theme: "black" };
 
-  // ns-hugo:/var/folders/3p/m0g52j9j69z3gj8ktpgg1dm00000gn/T/hugo_cache/modules/filecache/modules/pkg/mod/github.com/wowchemy/wowchemy-hugo-modules/wowchemy@v0.0.0-20210209220000-aa4fe0c75726/assets/js/wowchemy-utils.js
-  function fixMermaid() {
-    let mermaids = [];
-    [].push.apply(mermaids, document.getElementsByClassName("language-mermaid"));
-    for (let i = 0; i < mermaids.length; i++) {
-      let mermaidCodeElement = mermaids[i];
-      let newElement = document.createElement("div");
-      newElement.innerHTML = mermaidCodeElement.innerHTML;
-      newElement.classList.add("mermaid");
-      mermaidCodeElement.parentNode.replaceWith(newElement);
-    }
-  }
-
   // <stdin>
-  var enabledPlugins = [RevealMarkdown, RevealHighlight, RevealSearch, RevealNotes, RevealMath, RevealZoom];
+  var enabledPlugins = [RevealMarkdown, RevealHighlight, RevealSearch, RevealNotes, RevealMath.MathJax3, RevealZoom];
   var isObject = function(o) {
     return o === Object(o) && !isArray(o) && typeof o !== "function";
   };
@@ -90,9 +77,6 @@
     }
     mermaidOptions["startOnLoad"] = false;
     mermaid.initialize(mermaidOptions);
-    document.addEventListener("DOMContentLoaded", function() {
-      fixMermaid();
-    });
   }
   var mermaidOptions;
 })();
