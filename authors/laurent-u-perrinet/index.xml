@@ -167,32 +167,25 @@
       data-background-image=&#34;/media/open-book.jpg&#34;
   &gt;
 
-&lt;h1 id=&#34;centuri-summer-school--computational-neuroscience-projet&#34;&gt;CENTURI Summer school : Computational Neuroscience projet&lt;/h1&gt;
-&lt;h2 id=&#34;neural-computation-through-population-dynamics&#34;&gt;Neural computation through population dynamics&lt;/h2&gt;
+&lt;h1 id=&#34;centuri-summer-school&#34;&gt;CENTURI Summer school&lt;/h1&gt;
+&lt;h2 id=&#34;computational-neuroscience-projet&#34;&gt;Computational Neuroscience projet&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://conect-int.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://conect-int.github.io&lt;/a&gt;&lt;/p&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;ul&gt;
-&lt;li&gt;CONECT with one N&lt;/li&gt;
 &lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;li&gt;Hi, we are LP and NM and we look forward to start working with you on this project&lt;/li&gt;
+&lt;li&gt;as part of the CENTURI summer school - and we would like to thank the organizers of the school&amp;hellip;&lt;/li&gt;
+&lt;li&gt;In this short presentation, we will present the challenges that we want to tackle and which we named&amp;hellip;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;/aside&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;tremendous-technological-advances&#34;&gt;Tremendous technological advances&lt;/h2&gt;
+&lt;h2 id=&#34;neural-computation-through-population-dynamics&#34;&gt;Neural computation through population dynamics&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;two photon imaging&lt;/li&gt;
-&lt;li&gt;large population recording-array technologies&lt;/li&gt;
-&lt;li&gt;optogenetic circuit control tools&lt;/li&gt;
-&lt;li&gt;transgenic manipulations&lt;/li&gt;
-&lt;li&gt;large volume circuit reconstructions&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;aside class=&#34;notes&#34;&gt;
-  &lt;p&gt;Tremendous technological advances over the past decade&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;These experiments have begun to produce a huge amount of data, on a broad spectrum of temporal and spatial scales,&lt;/li&gt;
-&lt;li&gt;providing finer and more quantitative descriptions of the biological reality than we would have been able to dream of only a decade ago.&lt;/li&gt;
-&lt;/ul&gt;
-
+  blah blas blah
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;a-transdisciplinary-revolution&#34;&gt;A transdisciplinary revolution&lt;/h2&gt;
@@ -204,13 +197,7 @@
 &lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;daunting complexity of the biological reality revealed by these technologies highlights the importance of neurophysics&lt;/li&gt;
-&lt;li&gt;to provide a conceptual bridge between abstract principles of brain function and their biological implementations within neural circuits.&lt;/li&gt;
-&lt;li&gt;This revolution is accompanied by a parallel revolution in the domain of Artificial Intelligence. An exponential number of algorithms in sensory processing, such as image classification, or reinforcement learning have realized practical tools which have replaced the classical tools we were using on a daily basis by a novel range of intelligent tools of a new generation.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;This is the context in which we are creating CONECT.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
+  blah blas blah
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;conect-computational-neuroscience-center&#34;&gt;CoNeCt: &lt;strong&gt;Co&lt;/strong&gt;mputational &lt;strong&gt;Ne&lt;/strong&gt;uroscience &lt;strong&gt;C&lt;/strong&gt;en&lt;strong&gt;t&lt;/strong&gt;er&lt;/h2&gt;
