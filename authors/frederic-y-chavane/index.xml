@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frédéric Chavane | CONECT | Computational Neuroscience Center @ INT</title>
+    <link>https://conect-int.github.io/authors/frederic-y-chavane/</link>
+      <atom:link href="https://conect-int.github.io/authors/frederic-y-chavane/index.xml" rel="self" type="application/rss+xml" />
+    <description>Frédéric Chavane</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://conect-int.github.io/authors/frederic-y-chavane/avatar_hu939e22bfda132e5dfe756f4281477277_68002_270x270_fill_lanczos_center_3.png</url>
+      <title>Frédéric Chavane</title>
+      <link>https://conect-int.github.io/authors/frederic-y-chavane/</link>
+    </image>
+    
+  </channel>
+</rss>
