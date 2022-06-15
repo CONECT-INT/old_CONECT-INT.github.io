@@ -61,7 +61,8 @@
 &lt;h2 id=&#34;centuri-summer-school&#34;&gt;CENTURI Summer school&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/&lt;/a&gt;&lt;/p&gt;
 &lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
+  &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
 &lt;li&gt;Hi, we are LP and NM and we look forward to start working with you on this project&lt;/li&gt;
 &lt;li&gt;as part of the CENTURI summer school - and we would like to thank the organizers of the school&amp;hellip;&lt;/li&gt;
@@ -77,7 +78,9 @@
 &lt;li&gt;we wish to better understand the structure by using machine learning.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;aside class=&#34;notes&#34;&gt;
-  blah blas blah
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;blah blas blah&lt;/p&gt;
+
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;existing-datasets&#34;&gt;Existing datasets&lt;/h2&gt;
@@ -87,16 +90,41 @@
 &lt;li&gt;Dataset 3&lt;/li&gt;
 &lt;/ul&gt;
 &lt;aside class=&#34;notes&#34;&gt;
-  blah blas blah
+  &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;blah blas blah&lt;/p&gt;
+
 &lt;/aside&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;existing-datasets-1&#34;&gt;Existing datasets&lt;/h2&gt;
+&lt;h2 id=&#34;dataset-1-reaching-task&#34;&gt;Dataset 1: reaching task&lt;/h2&gt;
 &lt;img data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig1.jpeg&#34; height=&#34;420&#34; /&gt;
 &lt;img data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig4.jpeg&#34; height=&#34;420&#34; /&gt;
 &lt;p&gt;Hatsopoulos, Joshi, and O&amp;rsquo;Leary (2004) &lt;a href=&#34;https://journals.physiology.org/doi/full/10.1152/jn.01245.2003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1152/jn.01245.2003
 &lt;/a&gt;&lt;/p&gt;
 &lt;aside class=&#34;notes&#34;&gt;
-  blah blas blah
+  &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;blah blas blah&lt;/p&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;dataset-1-reaching-task-1&#34;&gt;Dataset 1: reaching task&lt;/h2&gt;
+&lt;img data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig1.jpeg&#34; height=&#34;420&#34; /&gt;
+&lt;img data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig4.jpeg&#34; height=&#34;420&#34; /&gt;
+&lt;p&gt;Hatsopoulos, Joshi, and O&amp;rsquo;Leary (2004) &lt;a href=&#34;https://journals.physiology.org/doi/full/10.1152/jn.01245.2003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1152/jn.01245.2003
+&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;blah blas blah&lt;/p&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;dataset-2-grasping-task&#34;&gt;Dataset 2: grasping task&lt;/h2&gt;
+&lt;img data-src=&#34;https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsdata.2018.55/MediaObjects/41597_2018_Article_BFsdata201855_Fig1_HTML.jpg?as=webp&#34; height=&#34;420&#34; /&gt;
+&lt;img data-src=&#34;https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fsdata.2018.55/MediaObjects/41597_2018_Article_BFsdata201855_Fig8_HTML.jpg?as=webp&#34; height=&#34;420&#34; /&gt;
+&lt;p&gt;Brochier, Zehl, Hao, Duret, Sprenger, Denker, Grün, &amp;amp; Riehle (2018) Scientific Data 5 : 180055. &lt;a href=&#34;https://www.nature.com/articles/sdata201855&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1038/sdata.2018.55&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;blah blas blah&lt;/p&gt;
+
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
@@ -106,7 +134,9 @@
 &lt;li&gt;Learn to build a computational framework&lt;/li&gt;
 &lt;/ul&gt;
 &lt;aside class=&#34;notes&#34;&gt;
-  blah blas blah
+  &lt;p&gt;&lt;strong&gt;2 MINUTES&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;blah blas blah&lt;/p&gt;
+
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
