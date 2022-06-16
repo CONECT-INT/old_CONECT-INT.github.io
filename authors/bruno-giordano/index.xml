@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bruno L. Giordano | CONECT | Computational Neuroscience Center @ INT</title>
+    <link>https://conect-int.github.io/authors/bruno-giordano/</link>
+      <atom:link href="https://conect-int.github.io/authors/bruno-giordano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bruno L. Giordano</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://conect-int.github.io/authors/bruno-giordano/avatar_hu11b9e12408646f96db0f89a3b2a22ea1_17751_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Bruno L. Giordano</title>
+      <link>https://conect-int.github.io/authors/bruno-giordano/</link>
+    </image>
+    
+  </channel>
+</rss>

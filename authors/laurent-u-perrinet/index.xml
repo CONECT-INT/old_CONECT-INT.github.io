@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laurent U Perrinet | CONECT | Computational Neuroscience Center @ INT</title>
+    <link>https://conect-int.github.io/authors/laurent-u-perrinet/</link>
+      <atom:link href="https://conect-int.github.io/authors/laurent-u-perrinet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Laurent U Perrinet</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jun 2022 14:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://conect-int.github.io/authors/laurent-u-perrinet/avatar_hu34ad5b8db880542c60288aed1996fc62_245755_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Laurent U Perrinet</title>
+      <link>https://conect-int.github.io/authors/laurent-u-perrinet/</link>
+    </image>
+    
+    <item>
+      <title>Why CONECT?</title>
+      <link>https://conect-int.github.io/post/about-conect/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/post/about-conect/</guid>
+      <description>&lt;p&gt;Neuroscience is in revolution: Over the past decade, tremendous technological advances across several disciplines have dramatically expanded the frontiers of experimentally accessible neuroscientific facts.&lt;/p&gt;
+&lt;p&gt;Bridging across different spatial and temporal scales, combination of in vivo two photon imaging, large population recording-array technologies, optogenetic circuit control tools, transgenic manipulations as well as large volume circuit reconstructions are now used to examine the function, structure and dynamics of neural networks on an unprecedented level of detail and precision. Current applications of these novel techniques include sensory information processing, motor production, neural correlates of learning, memory and decision making as well as mechanisms of dysfunctions and disease. These experiments have begun to produce a huge amount of data, on a broad spectrum of temporal and spatial scales, providing finer and more quantitative descriptions of the biological reality than we would have been able to dream of only a decade ago. The daunting complexity of the biological reality revealed by these technologies highlights the importance of neurophysics to provide a conceptual bridge between abstract principles of brain function and their biological implementations within neural circuits. This revolution is accompanied by a parallel revolution in the domain of Artificial Intelligence. An exponential number of algorithms in sensory processing, such as image classification, or reinforcement learning have realized practical tools which have replaced the classical tools we were using on a daily basis by a novel range of intelligent tools of a new generation. This is the context in which we are creating CONECT.&lt;/p&gt;
+&lt;p&gt;We are convinced that &lt;em&gt;&lt;strong&gt;the close collaboration between experimentalists and theoreticians in neuroscience is essential to develop mechanistic as well as quantitative understandings of how the brain performs its functions&lt;/strong&gt;&lt;/em&gt;. This is in fact a primary motivating force in establishing this center. However, for such collaborations to be effective, experimentalists must be well aware of the approaches and challenges in modeling while theoreticians must be well acquainted with the experimental techniques, their power and the challenges they present. CONECT has also the ambition to contribute to the training of a new generation of neuroscientists who will have all these qualities.&lt;/p&gt;
+&lt;p&gt;This approach is therefore complementary but distinct in its purpose from neuroinformatics (creation of tools for analyzing neuroscientific data) or artificial intelligence (creation of algorithms inspired by the functioning of the brain). The field of computational neuroscience is still young but its community is now structured in an autonomous community with strong interaction with the other branches of neuroscience. It is this autonomy that we want to foster at INT.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Objectives of CONECT</title>
+      <link>https://conect-int.github.io/post/objectives-conect/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/post/objectives-conect/</guid>
+      <description>&lt;p&gt;CONECT aims to serve as an incubator within INT to promote the use of methodologies developed in computational and theoretical neuroscience. It is not a service platform, but a catalyst for the creation and maturation of new multi-approach projects within INT.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;to &lt;strong&gt;create a space for scientific discussion and animation&lt;/strong&gt; :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Journal Clubs&lt;/strong&gt; dedicated to transversal aspects guided by advances in computational neurosciences, and occasionally a &amp;ldquo;BrainHack&amp;rdquo; to lift locks on the use of tools and means implemented at INT or on AMU (mesocentre), should explicitly state specialization levels (from &amp;ldquo;safe&amp;rdquo; for persons not directly in the field to more specialized levels).
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Data club / Theory club&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;identify and propose &lt;strong&gt;INT seminars&lt;/strong&gt; in computational neurosciences&lt;/li&gt;
+&lt;li&gt;organization of &lt;strong&gt;debates&lt;/strong&gt; on theoretical aspects related to neuroscience&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;communicate&lt;/strong&gt;: youtube (on the model of &lt;em&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCCSIveazurb4qrNIV7KV9fg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WWTNS&lt;/a&gt;&lt;/em&gt;), twitter, facebook, share our own publications&lt;/li&gt;
+&lt;li&gt;create &lt;strong&gt;social moments&lt;/strong&gt;: breakfasts, happy hours, retreat, pizza day,&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;general public&lt;/strong&gt; : semaine du cerveau, the conversation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;train students and staff&lt;/strong&gt; and attract young researchers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Master level:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;create a space for sharing Master&amp;rsquo;s or thesis subjects to be distributed in the SdV doctoral schools but also to the &amp;ldquo;hard&amp;rdquo; sciences (ED info, engineering schools),
+&lt;ul&gt;
+&lt;li&gt;In addition to training in neurosciences, we could try to build on&lt;/li&gt;
+&lt;li&gt;the Master Computational and Mathematical Biology (CMB, in connection with the CenTuri Institute) where there are courses in computational neurosciences (Laurent Pezard) and mathematical modeling for biology, in the broadest sense.&lt;/li&gt;
+&lt;li&gt;JL is involved in a business UE and next year in a programming UE. Some courses of the Master in Cognitive Sciences of the ILCB could also be interesting (NAMES of the speakers on AI?).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; secure two scholarships for Master 2 students for 2021/2022,
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; valider en réunion CE (&lt;strong&gt;Frédéric Chavane&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; call for proposal - receive candidatures (09/2021 - 12/2021)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; start (01/2022)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;PhDs and above:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The aim of this program is to help post-doctoral students to set up post-doctoral fellowships or to help them apply for jobs related to computational neurosciences (IR, CR, MdC, private sector, &amp;hellip;) ;&lt;/li&gt;
+&lt;li&gt;courses ? training (theoretical) - see that of PhDprogram&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What can be done @ INT (open to all staff) vs @ Timone (with INS, eBrains&amp;hellip;) vs @ NeuroSchool (course for master &amp;amp; PhD program) vs @ Instituts (IA&amp;amp;Santé, Marseille Imaging, NeuroMarseille)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What to train on ?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Theory &amp;amp; modeling : for better understanding by all and stimulating interactions&lt;/li&gt;
+&lt;li&gt;Data analysis : to help experimentalists to use advanced analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;structuring the network&lt;/strong&gt; of computational neurosciences at INT, on Timone, on AMU and in France &amp;amp; International:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;SAB début 2022 - HCERES Juin 2022&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SWOT&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;participate in the development of INT³ Projects by actively participating in the development of requests for means (ANR, Carnot Institute, foundations),&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Projects in general, in particular the &amp;lsquo;Transient&amp;rsquo; Project&lt;/li&gt;
+&lt;li&gt;cooperate in writing grants specific to computational neuroscience for actors of CONECT (CRCNS, &amp;hellip;) and related to CONECT (eBrains, PEPR Neurosciences computationnelles, &amp;hellip;)&lt;/li&gt;
+&lt;li&gt;coordinate activities with local partners (INS, INMED &amp;hellip;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;to elaborate a development strategy involving academic partners (bio-robotics, neurology, cognitive development, &amp;hellip;) and private partners (start-ups, new information technology sector, &amp;hellip;)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;opening to Marseille and outside (Destexhe)&lt;/li&gt;
+&lt;li&gt;International&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;increase the visibility&lt;/strong&gt; and attractiveness of INT in computational neurosciences&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;communicate through a dedicated space on &lt;a href=&#34;https://conect-int.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://conect-int.github.io/&lt;/a&gt; to share CONECT&amp;rsquo;s activities, regularly updated by a newsletter,&lt;/li&gt;
+&lt;li&gt;Develop collaboration and visibility on AMU through the creation of a biannual conference at CIRM&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>2022-06-20: CONECT at the CENTURI summer school</title>
+      <link>https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/</link>
+      <pubDate>Mon, 20 Jun 2022 14:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/</guid>
+      <description>&lt;h1 id=&#34;title-neural-computation-through-population-dynamics&#34;&gt;Title: Neural computation through population dynamics&lt;/h1&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Program in construction - you can already check the program of the &lt;a href=&#34;https://centuri-livingsystems.org/centuri-summer-school-2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;summer school&lt;/a&gt; (June 20 - July 01, 2022)!
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;question&#34;&gt;Question&lt;/h2&gt;
+&lt;p&gt;How does neural population dynamics relate to behaviorally-relevant computations?&lt;/p&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;At any given instant, hundreds of billions of cells in our brains are lighting up in a complicated yet highly coordinated manner to give rise to our thoughts, percepts, and movements. A single neuron may be connected to thousands of other cells, sending out and receiving information through electrical impulses called spikes. From an engineering perspective, these spikes form a signal that may be viewed as a series of ones and zeros rapidly unfolding in time. Altogether, these signals reflect the ongoing computations taking place inside the nervous system, and as such, constitute a window into the brain’s inner workings. Recent advances in recording techniques have allowed experimenters to collect data from hundreds to thousands of neurons simultaneously while animals perform simple tasks. Dealing with such high-dimensional data poses important technical challenges that require elaborate methods for data mining and analysis. In this project, students will deal with datasets of increasing complexity and develop a set of analyses to extract meaningful information from the data.&lt;/p&gt;
+&lt;h2 id=&#34;type-of-data&#34;&gt;Type of data&lt;/h2&gt;
+&lt;p&gt;Data that will be shared by the teaching staff, under the BIDS standard data organization which is currently being extended to electrophysiology data by the members of the INT and the CONECT team. The data we will use consists of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;publicly available recordings from the dorsomedial frontal cortex of NHPs performing a time-interval reproduction task (&lt;a href=&#34;https://github.com/jazlab/Meirhaeghe2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jazlab/Meirhaeghe2021&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;publicly available recordings from the motor cortex (M1/PMd) during an instructed reach-to-grasp task (&lt;a href=&#34;https://www.nature.com/articles/sdata201855&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nature.com/articles/sdata201855&lt;/a&gt;, available at the following URL in BIDS: &lt;a href=&#34;https://gin.g-node.org/sprenger/multielectrode_grasp/src/bep_animalephys&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gin.g-node.org/sprenger/multielectrode_grasp/src/bep_animalephys&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v4&lt;/a&gt; : V1, gratings-like, natural stimulations : extracellular electrophy recordings in cat V1&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;methods&#34;&gt;Methods&lt;/h2&gt;
+&lt;p&gt;Data visualisation, neural decoding, principal component analysis, kinematic and geometric analyses of neural trajectories in high-dimensional space, hypothesis-testing, null distributions and statistics&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computational Neuroscience projet</title>
+      <link>https://conect-int.github.io/slides/2022-06-20-conect-centuri-summer-school/</link>
+      <pubDate>Mon, 20 Jun 2022 14:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/slides/2022-06-20-conect-centuri-summer-school/</guid>
+      <description>
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/open-book.jpg&#34;
+  &gt;
+
+&lt;h1 id=&#34;computational-neuroscience-projet&#34;&gt;Computational Neuroscience projet&lt;/h1&gt;
+&lt;h2 id=&#34;centuri-summer-school&#34;&gt;CENTURI Summer school&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;li&gt;Hi, we are LP and NM and we look forward to start working with you on this project&lt;/li&gt;
+&lt;li&gt;as part of the CENTURI summer school - and we would like to thank the organizers of the school&amp;hellip;&lt;/li&gt;
+&lt;li&gt;In this short presentation, we will present the challenges that we want to tackle and which we named&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;neural-computation-through-population-dynamics&#34;&gt;Neural computation through population dynamics&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;our brains light up billions of cells in a structured way,&lt;/li&gt;
+&lt;li&gt;neural activity is in majority carried by action potentials, or &lt;em&gt;spikes&lt;/em&gt;,&lt;/li&gt;
+&lt;li&gt;we wish to better understand this structure by using machine learning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;blah blas blah&lt;/p&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;challenge-decoding-neural-activity&#34;&gt;Challenge: decoding neural activity&lt;/h2&gt;
+&lt;img data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/decoding.png&#34; height=&#34;420&#34; /&gt;
+&lt;p&gt;Hatsopoulos, Joshi, and O&amp;rsquo;Leary (2004) &lt;a href=&#34;https://journals.physiology.org/doi/full/10.1152/jn.01245.2003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1152/jn.01245.2003&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;blah blas blah&lt;/p&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;existing-datasets&#34;&gt;Existing datasets&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dataset 1: reaching task&lt;/li&gt;
+&lt;li&gt;Dataset 2 : grasping task&lt;/li&gt;
+&lt;li&gt;Dataset 3 : time interval task&lt;/li&gt;
+&lt;/ul&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;blah blas blah&lt;/p&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;dataset-1-reaching-task&#34;&gt;Dataset 1: reaching task&lt;/h2&gt;
+&lt;img data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/centerout-task.png&#34; height=&#34;420&#34; /&gt;
+&lt;p&gt;Hatsopoulos, Joshi, and O&amp;rsquo;Leary (2004) &lt;a href=&#34;https://journals.physiology.org/doi/full/10.1152/jn.01245.2003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1152/jn.01245.2003&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;blah blas blah&lt;/p&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;dataset-1-reaching-task-1&#34;&gt;Dataset 1: reaching task&lt;/h2&gt;
+&lt;img data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/trajectories.png&#34; height=&#34;420&#34; /&gt;
+&lt;p&gt;Hatsopoulos, Joshi, and O&amp;rsquo;Leary (2004) &lt;a href=&#34;https://journals.physiology.org/doi/full/10.1152/jn.01245.2003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1152/jn.01245.2003&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;blah blas blah&lt;/p&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;dataset-1-reaching-task-2&#34;&gt;Dataset 1: reaching task&lt;/h2&gt;
+&lt;p&gt;&lt;img class=&#34;fragment&#34; data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig1.jpeg&#34; height=&#34;350&#34; /&gt; &lt;img class=&#34;fragment&#34; data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig4.jpeg&#34; height=&#34;350&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Hatsopoulos, Joshi, and O&amp;rsquo;Leary (2004) &lt;a href=&#34;https://journals.physiology.org/doi/full/10.1152/jn.01245.2003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1152/jn.01245.2003&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;blah blas blah&lt;/p&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;dataset-2-grasping-task&#34;&gt;Dataset 2: grasping task&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsdata.2018.55/MediaObjects/41597_2018_Article_BFsdata201855_Fig1_HTML.jpg?as=webp&#34; height=&#34;420&#34; /&gt; &lt;img class=&#34;fragment&#34; data-src=&#34;https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fsdata.2018.55/MediaObjects/41597_2018_Article_BFsdata201855_Fig8_HTML.jpg?as=webp&#34; height=&#34;420&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Brochier, Zehl, Hao, Duret, Sprenger, Denker, Grün, &amp;amp; Riehle (2018) Scientific Data 5 : 180055. &lt;a href=&#34;https://www.nature.com/articles/sdata201855&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1038/sdata.2018.55&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;blah blas blah&lt;/p&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;dataset-3-time-interval-task&#34;&gt;Dataset 3: time interval task&lt;/h2&gt;
+&lt;img data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset3_time-interval-task/dataset3_fig1.jpg&#34; height=&#34;420&#34; /&gt;
+&lt;img class=&#34;fragment&#34; data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset3_time-interval-task/dataset3_fig2.jpg&#34; height=&#34;420&#34; /&gt;
+&lt;p&gt;Meirhaeghe, Sohn, and Jazayeri (2021) &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.03.10.434831v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1016/j.neuron.2021.08.025 &lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;hahahugoshortcode-s9-hbhb&#34;&gt;&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;blah blas blah&lt;/p&gt;
+
+&lt;/aside&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand the decoding problematic&lt;/li&gt;
+&lt;li&gt;Acquire the necessary computational skills&lt;/li&gt;
+&lt;li&gt;Learn to build a computational framework&lt;/li&gt;
+&lt;/ul&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTES&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;blah blas blah&lt;/p&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;home page: &lt;a href=&#34;https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GitHub repository: &lt;a href=&#34;https://github.com/CONECT-INT/2022_CENTURI-SummerSchool&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/CONECT-INT/2022_CENTURI-SummerSchool&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2022-05-12 : A CONECT seminar &#34;Global organization of neuronal activity only requires unstructured local connectivity&#34; (David Dahmen)</title>
+      <link>https://conect-int.github.io/talk/2022-05-12-a-conect-seminar-global-organization-of-neuronal-activity-only-requires-unstructured-local-connectivity-david-dahmen/</link>
+      <pubDate>Thu, 12 May 2022 14:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2022-05-12-a-conect-seminar-global-organization-of-neuronal-activity-only-requires-unstructured-local-connectivity-david-dahmen/</guid>
+      <description>&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://jonathanvacher.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Dahmen&lt;/a&gt; did present his recent work on &amp;ldquo;&lt;strong&gt;Global organization of neuronal activity only requires unstructured local connectivity&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35049496/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dahmen D, Layer M, Deutz L, Dąbrowska PA, Voges N, von Papen M, Brochier T, Riehle A, Diesmann M, Grün S, Helias M. Elife. 2022 Jan 20;11:e68422&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Dr. &lt;a href=&#34;https://www.fz-juelich.de/SharedDocs/Personen/INM/INM-6/EN/staff/Dahmen_David.html?nn=724620&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Dahmen&lt;/a&gt; is a PostDoc at the Research Centre Jülich (Institute of Neuroscience and Medicine (INM-6), Computational and Systems Neuroscience &amp;amp; Institute for Advanced Simulation (IAS-6), Theoretical Neuroscience &amp;amp; JARA-Institut Brain structure-function relationships (INM-10)).
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2022-03-04 : INT Seminar - &#34;Unifying Different Psychometric Methods : Theory and Experiment&#34; (Jonathan Vacher)</title>
+      <link>https://conect-int.github.io/talk/2022-03-04-int-seminar-unifying-different-psychometric-methods-theory-and-experiment-jonathan-vacher/</link>
+      <pubDate>Fri, 04 Mar 2022 14:30:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2022-03-04-int-seminar-unifying-different-psychometric-methods-theory-and-experiment-jonathan-vacher/</guid>
+      <description>&lt;p&gt;During a seminar at the Institute of Neurosciences Timone in Marseille, &lt;a href=&#34;https://jonathanvacher.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jonathan Vacher&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Unifying Different Psychometric Methods : Theory and Experiment&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The two-alternative forced choice (2AFC) paradigm is one of the main methods used to measure perceptual thresholds and biases. Measurements from a 2AFC experiment can be modelled using signal detection theory (SDT) from which the psychometric function can be derived theoretically. Recent efforts to combine SDT with Bayesian probabilities has linked thresholds and biases to hypothesized prior knowledge and optimal encoding/decoding [1]. From another perspective, the maximum likelihood difference scaling (MLDS) paradigm is a more recent method that allows the experimenter to estimate a perceptual scale that links a physical property to a psychological dimension [2]. Such a perceptual scale is obtained from the comparison of relative differences between pairs of stimuli. Here again, the underlying model can be understood in terms of SDT and Bayesian probabilities. However, no comparison between MLDS and 2AFC measurements has been performed yet. Here, we introduce the theory that unifies those measurements and we present some preliminary experimental results. In this context, we further explore how MLDS measurements could help to understand the perception of more complex textures generated from the statistic of deep neural network features [3].&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;[1] Wei, X. X., &amp;amp; Stocker, A. A. (2017). Lawful relation between perceptual bias and discriminability. Proceedings of the National Academy of Sciences, 114(38), 10244-10249.&lt;/p&gt;
+&lt;p&gt;[2] Maloney, L. T., &amp;amp; Yang, J. N. (2003). Maximum likelihood difference scaling. Journal of Vision, 3(8):5, 573-585.&lt;/p&gt;
+&lt;p&gt;[3] Vacher, J. &amp;amp; Davila, A., Kohn, A. &amp;amp; Coen-Cagli, R. (2021). Texture Interpolation for Probing Visual Perception. Advances in Neural Information Processing Systems, 33.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Dr. &lt;a href=&#34;https://jonathanvacher.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jonathan Vacher&lt;/a&gt; was a student at École Normale Supérieure de Cachan (now &lt;a href=&#34;http://www.ens-paris-saclay.fr/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Saclay&lt;/a&gt;) where he pursued a degree in mathematics and applied mathematics. He completed his bachelor&amp;rsquo;s and master&amp;rsquo;s degree with a specialty in computational imaging and machine learning (&lt;a href=&#34;http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Master MVA&lt;/a&gt;). He started a multidisciplinary PhD in mathematics (&lt;a href=&#34;http://www.dauphine.fr/en/research/research-centers/ceremade-umr-7534.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Paris Dauphine University, CEREMADE)&lt;/a&gt; and neuroscience (&lt;a href=&#34;https://neuropsi.cnrs.fr/fr/icn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CNRS, UNIC&lt;/a&gt;) under the supervision of &lt;a href=&#34;http://www.gpeyre.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gabriel Peyré&lt;/a&gt; and &lt;a href=&#34;https://www.unic.cnrs-gif.fr/people/cyril_monier/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cyril Monier&lt;/a&gt;. Then, Jonathan was a postdoc at Albert Einstein College of Medicine in New-York between 2017 and 2020 while initiating a collaboration with Pascal Mamassian from the Laboratoire des Systèmes Perceptifs ()École Normale Supérieure de Paris) where he is currently a postdoc.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2022-02-24 : CONECT Seminar - &#34;Explainable AI for computational auditory neurosciences&#34; (Etienne Thoret)</title>
+      <link>https://conect-int.github.io/talk/2022-02-24-conect-seminar-explainable-ai-for-computational-auditory-neurosciences-etienne-thoret/</link>
+      <pubDate>Thu, 24 Feb 2022 14:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2022-02-24-conect-seminar-explainable-ai-for-computational-auditory-neurosciences-etienne-thoret/</guid>
+      <description>&lt;p&gt;Etienne Thoret (ILCB/PRISM/LIS/AMU) kindly accepted to present his research project during our novel series of CONECT-core © seminars (=seminars open to all but focused on the core theoretical scientific questions of the CONECT members):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Explainable AI for computational auditory neurosciences&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Machine learning and deep neural networks have been raised as compelling models to simulate a broad range of tasks on signals: from classification of sound events to the prediction of human physiological state from electrophysiological data. But what do we really understand about these models and how do they process the information they have been trained to process? As users, we often use them as tools without precisely understanding their mechanistic and representational underpinnings. In this talk, I&amp;rsquo;ll present recent works on how we can take part of these computational systems to answer fundamental research mysteries on auditory perception, speech production and cerebral processing. Beyond acoustics and sound perception, these techniques can find applications for the modeling of a variety of systems, including computational vision in robotics, haptics and clinical applications.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2021-12-10 : CONECT seminar - &#34;Sequence anticipation and STDP emerge from a voltage-based predictive learning rule&#34; (Matteo Saponati)</title>
+      <link>https://conect-int.github.io/talk/2021-12-10-conect-seminar-sequence-anticipation-and-stdp-emerge-from-a-voltage-based-predictive-learning-rule-matteo-saponati/</link>
+      <pubDate>Fri, 10 Dec 2021 11:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2021-12-10-conect-seminar-sequence-anticipation-and-stdp-emerge-from-a-voltage-based-predictive-learning-rule-matteo-saponati/</guid>
+      <description>&lt;p&gt;During a seminar at the Institute of Neurosciences Timone in Marseille, &lt;a href=&#34;https://github.com/matteosaponati&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matteo Saponati&lt;/a&gt;, will present his recent work showing that &amp;ldquo;&lt;strong&gt;Sequence anticipation and STDP emerge from a voltage-based predictive learning rule&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Intelligent behavior depends on the brain’s ability to anticipate future events. However, the learning rules that enable neurons to predict and fire ahead of sensory inputs remain largely unknown. We propose a plasticity rule based on predictive processing, where the neuron learns a low-rank model of the synaptic input dynamics in its membrane potential. Neurons thereby amplify those synapses that maximally predict other synaptic inputs based on their temporal relations, which provide a solution to an optimization problem that can be implemented at the single-neuron level using only local information. Consequently, neurons learn sequences over long timescales and shift their spikes towards the first inputs in a sequence. We show that this mechanism can explain the development of anticipatory motion signaling and recall in the visual system. Furthermore, we demonstrate that the learning rule gives rise to several experimentally observed STDP (spike-timing-dependent plasticity) mechanisms. These findings suggest prediction as a guiding principle to orchestrate learning and synaptic plasticity in single neurons.
+&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.10.31.466667v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biorxiv.org/content/10.1101/2021.10.31.466667v1&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;when: Friday 10th of December at 11am&lt;/li&gt;
+&lt;li&gt;where: Salle Laurent Vinay at the &lt;a href=&#34;https://www.int.univ-amu.fr/contact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institute of Neurosciences Timone&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;a href=&#34;https://github.com/matteosaponati&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matteo Saponati&lt;/a&gt; is a PhD candidate at &lt;a href=&#34;https://www.esi-frankfurt.de/research/vinck-lab/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ernst Strüngmann Institute (ESI) for Neuroscience - IMPRS for Neural Circuits&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2020-09-11 : CONECT seminar - &#34;Feedforward and feedback processes in visual recognition&#34; (T Serre)</title>
+      <link>https://conect-int.github.io/talk/2020-09-11-conect-seminar-feedforward-and-feedback-processes-in-visual-recognition-t-serre/</link>
+      <pubDate>Fri, 11 Sep 2020 14:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2020-09-11-conect-seminar-feedforward-and-feedback-processes-in-visual-recognition-t-serre/</guid>
+      <description>&lt;p&gt;During a seminar at the Institute of Neurosciences Timone in Marseille, &lt;a href=&#34;http://serre-lab.clps.brown.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thomas Serre&lt;/a&gt; will present his recent work on &amp;ldquo;Feedforward and feedback processes in visual recognition&amp;rdquo;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Progress in deep learning has spawned great successes in many engineering applications. As a prime example, convolutional neural networks, a type of feedforward neural networks, are now approaching – and sometimes even surpassing – human accuracy on a variety of visual recognition tasks. In this talk, however, I will show that these neural networks and their recent extensions exhibit a limited ability to solve seemingly simple visual reasoning problems involving incremental grouping, similarity, and spatial relation judgments. Our group has developed a recurrent network model of classical and extra-classical receptive fields that is constrained by the anatomy and physiology of the visual cortex. The model was shown to account for diverse visual illusions providing computational evidence for a novel canonical circuit that is shared across visual modalities. I will show that this computational neuroscience model can be turned into a modern end-to-end trainable deep recurrent network architecture that addresses some of the shortcomings exhibited by state-of-the-art feedforward networks for solving complex visual reasoning tasks. This suggests that neuroscience may contribute powerful new ideas and approaches to computer science and artificial intelligence.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Dr. &lt;a href=&#34;http://serre-lab.clps.brown.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thomas Serre&lt;/a&gt; is an Associate Professor in Cognitive Linguistic &amp;amp; Psychological Sciences and an affiliate of the Carney Institute for Brain Science at Brown University. He received a Ph.D. in Neuroscience from MIT in 2006 and an MSc in EECS from Télécom Bretagne (France) in 2000. His research seeks to understand the neural computations supporting visual perception and has been featured in the BBC series “Visions from the Future” and other news articles (The Economist, New Scientist, Scientific American, IEEE Computing in Science and Technology, Technology Review and Slashdot). Dr. Serre is the Faculty Director of the Center for Computation and Visualization and the Associate Director of the Initiative for Computation in Brain and Mind at Brown University. He also holds an International Chair in AI within the Artificial and Natural Intelligence Toulouse Institute (France). Dr. Serre has served as an area chair and a senior program committee member for top-tier machine learning and computer vision conferences including AAAI, CVPR, and NeurIPS. He is currently serving as a domain expert for IARPA’s Machine Intelligence from Cortical Networks (MICrONS) program and as a scientific advisor for Vium, Inc. He was the recipient of an NSF Early Career Award as well as DARPA’s Young Faculty Award and Director’s Award.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://conect-int.github.io/slides/conect/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/slides/conect/</guid>
+      <description>
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/open-book.jpg&#34;
+  &gt;
+
+&lt;h1 id=&#34;conect&#34;&gt;CoNeCt&lt;/h1&gt;
+&lt;h2 id=&#34;the-computational-neuroscience-center--int&#34;&gt;the &lt;strong&gt;Co&lt;/strong&gt;mputational &lt;strong&gt;Ne&lt;/strong&gt;uroscience &lt;strong&gt;C&lt;/strong&gt;en&lt;strong&gt;t&lt;/strong&gt;er @ INT&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://conect-int.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://conect-int.github.io&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;CONECT with one N&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;tremendous-technological-advances&#34;&gt;Tremendous technological advances&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;two photon imaging&lt;/li&gt;
+&lt;li&gt;large population recording-array technologies&lt;/li&gt;
+&lt;li&gt;optogenetic circuit control tools&lt;/li&gt;
+&lt;li&gt;transgenic manipulations&lt;/li&gt;
+&lt;li&gt;large volume circuit reconstructions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;Tremendous technological advances over the past decade&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;These experiments have begun to produce a huge amount of data, on a broad spectrum of temporal and spatial scales,&lt;/li&gt;
+&lt;li&gt;providing finer and more quantitative descriptions of the biological reality than we would have been able to dream of only a decade ago.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;a-transdisciplinary-revolution&#34;&gt;A transdisciplinary revolution&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;across several disciplines (physics, genetics, biology, robotics, psychiatry, ..)&lt;/li&gt;
+&lt;li&gt;and multiple scales (from micro to macro, from short to long-term, from theory to biology)&lt;/li&gt;
+&lt;li&gt;new frontiers&lt;span class=&#34;fragment &#34; &gt;
+… and new challenges
+&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;daunting complexity of the biological reality revealed by these technologies highlights the importance of neurophysics&lt;/li&gt;
+&lt;li&gt;to provide a conceptual bridge between abstract principles of brain function and their biological implementations within neural circuits.&lt;/li&gt;
+&lt;li&gt;This revolution is accompanied by a parallel revolution in the domain of Artificial Intelligence. An exponential number of algorithms in sensory processing, such as image classification, or reinforcement learning have realized practical tools which have replaced the classical tools we were using on a daily basis by a novel range of intelligent tools of a new generation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;This is the context in which we are creating CONECT.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;conect-computational-neuroscience-center&#34;&gt;CoNeCt: &lt;strong&gt;Co&lt;/strong&gt;mputational &lt;strong&gt;Ne&lt;/strong&gt;uroscience &lt;strong&gt;C&lt;/strong&gt;en&lt;strong&gt;t&lt;/strong&gt;er&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;close collaboration between experimentalists and theoreticians&lt;/li&gt;
+&lt;li&gt;share state-of-the-art (experimentalists well aware of theoretical approaches, experimental techniques for theoreticians)&lt;/li&gt;
+&lt;li&gt;complementary in its purpose from neuroinformatics&amp;hellip; &lt;span class=&#34;fragment &#34; &gt;
+but distinct
+&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;We are convinced that close collaboration between experimentalists and theoreticians in neuroscience is essential to develop mechanistic as well as quantitative understandings of how the brain performs its functions. This is in fact a primary motivating force in establishing this center.&lt;/li&gt;
+&lt;li&gt;However, for such collaborations to be effective, experimentalists must be well aware of the approaches and challenges in modeling while theoreticians must be well acquainted with the experimental techniques, their power and the challenges they present.&lt;/li&gt;
+&lt;li&gt;CoNeCt has also the ambition to contribute to the training of a new generation of neuroscientists who will have all these qualities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This approach is therefore complementary but distinct in its purpose from neuroinformatics (creation of tools for analyzing neuroscientific data) or artificial intelligence (creation of algorithms inspired by the functioning of the brain). The field of computational neuroscience is still young but its community is now structured in an autonomous community with strong interaction with the other branches of neuroscience. It is this autonomy that we want to foster at INT.
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;objectives-of-conect&#34;&gt;Objectives of CoNeCt&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;to create a space for scientific discussion and animation&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;train students and staff and attract young researchers:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;structuring the network of computational neurosciences at INT, on Timone, on AMU and in France &amp;amp; International&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;lots of work - bottom approach so far&lt;/li&gt;
+&lt;li&gt;no action taken&lt;/li&gt;
+&lt;li&gt;lots of work - existence of top-down initiatives&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;actions-of-conect&#34;&gt;Actions of CoNeCt&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;div class=&#34;view-list view-list-item&#34;&gt;
+  &lt;i class=&#34;far fa-newspaper pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://conect-int.github.io/post/actors-conect/&#34; &gt;Actors of CONECT&lt;/a&gt;
+
+  
+
+  
+
+  
+
+&lt;/div&gt;
+
+
+
+&lt;/li&gt;
+&lt;li&gt;
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+&lt;div class=&#34;view-list view-list-item&#34;&gt;
+  &lt;i class=&#34;far fa-newspaper pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
+  &lt;a href=&#34;https://conect-int.github.io/post/objectives-conect/&#34; &gt;Objectives of CONECT&lt;/a&gt;
+
+  
+
+  
+
+  
+
+&lt;/div&gt;
+
+
+
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://conect-int.github.io/event&#34;&gt;Past events&lt;/a&gt; and future&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://amubox.univ-amu.fr/f/867023067&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Methodology&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Actors&lt;/li&gt;
+&lt;li&gt;we already organized events within or outside INT&lt;/li&gt;
+&lt;li&gt;objectives : exist&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://conect-int.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://conect-int.github.io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto://int-conect@univ-amu.fr&#34;&gt;Contact us @ int-conect@univ-amu.fr!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://framateam.org/int-marseille/channels/conect&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Let&amp;rsquo;s discuss on Mattermost&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
