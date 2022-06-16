@@ -32,6 +32,14 @@
 
 &lt;/aside&gt;
 &lt;hr&gt;
+&lt;h2 id=&#34;who-are-we&#34;&gt;Who are we?&lt;/h2&gt;
+&lt;img data-src=&#34;https://conect-int.github.io/authors/nicolas-meirhaeghe/avatar.jpg&#34; height=&#34;200&#34; /&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;blah blas blah&lt;/p&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;neural-computation-through-population-dynamics&#34;&gt;Neural computation through population dynamics&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;our brains light up billions of cells in a structured way,&lt;/li&gt;
@@ -85,7 +93,6 @@
 &lt;hr&gt;
 &lt;h2 id=&#34;dataset-1-reaching-task-2&#34;&gt;Dataset 1: reaching task&lt;/h2&gt;
 &lt;p&gt;&lt;img class=&#34;fragment&#34; data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig1.jpeg&#34; height=&#34;350&#34; /&gt; &lt;img class=&#34;fragment&#34; data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig4.jpeg&#34; height=&#34;350&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Hatsopoulos, Joshi, and O&amp;rsquo;Leary (2004) &lt;a href=&#34;https://journals.physiology.org/doi/full/10.1152/jn.01245.2003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1152/jn.01245.2003&lt;/a&gt;&lt;/p&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;blah blas blah
@@ -106,7 +113,7 @@ blah blas blah&lt;/p&gt;
 &lt;img data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset3_time-interval-task/dataset3_fig1.jpg&#34; height=&#34;420&#34; /&gt;
 &lt;img class=&#34;fragment&#34; data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset3_time-interval-task/dataset3_fig2.jpg&#34; height=&#34;420&#34; /&gt;
 &lt;p&gt;Meirhaeghe, Sohn, and Jazayeri (2021) &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.03.10.434831v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1016/j.neuron.2021.08.025 &lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;hahahugoshortcode-s9-hbhb&#34;&gt;&lt;aside class=&#34;notes&#34;&gt;
+&lt;h2 id=&#34;hahahugoshortcode-s10-hbhb&#34;&gt;&lt;aside class=&#34;notes&#34;&gt;
   &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;blah blas blah&lt;/p&gt;
 
