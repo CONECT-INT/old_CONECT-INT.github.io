@@ -182,7 +182,16 @@
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;who-are-we&#34;&gt;Who are we?&lt;/h2&gt;
-&lt;img data-src=&#34;https://conect-int.github.io/authors/nicolas-meirhaeghe/avatar.jpg&#34; height=&#34;200&#34; /&gt;
+ &lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;&lt;img data-src=&#34;https://conect-int.github.io/authors/nicolas-meirhaeghe/avatar.jpg&#34; height=&#34;200&#34; /&gt;&lt;/th&gt;
+    &lt;th&gt;&lt;img data-src=&#34;https://conect-int.github.io/authors/nicolas-meirhaeghe/avatar.jpg&#34; height=&#34;200&#34; /&gt;&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Nicolas&lt;/td&gt;
+    &lt;td&gt;Laurent&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt; 
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;blah blas blah&lt;/p&gt;
