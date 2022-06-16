@@ -83,13 +83,13 @@
  <table>
   <tr>
     <th><img data-src="/authors/nicolas-meirhaeghe/avatar.jpg" height="200" /></th>
-    <th><img data-src="/authors/nicolas-meirhaeghe/avatar.jpg" height="200" /></th>
+    <th><img data-src="/authors/laurent-u-perrinet/avatar.jpg" height="200" /></th>
   </tr>
   <tr>
-    <td>Nicolas</td>
-    <td>Laurent</td>
+    <td>Nicolas<BR>Meirhaeghe</td>
+    <td>Laurent<BR>Perrinet</td>
   </tr>
-</table> 
+</table>
 <aside class="notes">
   <p><strong>2 MINUTE</strong></p>
 <p>blah blas blah</p>
@@ -105,15 +105,16 @@
     <section>
     
       
-<h2 id="neural-computation-through-population-dynamics">Neural computation through population dynamics</h2>
+<h2 id="challenge-brain-decoding">Challenge: brain decoding</h2>
+<img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/decoding.png" height="420" />
+<p>Hatsopoulos, Joshi, and O&rsquo;Leary (2004) <a href="https://journals.physiology.org/doi/full/10.1152/jn.01245.2003" target="_blank" rel="noopener">doi:10.1152/jn.01245.2003</a></p>
+<aside class="notes">
+  <p><strong>2 MINUTE</strong></p>
 <ul>
 <li>our brains light up billions of cells in a structured way,</li>
 <li>neural activity is in majority carried by action potentials, or <em>spikes</em>,</li>
 <li>we wish to better understand this structure by using machine learning.</li>
 </ul>
-<aside class="notes">
-  <p><strong>2 MINUTE</strong></p>
-<p>blah blas blah</p>
 
 </aside>
 
@@ -126,29 +127,33 @@
     <section>
     
       
-<h2 id="challenge-decoding-neural-activity">Challenge: decoding neural activity</h2>
-<img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/decoding.png" height="420" />
-<p>Hatsopoulos, Joshi, and O&rsquo;Leary (2004) <a href="https://journals.physiology.org/doi/full/10.1152/jn.01245.2003" target="_blank" rel="noopener">doi:10.1152/jn.01245.2003</a></p>
-<aside class="notes">
-  <p><strong>1 MINUTE</strong></p>
-<p>blah blas blah</p>
-
-</aside>
-
-    </section>
-    
-
-    
-    
-    
-    <section>
-    
-      
-<h2 id="existing-datasets">Existing datasets</h2>
+<h2 id="objectives">Objectives</h2>
 <ul>
-<li>Dataset 1: reaching task</li>
-<li>Dataset 2 : grasping task</li>
-<li>Dataset 3 : time interval task</li>
+<li>Learn computational methods to interpret and interrogate neural data</li>
+<li>Learn to reduce the complexity of high-dimensional neural data</li>
+<li>Learn statistical approaches to perform hypothesis-testing on neural data</li>
+<li>Learn the principles of decoding analyses to relate neural data to behavioral data</li>
+</ul>
+<aside class="notes">
+  <p><strong>2 MINUTES</strong></p>
+<p>blah blas blah</p>
+
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="datasets">Datasets</h2>
+<ul>
+<li>Dataset 1: reaching task (Hatsopoulos et al., J. Neurophysiol., 2004)</li>
+<li>Dataset 2: grasping task (Brochier et al., Sci. Data, 2018)</li>
+<li>Dataset 3: time interval task (Meirhaeghe et al., Neuron, 2021)</li>
 </ul>
 <aside class="notes">
   <p><strong>1 MINUTE</strong></p>
@@ -166,49 +171,27 @@
     
       
 <h2 id="dataset-1-reaching-task">Dataset 1: reaching task</h2>
-<img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/centerout-task.png" height="420" />
+<h5 id="goal-decode-intended-arm-movements-from-motor-cortical-activity">Goal: decode intended arm movements from motor cortical activity</h5>
+<p><img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/centerout-task.png" height="200" /><img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/trajectories.png" height="300" /></p>
 <p>Hatsopoulos, Joshi, and O&rsquo;Leary (2004) <a href="https://journals.physiology.org/doi/full/10.1152/jn.01245.2003" target="_blank" rel="noopener">doi:10.1152/jn.01245.2003</a></p>
 <aside class="notes">
   <p><strong>1 MINUTE</strong></p>
 <p>blah blas blah</p>
 
 </aside>
+<!--
+---
 
-    </section>
-    
+## Dataset 1: reaching task
 
-    
-    
-    
-    <section>
-    
-      
-<h2 id="dataset-1-reaching-task-1">Dataset 1: reaching task</h2>
-<img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/trajectories.png" height="420" />
-<p>Hatsopoulos, Joshi, and O&rsquo;Leary (2004) <a href="https://journals.physiology.org/doi/full/10.1152/jn.01245.2003" target="_blank" rel="noopener">doi:10.1152/jn.01245.2003</a></p>
-<aside class="notes">
-  <p><strong>1 MINUTE</strong></p>
-<p>blah blas blah</p>
+<img class="fragment" data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig1.jpeg" height="350" /> <img class="fragment" data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig4.jpeg" height="350" />
 
-</aside>
-
-    </section>
-    
-
-    
-    
-    
-    <section>
-    
-      
-<h2 id="dataset-1-reaching-task-2">Dataset 1: reaching task</h2>
-<p><img class="fragment" data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig1.jpeg" height="350" /> <img class="fragment" data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig4.jpeg" height="350" /></p>
 <aside class="notes">
   <p><strong>1 MINUTE</strong></p>
 <p>blah blas blah
 blah blas blah</p>
 
-</aside>
+</aside> -->
 
     </section>
     
@@ -220,7 +203,7 @@ blah blas blah</p>
     
       
 <h2 id="dataset-2-grasping-task">Dataset 2: grasping task</h2>
-<p><img data-src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsdata.2018.55/MediaObjects/41597_2018_Article_BFsdata201855_Fig1_HTML.jpg?as=webp" height="420" /> <img class="fragment" data-src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fsdata.2018.55/MediaObjects/41597_2018_Article_BFsdata201855_Fig8_HTML.jpg?as=webp" height="420" /></p>
+<img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset2_grasping-task/reach2grasp-task.png" height="250" />
 <p>Brochier, Zehl, Hao, Duret, Sprenger, Denker, Grün, &amp; Riehle (2018) Scientific Data 5 : 180055. <a href="https://www.nature.com/articles/sdata201855" target="_blank" rel="noopener">doi:10.1038/sdata.2018.55</a></p>
 <aside class="notes">
   <p><strong>1 MINUTE</strong></p>
@@ -238,22 +221,10 @@ blah blas blah</p>
     
       
 <h2 id="dataset-3-time-interval-task">Dataset 3: time interval task</h2>
-<img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset3_time-interval-task/dataset3_fig1.jpg" height="420" />
-<img class="fragment" data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset3_time-interval-task/dataset3_fig2.jpg" height="420" />
+<img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset3_time-interval-task/dataset3_fig1A.jpg" height="420" />
 <p>Meirhaeghe, Sohn, and Jazayeri (2021) <a href="https://www.biorxiv.org/content/10.1101/2021.03.10.434831v1" target="_blank" rel="noopener">doi:10.1016/j.neuron.2021.08.025 </a></p>
-<h2 id="hahahugoshortcode-s10-hbhb"><aside class="notes">
-  <p><strong>1 MINUTE</strong></p>
-<p>blah blas blah</p>
-
-</aside></h2>
-<h2 id="objectives">Objectives</h2>
-<ul>
-<li>Understand the decoding problematic</li>
-<li>Acquire the necessary computational skills</li>
-<li>Learn to build a computational framework</li>
-</ul>
 <aside class="notes">
-  <p><strong>2 MINUTES</strong></p>
+  <p><strong>1 MINUTE</strong></p>
 <p>blah blas blah</p>
 
 </aside>
@@ -269,12 +240,9 @@ blah blas blah</p>
       
 <h1 id="questions">Questions?</h1>
 <ul>
-<li>
-<p>home page: <a href="https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/" target="_blank" rel="noopener">https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/</a></p>
-</li>
-<li>
-<p>GitHub repository: <a href="https://github.com/CONECT-INT/2022_CENTURI-SummerSchool" target="_blank" rel="noopener">https://github.com/CONECT-INT/2022_CENTURI-SummerSchool</a></p>
-</li>
+<li>home page: <a href="https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/" target="_blank" rel="noopener">https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/</a></li>
+<li><a href="mailto:nmrghe@gmail.com,laurent.perrinet@univ-amu.fr">nicolas.meirhaeghe@univ-amu.fr, laurent.perrinet@univ-amu.fr</a></li>
+<li>GitHub repository: <a href="https://github.com/CONECT-INT/2022_CENTURI-SummerSchool" target="_blank" rel="noopener">https://github.com/CONECT-INT/2022_CENTURI-SummerSchool</a></li>
 </ul>
 
     </section>
