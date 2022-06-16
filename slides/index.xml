@@ -44,7 +44,6 @@
 
 &lt;/aside&gt;
 &lt;hr&gt;
-<<<<<<< HEAD
 &lt;h2 id=&#34;challenge-decoding-neural-activity&#34;&gt;Challenge: decoding neural activity&lt;/h2&gt;
 &lt;img data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/decoding.png&#34; height=&#34;420&#34; /&gt;
 &lt;p&gt;Hatsopoulos, Joshi, and O&amp;rsquo;Leary (2004) &lt;a href=&#34;https://journals.physiology.org/doi/full/10.1152/jn.01245.2003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1152/jn.01245.2003&lt;/a&gt;&lt;/p&gt;
@@ -58,15 +57,6 @@
 &lt;ul&gt;
 &lt;li&gt;Dataset 1: reaching task&lt;/li&gt;
 &lt;li&gt;Dataset 2 : grasping task&lt;/li&gt;
-=======
-&lt;h2 id=&#34;existing-datasets&#34;&gt;Existing datasets&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Dataset 1: reaching task
-&lt;ul&gt;
-&lt;li&gt;Dataset 2 : grasping task&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
->>>>>>> cfd85c6bea9cb839c758c144f04a2f6594c78c2d
 &lt;li&gt;Dataset 3 : time interval task&lt;/li&gt;
 &lt;/ul&gt;
 &lt;aside class=&#34;notes&#34;&gt;
@@ -115,11 +105,7 @@
 &lt;img data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset3_time-interval-task/dataset3_fig1.jpg&#34; height=&#34;420&#34; /&gt;
 &lt;img class=&#34;fragment&#34; data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset3_time-interval-task/dataset3_fig2.jpg&#34; height=&#34;420&#34; /&gt;
 &lt;p&gt;Meirhaeghe, Sohn, and Jazayeri (2021) &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.03.10.434831v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1016/j.neuron.2021.08.025 &lt;/a&gt;&lt;/p&gt;
-<<<<<<< HEAD
 &lt;h2 id=&#34;hahahugoshortcode-s9-hbhb&#34;&gt;&lt;aside class=&#34;notes&#34;&gt;
-=======
-&lt;h2 id=&#34;hahahugoshortcode-s8-hbhb&#34;&gt;&lt;aside class=&#34;notes&#34;&gt;
->>>>>>> cfd85c6bea9cb839c758c144f04a2f6594c78c2d
   &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;blah blas blah&lt;/p&gt;
 
