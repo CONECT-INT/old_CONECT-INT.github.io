@@ -18,6 +18,9 @@
       <pubDate>Mon, 20 Jun 2022 14:00:00 +0000</pubDate>
       <guid>https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/</guid>
       <description>&lt;h1 id=&#34;title-neural-computation-through-population-dynamics&#34;&gt;Title: Neural computation through population dynamics&lt;/h1&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;The CENTURI &lt;a href=&#34;https://twitter.com/hashtag/SummerSchool?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#SummerSchool&lt;/a&gt; 2022 has been launched this morning ! Rosa Cossart has welcomed all the participants this morning.👾&lt;br&gt;&lt;br&gt;Excited to begin these two weeks of transfer of knowledge and deep thinking at &lt;a href=&#34;https://twitter.com/univamu?ref_src=twsrc%5Etfw&#34;&gt;@univamu&lt;/a&gt;&lt;br&gt;!👏&lt;br&gt;&lt;br&gt;For more info➡️&lt;a href=&#34;https://t.co/K2oyuQWsmb&#34;&gt;https://t.co/K2oyuQWsmb&lt;/a&gt; &lt;a href=&#34;https://t.co/bAldJeyssj&#34;&gt;pic.twitter.com/bAldJeyssj&lt;/a&gt;&lt;/p&gt;&amp;mdash; CENTURI - Turing Centre for Living Systems (@centuri_ls) &lt;a href=&#34;https://twitter.com/centuri_ls/status/1538893493828997123?ref_src=twsrc%5Etfw&#34;&gt;June 20, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Program in construction - you can already check the program of the &lt;a href=&#34;https://centuri-livingsystems.org/centuri-summer-school-2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;summer school&lt;/a&gt; (June 20 - July 01, 2022)!
@@ -37,7 +40,40 @@
 &lt;p&gt;publicly available recordings from the motor cortex (M1/PMd) during an instructed reach-to-grasp task (&lt;a href=&#34;https://www.nature.com/articles/sdata201855&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nature.com/articles/sdata201855&lt;/a&gt;, available at the following URL in BIDS: &lt;a href=&#34;https://gin.g-node.org/sprenger/multielectrode_grasp/src/bep_animalephys&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gin.g-node.org/sprenger/multielectrode_grasp/src/bep_animalephys&lt;/a&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v4&lt;/a&gt; : V1, gratings-like, natural stimulations : extracellular electrophy recordings in cat V1&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5&lt;/a&gt; : V1, gratings-like, natural stimulations : extracellular electrophy recordings in cat V1&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;methods&#34;&gt;Methods&lt;/h2&gt;
+&lt;p&gt;Data visualisation, neural decoding, principal component analysis, kinematic and geometric analyses of neural trajectories in high-dimensional space, hypothesis-testing, null distributions and statistics&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2022-06-16: CONECT at the CENTURI summer school</title>
+      <link>https://conect-int.github.io/talk/2022-06-16-conect-at-the-centuri-summer-school/</link>
+      <pubDate>Thu, 16 Jun 2022 14:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2022-06-16-conect-at-the-centuri-summer-school/</guid>
+      <description>&lt;h1 id=&#34;title-neural-computation-through-population-dynamics&#34;&gt;Title: Neural computation through population dynamics&lt;/h1&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Program in construction - you can already check the program of the &lt;a href=&#34;https://centuri-livingsystems.org/centuri-summer-school-2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;summer school&lt;/a&gt; (June 20 - July 01, 2022)!
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;question&#34;&gt;Question&lt;/h2&gt;
+&lt;p&gt;How does neural population dynamics relate to behaviorally-relevant computations?&lt;/p&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;At any given instant, hundreds of billions of cells in our brains are lighting up in a complicated yet highly coordinated manner to give rise to our thoughts, percepts, and movements. A single neuron may be connected to thousands of other cells, sending out and receiving information through electrical impulses called spikes. From an engineering perspective, these spikes form a signal that may be viewed as a series of ones and zeros rapidly unfolding in time. Altogether, these signals reflect the ongoing computations taking place inside the nervous system, and as such, constitute a window into the brain’s inner workings. Recent advances in recording techniques have allowed experimenters to collect data from hundreds to thousands of neurons simultaneously while animals perform simple tasks. Dealing with such high-dimensional data poses important technical challenges that require elaborate methods for data mining and analysis. In this project, students will deal with datasets of increasing complexity and develop a set of analyses to extract meaningful information from the data.&lt;/p&gt;
+&lt;h2 id=&#34;type-of-data&#34;&gt;Type of data&lt;/h2&gt;
+&lt;p&gt;Data that will be shared by the teaching staff, under the BIDS standard data organization which is currently being extended to electrophysiology data by the members of the INT and the CONECT team. The data we will use consists of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;publicly available recordings from the dorsomedial frontal cortex of NHPs performing a time-interval reproduction task (&lt;a href=&#34;https://github.com/jazlab/Meirhaeghe2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jazlab/Meirhaeghe2021&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;publicly available recordings from the motor cortex (M1/PMd) during an instructed reach-to-grasp task (&lt;a href=&#34;https://www.nature.com/articles/sdata201855&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nature.com/articles/sdata201855&lt;/a&gt;, available at the following URL in BIDS: &lt;a href=&#34;https://gin.g-node.org/sprenger/multielectrode_grasp/src/bep_animalephys&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gin.g-node.org/sprenger/multielectrode_grasp/src/bep_animalephys&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5&lt;/a&gt; : V1, gratings-like, natural stimulations : extracellular electrophy recordings in cat V1&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;methods&#34;&gt;Methods&lt;/h2&gt;
