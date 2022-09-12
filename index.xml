@@ -5,7 +5,7 @@
     <link>https://conect-int.github.io/</link>
       <atom:link href="https://conect-int.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>CONECT | Computational Neuroscience Center @ INT</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Sep 2022 14:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Oct 2022 14:30:00 +0000</lastBuildDate>
     <image>
       <url>https://conect-int.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>CONECT | Computational Neuroscience Center @ INT</title>
@@ -157,10 +157,57 @@
     </item>
     
     <item>
-      <title>2022-09-08 : A CONECT seminar &#34;Spike-timing dependent plasticity among multiple layers of motion-sensitive neurons: a feedforward mechanism for motion extrapolation&#34; (Charlie Sexton)</title>
-      <link>https://conect-int.github.io/talk/2022-09-08-a-conect-seminar-spike-timing-dependent-plasticity-among-multiple-layers-of-motion-sensitive-neurons-a-feedforward-mechanism-for-motion-extrapolation-charlie-sexton/</link>
+      <title>2022-10-05 : A CONECT workshop &#34;Higher-order interactions in brain networks: from theory to data analysis&#34; by Giovanni Petri &amp; Daniele Marinazzo</title>
+      <link>https://conect-int.github.io/talk/2022-10-05-a-conect-workshop-higher-order-interactions-in-brain-networks-from-theory-to-data-analysis-by-giovanni-petri-daniele-marinazzo/</link>
+      <pubDate>Wed, 05 Oct 2022 14:30:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2022-10-05-a-conect-workshop-higher-order-interactions-in-brain-networks-from-theory-to-data-analysis-by-giovanni-petri-daniele-marinazzo/</guid>
+      <description>&lt;p&gt;I am pleased to invite you to a mini-workshop organized as a scientific activity of the Computational Neuroscience Center (CONECT) of the INT focused on &lt;strong&gt;&amp;ldquo;Higher-order interactions in brain networks: from theory to data analysis&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;Two speakers will present their work from two complementary theoretical perspectives, emerged from recent advances in network science (Giovanni Petri) and information theory (Daniele Marinazzo).&lt;/p&gt;
+&lt;p&gt;If you are interested in the topic and/or want to learn something new, please join us in the salle Laurent Vinay on Wednesday 5th October 2022 at 14:30.&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Here are the titles and abstracts of the two presentations:&lt;/p&gt;
+&lt;h2 id=&#34;giovanni-petri--turin-univ&#34;&gt;Giovanni Petri  (Turin Univ)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://lordgrilo.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://lordgrilo.github.io/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://scholar.google.co.uk/citations?user=jb__2PIAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar.google.co.uk/citations?user=jb__2PIAAAAJ&amp;hl=en&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Title: &lt;strong&gt;Between higher-order mechanisms and phenomena&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Abstract: Complex networks have become the main paradigm for modelling the dynamics of complex interacting systems. However, networks are intrinsically limited to describing pairwise interactions, whereas real-world systems are often characterized by higher-order interactions involving groups of three or more units. Higher-order structures, such as hypergraphs and simplicial complexes, are therefore a better tool to map the real organization of many social, biological and man-made systems. At the same time, higher-order observables, typically topological or information-theoretic in nature and often sharing the same simplicial language, have been gathering  attention for their capacity to capture properties of complex systems that are invisible to standard statistical descriptions. This had led to a certain confusion between these two facets, mechanisms on one side, phenomena on the other. Here, using recent examples from both computational modeling and neuroimaging analysis, I highlight collective behaviours induced by higher-order interactions, their interface with recent advances in topological data analysis, and finally outline three key challenges for the physics of higher-order complex systems.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;daniele-marinazzo-ghent-univ&#34;&gt;Daniele Marinazzo (Ghent Univ)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://users.ugent.be/~dmarinaz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://users.ugent.be/~dmarinaz/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=OJbWSLoAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar.google.com/citations?user=OJbWSLoAAAAJ&amp;hl=en&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Title: Two  is company, three is a party, and how not to get lost in big parties: practical considerations on higher-order data analysis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Abstract: I will make the case for looking for high-order interactions in (neural) data, and for trying to do so in a principled yet feasible way (who needs yet another axiom?).
+I will then loop back and show how we can find low-order descriptors of high-order interactions (we&amp;rsquo;re not good in figuring things in high dimensions).&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2022-09-08 : CONECT seminar by Charlie Sexton</title>
+      <link>https://conect-int.github.io/talk/2022-09-08-conect-seminar-by-charlie-sexton/</link>
       <pubDate>Thu, 08 Sep 2022 14:00:00 +0000</pubDate>
-      <guid>https://conect-int.github.io/talk/2022-09-08-a-conect-seminar-spike-timing-dependent-plasticity-among-multiple-layers-of-motion-sensitive-neurons-a-feedforward-mechanism-for-motion-extrapolation-charlie-sexton/</guid>
+      <guid>https://conect-int.github.io/talk/2022-09-08-conect-seminar-by-charlie-sexton/</guid>
       <description>&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://psychologicalsciences.unimelb.edu.au/research/msps-research-groups/timing/lab/people#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Charlie Sexton&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Spike-timing dependent plasticity among multiple layers of motion-sensitive neurons: a feedforward mechanism for motion extrapolation&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The ability of the brain to represent the external world in real-time is impacted by the fact that neural processing takes time. Because neural delays accumulate as information progresses through the visual system, representations encoded at each hierarchical level are based upon input that is progressively outdated with respect to the external world. This is particularly relevant to the task of localizing a moving object – because the object’s location changes with time, neural representations of its location potentially lag behind its true location. It has therefore been proposed that the visual system utilizes the predictive nature of motion to extrapolate moving objects along their trajectory. Burkitt and Hogendoorn (2021, &lt;a href=&#34;https://doi.org/10.1523/JNEUROSCI.2017-20.2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1523/JNEUROSCI.2017-20.2021&lt;/a&gt;) showed how spike-timing dependent plasticity (STDP) can achieve motion extrapolation in a two-layer, feedforward network of velocity-tuned neurons, by shifting the receptive-fields of second-layer neurons in the opposite direction to a moving stimulus. The current study extends this work by implementing two important changes to the network to bring it more into line with biology: we expanded the network to multiple layers to reflect the depth of the visual hierarchy, and we implemented more realistic synaptic time-courses. We examine the degree to which STDP can facilitate compensation of neural delays across six layers, and show that the multi-layer network achieves cumulative compensation comparable in magnitude to the delays incurred in visual processing. We also explore the effect of additional delays imposed on the network by the integration time of the membrane potential.&lt;/p&gt;
