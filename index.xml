@@ -5,7 +5,7 @@
     <link>https://conect-int.github.io/</link>
       <atom:link href="https://conect-int.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>CONECT | Computational Neuroscience Center @ INT</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Oct 2022 14:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Nov 2022 14:00:00 +0000</lastBuildDate>
     <image>
       <url>https://conect-int.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>CONECT | Computational Neuroscience Center @ INT</title>
@@ -157,6 +157,24 @@
     </item>
     
     <item>
+      <title>2022-11-24 : CONECT seminar by Bruno Cessac</title>
+      <link>https://conect-int.github.io/talk/2022-11-24-conect-seminar-by-bruno-cessac/</link>
+      <pubDate>Thu, 24 Nov 2022 14:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2022-11-24-conect-seminar-by-bruno-cessac/</guid>
+      <description>&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://team.inria.fr/biovision/bruno-cessac/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bruno Cessac&lt;/a&gt; did present his recent work on &amp;ldquo;&lt;strong&gt;Retinal processing: Insights from mathematical modelling&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The retina is the entrance of the visual system. Although based on common biophysical principles, the dynamics of retinal neurons are quite different from their cortical counterparts, raising interesting problems for modellers. In this paper, I address some mathematically stated questions in this spirit, discussing, in particular: (1) How could lateral amacrine cell connectivity shape the spatio-temporal spike response of retinal ganglion cells? (2) How could spatio-temporal stimuli correlations and retinal network dynamics shape the spike train correlations at the output of the retina? These questions are addressed, first, introducing a mathematically tractable model of the layered retina, integrating amacrine cells’ lateral connectivity and piecewise linear rectification, allowing for computing the retinal ganglion cells receptive field together with the voltage and spike correlations of retinal ganglion cells resulting from the amacrine cells networks. Then, I review some recent results showing how the concept of spatio-temporal Gibbs distributions and linear response theory can be used to characterize the collective spike response to a spatio-temporal stimulus of a set of retinal ganglion cells, coupled via effective interactions corresponding to the amacrine cells network. On these bases, I briefly discuss several potential consequences of these results at the cortical level.
+Keywords: retinal network; visual system; spatio-temporal spike correlations; linear response; non stationarity&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    My research was initially modeling and analysis of large sized dynamical systems arising in various fields such as physics, biology, sociology, computers networks. I have worked on subjects such as self-organized criticality, linear response in chaotic systems, social networks, communications networks. My main interest concerns neuronal networks dynamics. I have developed methods combining dynamical systems theory, statistical physics and ergodic theory allowing to classify dynamics arising in canonical neuronal networks models like integrate and fire models or firing rate models. I have applied these methods for the study of synaptic and intrinsic plasticity, dynamical learning, spike coding, spike train statistics analysis, mean-field dynamics. I am now involved in developing models for the visual system, especially the retina, as well as numerical methods and software for neuroscientists.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>2022-10-05 : CONECT workshop &#34;Higher-order interactions in brain networks: from theory to data analysis&#34;</title>
       <link>https://conect-int.github.io/talk/2022-10-05-conect-workshop-higher-order-interactions-in-brain-networks-from-theory-to-data-analysis/</link>
       <pubDate>Wed, 05 Oct 2022 14:30:00 +0000</pubDate>
@@ -200,23 +218,6 @@
 &lt;p&gt;Abstract: I will make the case for looking for high-order interactions in (neural) data, and for trying to do so in a principled yet feasible way (who needs yet another axiom?).
 I will then loop back and show how we can find low-order descriptors of high-order interactions (we&amp;rsquo;re not good in figuring things in high dimensions).&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2022-09-08 : CONECT seminar by Charlie Sexton</title>
-      <link>https://conect-int.github.io/talk/2022-09-08-conect-seminar-by-charlie-sexton/</link>
-      <pubDate>Thu, 08 Sep 2022 14:00:00 +0000</pubDate>
-      <guid>https://conect-int.github.io/talk/2022-09-08-conect-seminar-by-charlie-sexton/</guid>
-      <description>&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://psychologicalsciences.unimelb.edu.au/research/msps-research-groups/timing/lab/people#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Charlie Sexton&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Spike-timing dependent plasticity among multiple layers of motion-sensitive neurons: a feedforward mechanism for motion extrapolation&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The ability of the brain to represent the external world in real-time is impacted by the fact that neural processing takes time. Because neural delays accumulate as information progresses through the visual system, representations encoded at each hierarchical level are based upon input that is progressively outdated with respect to the external world. This is particularly relevant to the task of localizing a moving object – because the object’s location changes with time, neural representations of its location potentially lag behind its true location. It has therefore been proposed that the visual system utilizes the predictive nature of motion to extrapolate moving objects along their trajectory. Burkitt and Hogendoorn (2021, &lt;a href=&#34;https://doi.org/10.1523/JNEUROSCI.2017-20.2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1523/JNEUROSCI.2017-20.2021&lt;/a&gt;) showed how spike-timing dependent plasticity (STDP) can achieve motion extrapolation in a two-layer, feedforward network of velocity-tuned neurons, by shifting the receptive-fields of second-layer neurons in the opposite direction to a moving stimulus. The current study extends this work by implementing two important changes to the network to bring it more into line with biology: we expanded the network to multiple layers to reflect the depth of the visual hierarchy, and we implemented more realistic synaptic time-courses. We examine the degree to which STDP can facilitate compensation of neural delays across six layers, and show that the multi-layer network achieves cumulative compensation comparable in magnitude to the delays incurred in visual processing. We also explore the effect of additional delays imposed on the network by the integration time of the membrane potential.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    More about Charlie: So far in my PhD I have looked at how spike-timing dependent plasticity (STDP) can shift feedforward connection strengths between levels of the visual hierarchy, such that higher levels encode moving objects further along their trajectory (as a mechanism for motion extrapolation). The project began with a paper by my supervisors, Hinze Hogendoorn and Tony Burkitt: &lt;a href=&#34;https://www.jneurosci.org/content/41/20/4428.abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.jneurosci.org/content/41/20/4428.abstract&lt;/a&gt;. I have been working on extending this model network to have 6 layers to see the combined effect of plasticity at several visual areas. I will attach my abstract for my ECVP talk here.
-  &lt;/div&gt;
-&lt;/div&gt;
 </description>
     </item>
     
