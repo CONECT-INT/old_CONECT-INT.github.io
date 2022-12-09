@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthieu Gilson | CONECT | Computational Neuroscience Center @ INT</title>
+    <link>https://conect-int.github.io/authors/matthieu-gilson/</link>
+      <atom:link href="https://conect-int.github.io/authors/matthieu-gilson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Matthieu Gilson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://conect-int.github.io/authors/matthieu-gilson/avatar_hu649687aaa067e9fe98cb8aa085fbad98_57526_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Matthieu Gilson</title>
+      <link>https://conect-int.github.io/authors/matthieu-gilson/</link>
+    </image>
+    
+  </channel>
+</rss>
