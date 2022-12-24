@@ -5,7 +5,7 @@
     <link>https://conect-int.github.io/event/</link>
       <atom:link href="https://conect-int.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 14:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 16:00:00 +0000</lastBuildDate>
     <image>
       <url>https://conect-int.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Events</title>
@@ -15,12 +15,13 @@
     <item>
       <title>2023-01-05 : CONECT seminar by Guillaume Dumas</title>
       <link>https://conect-int.github.io/talk/2023-01-05-conect-seminar-by-guillaume-dumas/</link>
-      <pubDate>Thu, 05 Jan 2023 14:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Jan 2023 16:00:00 +0000</pubDate>
       <guid>https://conect-int.github.io/talk/2023-01-05-conect-seminar-by-guillaume-dumas/</guid>
       <description>&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://www.extrospection.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guillaume Dumas&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Multilevel Development of Cognitive Abilities in an Artificial Neural Network&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Several neuronal mechanisms have been proposed to account for the formation of cognitive abilities through postnatal interactions with the physical and socio-cultural environment. Here, we introduce a three-level computational model of information processing and acquisition of cognitive abilities. We propose minimal architectural requirements to build these levels and how the parameters affect their performance and relationships. The first sensorimotor level handles local nonconscious processing, here during a visual classification task. The second level or cognitive level globally integrates the information from multiple local processors via long-ranged connections and synthesizes it in a global, but still nonconscious manner. The third and cognitively highest level handles the information globally and consciously. It is based on the Global Neuronal Workspace (GNW) theory and is referred to as conscious level. We use trace and delay conditioning tasks to, respectively, challenge the second and third levels. Results first highlight the necessity of epigenesis through selection and stabilization of synapses at both local and global scales to allow the network to solve the first two tasks. At the global scale, dopamine appears necessary to properly provide credit assignment despite the temporal delay between perception and reward. At the third level, the presence of interneurons becomes necessary to maintain a self-sustained representation within the GNW in the absence of sensory input. Finally, while balanced spontaneous intrinsic activity facilitates epigenesis at both local and global scales, the balanced excitatory-inhibitory ratio increases.&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;Mor info: &lt;a href=&#34;https://www.pnas.org/doi/10.1073/pnas.2201304119&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.pnas.org/doi/10.1073/pnas.2201304119&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Keywords: computational biology, dynamical systems, medical machine learning (ML), neuroscience, AI ethics&lt;/p&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
