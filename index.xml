@@ -5,7 +5,7 @@
     <link>https://conect-int.github.io/</link>
       <atom:link href="https://conect-int.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>CONECT | Computational Neuroscience Center @ INT</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Nov 2022 14:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 14:00:00 +0000</lastBuildDate>
     <image>
       <url>https://conect-int.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>CONECT | Computational Neuroscience Center @ INT</title>
@@ -65,6 +65,24 @@
       <description>&lt;p&gt;The Computational Neuroscience Center (CONECT) is an incubator within the INT to promote theoretical and computational neuroscience.&lt;/p&gt;
 &lt;p&gt;It ambitions to contribute to the training of a new generation of neuroscientists, following the revolution experienced by neuroscience over the past decades: tremendous technological advances across several disciplines have dramatically expanded the frontiers of experimentally accessible neuro-scientific facts. CONECT is thus concerned with new analysis tools and models that can account for large and complex datasets, in parallel with the NeuroTech Center that focuses on experimental devices.&lt;/p&gt;
 &lt;p&gt;CONECT aims to build an inter-disciplinary community within the INT to foster interactions between computational neuroscientists and with experimentalists. The tools include scientific animation (journal clubs, seminars) and practical sessions to leanr and master new tools. This will participate in structuring the teaching and research environment around computational neuroscience around AMU beyond INT alone. The plan is to involve not only local research partners of INT like NeuroMarseille and the Laennec Institute, but also engineer schools (PolyTech, Centrale Marseille) and applied mathematics masters.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-01-05 : CONECT seminar by Guillaume Dumas</title>
+      <link>https://conect-int.github.io/talk/2023-01-05-conect-seminar-by-guillaume-dumas/</link>
+      <pubDate>Thu, 05 Jan 2023 14:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2023-01-05-conect-seminar-by-guillaume-dumas/</guid>
+      <description>&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://www.extrospection.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guillaume Dumas&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Brain-to-brain coupling during handholding is associated with pain reduction&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The mechanisms underlying analgesia related to social touch are not clear. While recent research highlights the role of the empathy of the observer to pain relief in the target, the contribution of social interaction to analgesia is unknown. The current study examines brain-to-brain coupling during pain with interpersonal touch and tests the involvement of interbrain synchrony in pain alleviation. Romantic partners were assigned the roles of target (pain receiver) and observer (pain observer) under pain–no-pain and touch–no-touch conditions concurrent with EEG recording. Brain-to-brain coupling in alpha–mu band (8–12 Hz) was estimated by a three-step multilevel analysis procedure based on running window circular correlation coefficient and post hoc power of the findings was calculated using simulations. Our findings indicate that hand-holding during pain administration increases brain-to-brain coupling in a network that mainly involves the central regions of the pain target and the right hemisphere of the pain observer. Moreover, brain-to-brain coupling in this network was found to correlate with analgesia magnitude and observer’s empathic accuracy. These findings indicate that brain-to-brain coupling may be involved in touch-related analgesia.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Keywords: computational biology, dynamical systems, medical machine learning (ML), neuroscience, AI ethics&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Guillaume Dumas is an Associate Professor of Computational Psychiatry in the Faculty of Medicine at the Université de Montréal, and the Principle Investigator of the Precision Psychiatry and Social Physiology laboratory at the CHU Sainte-Justine Research Center. He holds the IVADO professorship for “AI in Mental Health”, and the FRQS J1 in “AI and Digital Health”.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
