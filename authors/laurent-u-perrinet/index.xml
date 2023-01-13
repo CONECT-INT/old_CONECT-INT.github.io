@@ -5,7 +5,7 @@
     <link>https://conect-int.github.io/authors/laurent-u-perrinet/</link>
       <atom:link href="https://conect-int.github.io/authors/laurent-u-perrinet/index.xml" rel="self" type="application/rss+xml" />
     <description>Laurent U Perrinet</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 16:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 14:30:00 +0000</lastBuildDate>
     <image>
       <url>https://conect-int.github.io/authors/laurent-u-perrinet/avatar_hu34ad5b8db880542c60288aed1996fc62_245755_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Laurent U Perrinet</title>
@@ -65,6 +65,20 @@
       <description>&lt;p&gt;The Computational Neuroscience Center (CONECT) is an incubator within the INT to promote theoretical and computational neuroscience.&lt;/p&gt;
 &lt;p&gt;It ambitions to contribute to the training of a new generation of neuroscientists, following the revolution experienced by neuroscience over the past decades: tremendous technological advances across several disciplines have dramatically expanded the frontiers of experimentally accessible neuro-scientific facts. CONECT is thus concerned with new analysis tools and models that can account for large and complex datasets, in parallel with the NeuroTech Center that focuses on experimental devices.&lt;/p&gt;
 &lt;p&gt;CONECT aims to build an inter-disciplinary community within the INT to foster interactions between computational neuroscientists and with experimentalists. The tools include scientific animation (journal clubs, seminars) and practical sessions to leanr and master new tools. This will participate in structuring the teaching and research environment around computational neuroscience around AMU beyond INT alone. The plan is to involve not only local research partners of INT like NeuroMarseille and the Laennec Institute, but also engineer schools (PolyTech, Centrale Marseille) and applied mathematics masters.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-01-05 : INT seminar by Andrea Alamia</title>
+      <link>https://conect-int.github.io/talk/2023-01-05-int-seminar-by-andrea-alamia/</link>
+      <pubDate>Fri, 20 Jan 2023 14:30:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2023-01-05-int-seminar-by-andrea-alamia/</guid>
+      <description>&lt;p&gt;During this INT seminar, &lt;a href=&#34;https://artipago.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrea Alamia&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Interpreting oscillations as travelling waves: the role of alpha-band oscillations in cognition&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Andrea Alamia is a CNRS researcher at the Brain and Cognition Research Center (CerCo) in Toulouse (France).
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
