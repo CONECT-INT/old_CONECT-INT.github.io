@@ -5,12 +5,29 @@
     <link>https://conect-int.github.io/authors/frederic-y-chavane/</link>
       <atom:link href="https://conect-int.github.io/authors/frederic-y-chavane/index.xml" rel="self" type="application/rss+xml" />
     <description>Frédéric Chavane</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Mar 2023 14:30:00 +0000</lastBuildDate>
     <image>
       <url>https://conect-int.github.io/authors/frederic-y-chavane/avatar_hu939e22bfda132e5dfe756f4281477277_68002_270x270_fill_lanczos_center_3.png</url>
       <title>Frédéric Chavane</title>
       <link>https://conect-int.github.io/authors/frederic-y-chavane/</link>
     </image>
+    
+    <item>
+      <title>2023-03-03 : INT seminar by Andrea Alamia</title>
+      <link>https://conect-int.github.io/talk/2023-03-03-int-seminar-by-andrea-alamia/</link>
+      <pubDate>Fri, 03 Mar 2023 14:30:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2023-03-03-int-seminar-by-andrea-alamia/</guid>
+      <description>&lt;p&gt;During this INT seminar, &lt;a href=&#34;https://artipago.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrea Alamia&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Interpreting oscillations as travelling waves: the role of alpha-band oscillations in cognition&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In this talk, I will present three studies that characterize oscillatory travelling waves in the framework of Predictive Coding. In the first study, I’ll introduce a simple model of the visual cortex based on predictive coding mechanisms, in which physiological communication delays between levels generate alpha-band rhythms. Interestingly, these oscillations propagate as traveling waves across levels, both forward (during visual stimulation) and backward (during rest). Remarkably, experimental EEG data matched the predictions of our model. The second study refines the results of the first one, demonstrating that the direction of propagation of alpha-band waves is task dependent. Specifically, forward waves (from occipital to frontal regions) prevail during visual processing, whereas backward waves (from frontal to occipital areas) occur predominantly without visual stimulation. The last study explores the effect of a powerful psychedelics drug, N,N, Dimethyltryptamine (DMT), on alpha-band oscillations, considering a model proposed in the literature based on Predictive Coding. Despite participants being in the eye-closed condition, DMT elicits a spatio-temporal pattern of cortical activation (i.e. travelling waves) similar to that produced by visual stimulation, in line with the predictions of the proposed model. Lastly, I’ll show some preliminary results about the role of oscillatory traveling waves in schizophrenic patients, interpreting the results in the light of Predictive Coding.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Andrea Alamia is a CNRS researcher at the Brain and Cognition Research Center (CerCo) in Toulouse (France).
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

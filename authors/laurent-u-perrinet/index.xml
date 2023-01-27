@@ -5,7 +5,7 @@
     <link>https://conect-int.github.io/authors/laurent-u-perrinet/</link>
       <atom:link href="https://conect-int.github.io/authors/laurent-u-perrinet/index.xml" rel="self" type="application/rss+xml" />
     <description>Laurent U Perrinet</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jun 2022 14:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 16:00:00 +0000</lastBuildDate>
     <image>
       <url>https://conect-int.github.io/authors/laurent-u-perrinet/avatar_hu34ad5b8db880542c60288aed1996fc62_245755_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Laurent U Perrinet</title>
@@ -24,102 +24,101 @@
     </item>
     
     <item>
+      <title>Actors of CONECT</title>
+      <link>https://conect-int.github.io/post/actors-conect/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/post/actors-conect/</guid>
+      <description>&lt;p&gt;Within the INT, many components of CONECT already exist, either carried by researchers in computational neurosciences or as themes strongly anchored in this field. A survey of the current situation reveals the existence of projects at different scales.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://conect-int.github.io/contact&#34;&gt;Contact&lt;/a&gt; us to be added!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;from the cellular to the network level
+&lt;ul&gt;
+&lt;li&gt;deciphering the biophysical principles underlying robustness of neuronal activity using quantitative genotype-to-phenotype mapping strategies and realistic neuronal model databases (&lt;strong&gt;Jean-Marc Goaillard&lt;/strong&gt;).&lt;/li&gt;
+&lt;li&gt;dynamics and function of small and large-scale neural networks: &lt;strong&gt;&lt;a href=&#34;https://conect-int.github.io/authors/laurent-u-perrinet/&#34;&gt;Laurent Perrinet&lt;/a&gt;&lt;/strong&gt; with &lt;a href=&#34;../../author/frederic-y-chavane&#34;&gt;Frédéric Chavane&lt;/a&gt;, &lt;strong&gt;&lt;a href=&#34;https://conect-int.github.io/authors/matthieu-gilson/&#34;&gt;Matthieu Gilson&lt;/a&gt;)&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;from networks to mesoscopic levels :
+&lt;ul&gt;
+&lt;li&gt;Bayesian inference and predictive process models (&lt;strong&gt;&lt;a href=&#34;../../author/anna-montagnini&#34;&gt;Anna Montagnini&lt;/a&gt;&lt;/strong&gt;, &lt;a href=&#34;../../author/emmanuel-dauce&#34;&gt;Emmanuel Daucé&lt;/a&gt; and &lt;a href=&#34;https://conect-int.github.io/authors/laurent-u-perrinet/&#34;&gt;Laurent Perrinet&lt;/a&gt;), reinforcement learning, action selection, decision &lt;a href=&#34;../../author/andrea-brovelli&#34;&gt;Andrea Brovelli&lt;/a&gt; and &lt;a href=&#34;../../author/emmanuel-dauce&#34;&gt;Emmanuel Daucé&lt;/a&gt;), link with attentional mechanisms (Guilhem Ibos)&lt;/li&gt;
+&lt;li&gt;information theory and functional connectivity for the analysis of cognitive brain networks (&lt;strong&gt;&lt;a href=&#34;../../author/andrea-brovelli&#34;&gt;Andrea Brovelli&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;a href=&#34;https://conect-int.github.io/authors/matthieu-gilson/&#34;&gt;Matthieu Gilson&lt;/a&gt;)&lt;/strong&gt; and &lt;a href=&#34;../../author/bruno-giordano&#34;&gt;Bruno Giordano&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;deep learning for data processing (&lt;strong&gt;&lt;a href=&#34;../../author/bruno-giordano&#34;&gt;Bruno Giordano&lt;/a&gt;&lt;/strong&gt;), deep learning + neuroimaging (&lt;em&gt;in voice perception&lt;/em&gt;) (Charly Lamothe) computational neuroscience and data processing in neuroinformatics (Sylvain Takerkart, NIT platform)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;at brain level
+&lt;ul&gt;
+&lt;li&gt;brain anatomy, particularly as applied to the formation of cortical folding (Julien Lefèvre with Guillaume Auzias, Sylvain Takerkart and &lt;strong&gt;&lt;a href=&#34;../../author/olivier-coulon&#34;&gt;Olivier Coulon&lt;/a&gt;&lt;/strong&gt;),&lt;/li&gt;
+&lt;li&gt;the development of prognostic models of the evolution of certain pathologies (Lionel Velly, &lt;strong&gt;Sylvain Takerkart&lt;/strong&gt;),&lt;/li&gt;
+&lt;li&gt;develop the collaboration of theoretical neurosciences with neuroinformatics, notably with the &lt;a href=&#34;http://www.int.univ-amu.fr/spip.php?page=plateform&amp;amp;equipe=CRISE&amp;amp;lang=fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIT&lt;/a&gt; (&lt;strong&gt;Sylvain Takerkart&lt;/strong&gt;, Guillaume Auzias)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A structuring of these different components through a center (independent of existing and future teams) would be a major asset to reach a new stage in the creation of INT³.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Objectives of CONECT</title>
       <link>https://conect-int.github.io/post/objectives-conect/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://conect-int.github.io/post/objectives-conect/</guid>
-      <description>&lt;p&gt;CONECT aims to serve as an incubator within INT to promote the use of methodologies developed in computational and theoretical neuroscience. It is not a service platform, but a catalyst for the creation and maturation of new multi-approach projects within INT.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;to &lt;strong&gt;create a space for scientific discussion and animation&lt;/strong&gt; :&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Journal Clubs&lt;/strong&gt; dedicated to transversal aspects guided by advances in computational neurosciences, and occasionally a &amp;ldquo;BrainHack&amp;rdquo; to lift locks on the use of tools and means implemented at INT or on AMU (mesocentre), should explicitly state specialization levels (from &amp;ldquo;safe&amp;rdquo; for persons not directly in the field to more specialized levels).
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Data club / Theory club&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;identify and propose &lt;strong&gt;INT seminars&lt;/strong&gt; in computational neurosciences&lt;/li&gt;
-&lt;li&gt;organization of &lt;strong&gt;debates&lt;/strong&gt; on theoretical aspects related to neuroscience&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;communicate&lt;/strong&gt;: youtube (on the model of &lt;em&gt;&lt;a href=&#34;https://www.youtube.com/channel/UCCSIveazurb4qrNIV7KV9fg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WWTNS&lt;/a&gt;&lt;/em&gt;), twitter, facebook, share our own publications&lt;/li&gt;
-&lt;li&gt;create &lt;strong&gt;social moments&lt;/strong&gt;: breakfasts, happy hours, retreat, pizza day,&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;general public&lt;/strong&gt; : semaine du cerveau, the conversation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;strong&gt;train students and staff&lt;/strong&gt; and attract young researchers:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Master level:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;create a space for sharing Master&amp;rsquo;s or thesis subjects to be distributed in the SdV doctoral schools but also to the &amp;ldquo;hard&amp;rdquo; sciences (ED info, engineering schools),
-&lt;ul&gt;
-&lt;li&gt;In addition to training in neurosciences, we could try to build on&lt;/li&gt;
-&lt;li&gt;the Master Computational and Mathematical Biology (CMB, in connection with the CenTuri Institute) where there are courses in computational neurosciences (Laurent Pezard) and mathematical modeling for biology, in the broadest sense.&lt;/li&gt;
-&lt;li&gt;JL is involved in a business UE and next year in a programming UE. Some courses of the Master in Cognitive Sciences of the ILCB could also be interesting (NAMES of the speakers on AI?).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; secure two scholarships for Master 2 students for 2021/2022,
-&lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; valider en réunion CE (&lt;strong&gt;Frédéric Chavane&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; call for proposal - receive candidatures (09/2021 - 12/2021)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; start (01/2022)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;PhDs and above:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The aim of this program is to help post-doctoral students to set up post-doctoral fellowships or to help them apply for jobs related to computational neurosciences (IR, CR, MdC, private sector, &amp;hellip;) ;&lt;/li&gt;
-&lt;li&gt;courses ? training (theoretical) - see that of PhDprogram&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;What can be done @ INT (open to all staff) vs @ Timone (with INS, eBrains&amp;hellip;) vs @ NeuroSchool (course for master &amp;amp; PhD program) vs @ Instituts (IA&amp;amp;Santé, Marseille Imaging, NeuroMarseille)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;What to train on ?&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Theory &amp;amp; modeling : for better understanding by all and stimulating interactions&lt;/li&gt;
-&lt;li&gt;Data analysis : to help experimentalists to use advanced analysis&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;structuring the network&lt;/strong&gt; of computational neurosciences at INT, on Timone, on AMU and in France &amp;amp; International:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;SAB début 2022 - HCERES Juin 2022&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;SWOT&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;participate in the development of INT³ Projects by actively participating in the development of requests for means (ANR, Carnot Institute, foundations),&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Projects in general, in particular the &amp;lsquo;Transient&amp;rsquo; Project&lt;/li&gt;
-&lt;li&gt;cooperate in writing grants specific to computational neuroscience for actors of CONECT (CRCNS, &amp;hellip;) and related to CONECT (eBrains, PEPR Neurosciences computationnelles, &amp;hellip;)&lt;/li&gt;
-&lt;li&gt;coordinate activities with local partners (INS, INMED &amp;hellip;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;to elaborate a development strategy involving academic partners (bio-robotics, neurology, cognitive development, &amp;hellip;) and private partners (start-ups, new information technology sector, &amp;hellip;)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;opening to Marseille and outside (Destexhe)&lt;/li&gt;
-&lt;li&gt;International&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;increase the visibility&lt;/strong&gt; and attractiveness of INT in computational neurosciences&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;communicate through a dedicated space on &lt;a href=&#34;https://conect-int.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://conect-int.github.io/&lt;/a&gt; to share CONECT&amp;rsquo;s activities, regularly updated by a newsletter,&lt;/li&gt;
-&lt;li&gt;Develop collaboration and visibility on AMU through the creation of a biannual conference at CIRM&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;p&gt;The Computational Neuroscience Center (CONECT) is an incubator within the INT to promote theoretical and computational neuroscience.&lt;/p&gt;
+&lt;p&gt;It ambitions to contribute to the training of a new generation of neuroscientists, following the revolution experienced by neuroscience over the past decades: tremendous technological advances across several disciplines have dramatically expanded the frontiers of experimentally accessible neuro-scientific facts. CONECT is thus concerned with new analysis tools and models that can account for large and complex datasets, in parallel with the NeuroTech Center that focuses on experimental devices.&lt;/p&gt;
+&lt;p&gt;CONECT aims to build an inter-disciplinary community within the INT to foster interactions between computational neuroscientists and with experimentalists. The tools include scientific animation (journal clubs, seminars) and practical sessions to leanr and master new tools. This will participate in structuring the teaching and research environment around computational neuroscience around AMU beyond INT alone. The plan is to involve not only local research partners of INT like NeuroMarseille and the Laennec Institute, but also engineer schools (PolyTech, Centrale Marseille) and applied mathematics masters.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-01-05 : CONECT seminar by Guillaume Dumas</title>
+      <link>https://conect-int.github.io/talk/2023-01-05-conect-seminar-by-guillaume-dumas/</link>
+      <pubDate>Thu, 05 Jan 2023 16:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2023-01-05-conect-seminar-by-guillaume-dumas/</guid>
+      <description>&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://www.extrospection.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Guillaume Dumas&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Multilevel Development of Cognitive Abilities in an Artificial Neural Network&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Several neuronal mechanisms have been proposed to account for the formation of cognitive abilities through postnatal interactions with the physical and socio-cultural environment. Here, we introduce a three-level computational model of information processing and acquisition of cognitive abilities. We propose minimal architectural requirements to build these levels and how the parameters affect their performance and relationships. The first sensorimotor level handles local nonconscious processing, here during a visual classification task. The second level or cognitive level globally integrates the information from multiple local processors via long-ranged connections and synthesizes it in a global, but still nonconscious manner. The third and cognitively highest level handles the information globally and consciously. It is based on the Global Neuronal Workspace (GNW) theory and is referred to as conscious level. We use trace and delay conditioning tasks to, respectively, challenge the second and third levels. Results first highlight the necessity of epigenesis through selection and stabilization of synapses at both local and global scales to allow the network to solve the first two tasks. At the global scale, dopamine appears necessary to properly provide credit assignment despite the temporal delay between perception and reward. At the third level, the presence of interneurons becomes necessary to maintain a self-sustained representation within the GNW in the absence of sensory input. Finally, while balanced spontaneous intrinsic activity facilitates epigenesis at both local and global scales, the balanced excitatory-inhibitory ratio increases.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;More info: &lt;a href=&#34;https://www.pnas.org/doi/10.1073/pnas.2201304119&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.pnas.org/doi/10.1073/pnas.2201304119&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Keywords: computational biology, dynamical systems, medical machine learning (ML), neuroscience, AI ethics&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Guillaume Dumas is an Associate Professor of Computational Psychiatry in the Faculty of Medicine at the Université de Montréal, and the Principle Investigator of the Precision Psychiatry and Social Physiology laboratory at the CHU Sainte-Justine Research Center. He holds the IVADO professorship for “AI in Mental Health”, and the FRQS J1 in “AI and Digital Health”.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2022-11-24 : CONECT seminar by Bruno Cessac</title>
+      <link>https://conect-int.github.io/talk/2022-11-24-conect-seminar-by-bruno-cessac/</link>
+      <pubDate>Thu, 24 Nov 2022 14:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2022-11-24-conect-seminar-by-bruno-cessac/</guid>
+      <description>&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://team.inria.fr/biovision/bruno-cessac/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bruno Cessac&lt;/a&gt; did present his recent work on &amp;ldquo;&lt;strong&gt;Retinal processing: Insights from mathematical modelling&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The retina is the entrance of the visual system. Although based on common biophysical principles, the dynamics of retinal neurons are quite different from their cortical counterparts, raising interesting problems for modellers. In this paper, I address some mathematically stated questions in this spirit, discussing, in particular: (1) How could lateral amacrine cell connectivity shape the spatio-temporal spike response of retinal ganglion cells? (2) How could spatio-temporal stimuli correlations and retinal network dynamics shape the spike train correlations at the output of the retina? These questions are addressed, first, introducing a mathematically tractable model of the layered retina, integrating amacrine cells’ lateral connectivity and piecewise linear rectification, allowing for computing the retinal ganglion cells receptive field together with the voltage and spike correlations of retinal ganglion cells resulting from the amacrine cells networks. Then, I review some recent results showing how the concept of spatio-temporal Gibbs distributions and linear response theory can be used to characterize the collective spike response to a spatio-temporal stimulus of a set of retinal ganglion cells, coupled via effective interactions corresponding to the amacrine cells network. On these bases, I briefly discuss several potential consequences of these results at the cortical level.
+Keywords: retinal network; visual system; spatio-temporal spike correlations; linear response; non stationarity&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    My research was initially modeling and analysis of large sized dynamical systems arising in various fields such as physics, biology, sociology, computers networks. I have worked on subjects such as self-organized criticality, linear response in chaotic systems, social networks, communications networks. My main interest concerns neuronal networks dynamics. I have developed methods combining dynamical systems theory, statistical physics and ergodic theory allowing to classify dynamics arising in canonical neuronal networks models like integrate and fire models or firing rate models. I have applied these methods for the study of synaptic and intrinsic plasticity, dynamical learning, spike coding, spike train statistics analysis, mean-field dynamics. I am now involved in developing models for the visual system, especially the retina, as well as numerical methods and software for neuroscientists.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2022-09-08 : CONECT seminar by Charlie Sexton</title>
+      <link>https://conect-int.github.io/talk/2022-09-08-conect-seminar-by-charlie-sexton/</link>
+      <pubDate>Thu, 08 Sep 2022 14:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2022-09-08-conect-seminar-by-charlie-sexton/</guid>
+      <description>&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://psychologicalsciences.unimelb.edu.au/research/msps-research-groups/timing/lab/people#&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Charlie Sexton&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Spike-timing dependent plasticity among multiple layers of motion-sensitive neurons: a feedforward mechanism for motion extrapolation&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The ability of the brain to represent the external world in real-time is impacted by the fact that neural processing takes time. Because neural delays accumulate as information progresses through the visual system, representations encoded at each hierarchical level are based upon input that is progressively outdated with respect to the external world. This is particularly relevant to the task of localizing a moving object – because the object’s location changes with time, neural representations of its location potentially lag behind its true location. It has therefore been proposed that the visual system utilizes the predictive nature of motion to extrapolate moving objects along their trajectory. Burkitt and Hogendoorn (2021, &lt;a href=&#34;https://doi.org/10.1523/JNEUROSCI.2017-20.2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1523/JNEUROSCI.2017-20.2021&lt;/a&gt;) showed how spike-timing dependent plasticity (STDP) can achieve motion extrapolation in a two-layer, feedforward network of velocity-tuned neurons, by shifting the receptive-fields of second-layer neurons in the opposite direction to a moving stimulus. The current study extends this work by implementing two important changes to the network to bring it more into line with biology: we expanded the network to multiple layers to reflect the depth of the visual hierarchy, and we implemented more realistic synaptic time-courses. We examine the degree to which STDP can facilitate compensation of neural delays across six layers, and show that the multi-layer network achieves cumulative compensation comparable in magnitude to the delays incurred in visual processing. We also explore the effect of additional delays imposed on the network by the integration time of the membrane potential.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    More about Charlie: So far in my PhD I have looked at how spike-timing dependent plasticity (STDP) can shift feedforward connection strengths between levels of the visual hierarchy, such that higher levels encode moving objects further along their trajectory (as a mechanism for motion extrapolation). The project began with a paper by my supervisors, Hinze Hogendoorn and Tony Burkitt: &lt;a href=&#34;https://www.jneurosci.org/content/41/20/4428.abstract&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.jneurosci.org/content/41/20/4428.abstract&lt;/a&gt;. I have been working on extending this model network to have 6 layers to see the combined effect of plasticity at several visual areas. I will attach my abstract for my ECVP talk here.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -295,7 +294,7 @@ blah blas blah&lt;/p&gt;
       <link>https://conect-int.github.io/talk/2022-05-12-a-conect-seminar-global-organization-of-neuronal-activity-only-requires-unstructured-local-connectivity-david-dahmen/</link>
       <pubDate>Thu, 12 May 2022 14:00:00 +0000</pubDate>
       <guid>https://conect-int.github.io/talk/2022-05-12-a-conect-seminar-global-organization-of-neuronal-activity-only-requires-unstructured-local-connectivity-david-dahmen/</guid>
-      <description>&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://jonathanvacher.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Dahmen&lt;/a&gt; did present his recent work on &amp;ldquo;&lt;strong&gt;Global organization of neuronal activity only requires unstructured local connectivity&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
+      <description>&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://scholar.google.com/citations?user=AZa4K5QAAAAJ&amp;amp;hl=fr&amp;amp;oi=ao&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Dahmen&lt;/a&gt; did present his recent work on &amp;ldquo;&lt;strong&gt;Global organization of neuronal activity only requires unstructured local connectivity&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35049496/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dahmen D, Layer M, Deutz L, Dąbrowska PA, Voges N, von Papen M, Brochier T, Riehle A, Diesmann M, Grün S, Helias M. Elife. 2022 Jan 20;11:e68422&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -563,9 +562,6 @@ but distinct
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://conect-int.github.io/event&#34;&gt;Past events&lt;/a&gt; and future&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://amubox.univ-amu.fr/f/867023067&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Methodology&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;aside class=&#34;notes&#34;&gt;
