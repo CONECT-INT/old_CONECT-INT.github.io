@@ -73,6 +73,7 @@
 &lt;h3 id=&#34;brainhack-global-2022-event&#34;&gt;Brainhack Global 2022 Event&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://brainhack-marseille.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brainhack Marseille&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;supported by the &lt;a href=&#34;https://laurentperrinet.github.io/grant/polychronies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Polychronies&lt;/a&gt; grant&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;project-description&#34;&gt;Project Description&lt;/h3&gt;
 &lt;p&gt;The study of spatio-temporal correlated activity patterns is very active in several fields related to neuroscience, like machine learning in vision &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29563572/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Muller Nat Rev Neurosci 2018)&lt;/a&gt; and neuronal representations and processing &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31110324/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Shahidi Nat Neurosci 2019)&lt;/a&gt;. &lt;strong&gt;This project aims to develop a method for the automated detection of repeating spiking motifs, possibly noisy, in ongoing activity.&lt;/strong&gt; A diversity of formalizations and detection methods have been proposed and we will focus on several example measures for event/spike trains, to be compared on both synthetic and real data.&lt;/p&gt;
