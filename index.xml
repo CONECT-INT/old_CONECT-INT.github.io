@@ -5,11 +5,7 @@
     <link>https://conect-int.github.io/</link>
       <atom:link href="https://conect-int.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>CONECT | Computational Neuroscience Center @ INT</description>
-<<<<<<< HEAD
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jun 2023 14:00:00 +0000</lastBuildDate>
-=======
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Mar 2023 14:30:00 +0000</lastBuildDate>
->>>>>>> f437710de4b1d95f9b95f8192d339657aa3b56bd
     <image>
       <url>https://conect-int.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>CONECT | Computational Neuroscience Center @ INT</title>
@@ -72,7 +68,6 @@
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>2023-06-20: CONECT at the CENTURI summer school</title>
       <link>https://conect-int.github.io/talk/2023-06-20-conect-at-the-centuri-summer-school/</link>
       <pubDate>Tue, 20 Jun 2023 14:00:00 +0000</pubDate>
@@ -123,8 +118,6 @@
     </item>
     
     <item>
-=======
->>>>>>> f437710de4b1d95f9b95f8192d339657aa3b56bd
       <title>2023-03-03 : INT seminar by Andrea Alamia</title>
       <link>https://conect-int.github.io/talk/2023-03-03-int-seminar-by-andrea-alamia/</link>
       <pubDate>Fri, 03 Mar 2023 14:30:00 +0000</pubDate>
