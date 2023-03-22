@@ -5,7 +5,7 @@
     <link>https://conect-int.github.io/event/</link>
       <atom:link href="https://conect-int.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 14:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jun 2023 14:00:00 +0000</lastBuildDate>
     <image>
       <url>https://conect-int.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Events</title>
@@ -13,10 +13,60 @@
     </image>
     
     <item>
-      <title>2023-01-05 : INT seminar by Andrea Alamia</title>
-      <link>https://conect-int.github.io/talk/2023-01-05-int-seminar-by-andrea-alamia/</link>
-      <pubDate>Fri, 20 Jan 2023 14:30:00 +0000</pubDate>
-      <guid>https://conect-int.github.io/talk/2023-01-05-int-seminar-by-andrea-alamia/</guid>
+      <title>2023-06-20: CONECT at the CENTURI summer school</title>
+      <link>https://conect-int.github.io/talk/2023-06-20-conect-at-the-centuri-summer-school/</link>
+      <pubDate>Tue, 20 Jun 2023 14:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2023-06-20-conect-at-the-centuri-summer-school/</guid>
+      <description>&lt;h1 id=&#34;title-neural-computation-through-population-dynamics&#34;&gt;Title: Neural computation through population dynamics&lt;/h1&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;The CENTURI &lt;a href=&#34;https://twitter.com/hashtag/SummerSchool?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#SummerSchool&lt;/a&gt; 2022 has been launched this morning ! Rosa Cossart has welcomed all the participants this morning.👾&lt;br&gt;&lt;br&gt;Excited to begin these two weeks of transfer of knowledge and deep thinking at &lt;a href=&#34;https://twitter.com/univamu?ref_src=twsrc%5Etfw&#34;&gt;@univamu&lt;/a&gt;&lt;br&gt;!👏&lt;br&gt;&lt;br&gt;For more info➡️&lt;a href=&#34;https://t.co/K2oyuQWsmb&#34;&gt;https://t.co/K2oyuQWsmb&lt;/a&gt; &lt;a href=&#34;https://t.co/bAldJeyssj&#34;&gt;pic.twitter.com/bAldJeyssj&lt;/a&gt;&lt;/p&gt;&amp;mdash; CENTURI - Turing Centre for Living Systems (@centuri_ls) &lt;a href=&#34;https://twitter.com/centuri_ls/status/1538893493828997123?ref_src=twsrc%5Etfw&#34;&gt;June 20, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Program in construction - you can already check the program of the &lt;a href=&#34;https://centuri-livingsystems.org/centuri-summer-school-2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;summer school&lt;/a&gt; (June 20 - July 01, 2023)!
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;question&#34;&gt;Question&lt;/h2&gt;
+&lt;p&gt;Detecting precise spiking motifs in neurobiological data&lt;/p&gt;
+&lt;h2 id=&#34;preliminary-program&#34;&gt;Preliminary program&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Monday, June 19 – Room 4 at CIELL (Hexagone building – 1st floor)
+&lt;ul&gt;
+&lt;li&gt;14 – 16h : introduction par Rosa et ou Pierre&lt;/li&gt;
+&lt;li&gt;16h-17h : group project presentation (in Hexagone auditorium ?)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tuesday, June 20 to Thursday, June 29 - Room 4 at CIELL (Hexagone building- 1st floor)
+&lt;ul&gt;
+&lt;li&gt;13h-14h15: group lunch at CROUS (booking in the small room)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tuesday, June 20 to Thursday, June 29 - Room 4 at CIELL (Hexagone building- 1st floor)
+&lt;ul&gt;
+&lt;li&gt;Afternoon: group projects in  Room 4 at CIELL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Wednesday, June 28 and Thursday, June 29 -  Room 4 at CIELL (Hexagone building- 1st floor)
+&lt;ul&gt;
+&lt;li&gt;All day: Group projects in Institutes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Friday, June 30 – HEXAGONE AUDITORIUM
+&lt;ul&gt;
+&lt;li&gt;09h30-12h: presentation of group projects&lt;/li&gt;
+&lt;li&gt;12h-13h30 : group lunch – buffet in the HEXAGONE Hall&lt;/li&gt;
+&lt;li&gt;13h30: end of the event&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2023-03-03 : INT seminar by Andrea Alamia</title>
+      <link>https://conect-int.github.io/talk/2023-03-03-int-seminar-by-andrea-alamia/</link>
+      <pubDate>Fri, 03 Mar 2023 14:30:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2023-03-03-int-seminar-by-andrea-alamia/</guid>
       <description>&lt;p&gt;During this INT seminar, &lt;a href=&#34;https://artipago.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrea Alamia&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Interpreting oscillations as travelling waves: the role of alpha-band oscillations in cognition&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;In this talk, I will present three studies that characterize oscillatory travelling waves in the framework of Predictive Coding. In the first study, I’ll introduce a simple model of the visual cortex based on predictive coding mechanisms, in which physiological communication delays between levels generate alpha-band rhythms. Interestingly, these oscillations propagate as traveling waves across levels, both forward (during visual stimulation) and backward (during rest). Remarkably, experimental EEG data matched the predictions of our model. The second study refines the results of the first one, demonstrating that the direction of propagation of alpha-band waves is task dependent. Specifically, forward waves (from occipital to frontal regions) prevail during visual processing, whereas backward waves (from frontal to occipital areas) occur predominantly without visual stimulation. The last study explores the effect of a powerful psychedelics drug, N,N, Dimethyltryptamine (DMT), on alpha-band oscillations, considering a model proposed in the literature based on Predictive Coding. Despite participants being in the eye-closed condition, DMT elicits a spatio-temporal pattern of cortical activation (i.e. travelling waves) similar to that produced by visual stimulation, in line with the predictions of the proposed model. Lastly, I’ll show some preliminary results about the role of oscillatory traveling waves in schizophrenic patients, interpreting the results in the light of Predictive Coding.&lt;/p&gt;
@@ -45,6 +95,40 @@
     Guillaume Dumas is an Associate Professor of Computational Psychiatry in the Faculty of Medicine at the Université de Montréal, and the Principle Investigator of the Precision Psychiatry and Social Physiology laboratory at the CHU Sainte-Justine Research Center. He holds the IVADO professorship for “AI in Mental Health”, and the FRQS J1 in “AI and Digital Health”.
   &lt;/div&gt;
 &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2022-11-28: CONECT at the INT brainhack: Automatic detection of spiking motifs in neurobiological data</title>
+      <link>https://conect-int.github.io/talk/2022-11-28-conect-at-the-int-brainhack-automatic-detection-of-spiking-motifs-in-neurobiological-data/</link>
+      <pubDate>Mon, 28 Nov 2022 09:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2022-11-28-conect-at-the-int-brainhack-automatic-detection-of-spiking-motifs-in-neurobiological-data/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;TL;DR This project aims to develop a method for the automated detection of repeating spiking motifs, possibly noisy, in ongoing activity. Results are available on the shared repo: &lt;a href=&#34;https://github.com/SpikeAI/2022-11_brainhack_DetecSpikMotifs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/SpikeAI/2022-11_brainhack_DetecSpikMotifs&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mattermost.brainhack.org/brainhack/channels/bhg22-marseille-detecspikmotifs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mattermost channel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;h3 id=&#34;leaders&#34;&gt;Leaders&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://matthieugilson.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matthieu Gilson&lt;/a&gt; - &lt;a href=&#34;https://github.com/MatthieuGilson&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/MatthieuGilson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://laurentperrinet.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laurent Perrinet&lt;/a&gt; - &lt;a href=&#34;https://github.com/LaurentPerrinet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/LaurentPerrinet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugo Ladret&lt;/li&gt;
+&lt;li&gt;George Abitbol&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;brainhack-global-2022-event&#34;&gt;Brainhack Global 2022 Event&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://brainhack-marseille.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brainhack Marseille&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;supported by the &lt;a href=&#34;https://laurentperrinet.github.io/grant/polychronies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Polychronies&lt;/a&gt; grant&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;project-description&#34;&gt;Project Description&lt;/h3&gt;
+&lt;p&gt;The study of spatio-temporal correlated activity patterns is very active in several fields related to neuroscience, like machine learning in vision &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29563572/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Muller Nat Rev Neurosci 2018)&lt;/a&gt; and neuronal representations and processing &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31110324/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Shahidi Nat Neurosci 2019)&lt;/a&gt;. &lt;strong&gt;This project aims to develop a method for the automated detection of repeating spiking motifs, possibly noisy, in ongoing activity.&lt;/strong&gt; A diversity of formalizations and detection methods have been proposed and we will focus on several example measures for event/spike trains, to be compared on both synthetic and real data.&lt;/p&gt;
+&lt;p&gt;An implementation could be based on autodifferentiable networks as implemented in Python libraries like pytorch. This framework allows for the tuning of parameters with specific architectures like convolutional layers that can capture various timescales in spike patterns (e.g. latencies) in an automated fashion. Another recent tool based on the estimation of firing probability for a range of latencies has been proposed &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-bc/grimaldi-22-bc.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Grimaldi ICIP 2022)&lt;/a&gt;. This will be compared with existing approaches like Elephant’s &lt;a href=&#34;https://elephant.readthedocs.io/en/latest/reference/spade.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPADE&lt;/a&gt; or decoding techniques based on computed statistics computed on smoothed spike trains (adapted from time series processing, see &lt;a href=&#34;https://doi.org/10.1101/2021.04.30.441789&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Lawrie, biorxiv&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;One part concerns the generation of realistic synthetic data producing spike trains  which include spiking motifs with specific latencies or comodulation of firing rate. The goal is to test how these different structures, which rely on specific assumptions about e.g. stationarity or independent firing probability across time, can be captured by different detection methods.&lt;/p&gt;
 </description>
     </item>
     

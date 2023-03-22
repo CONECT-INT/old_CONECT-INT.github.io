@@ -5,7 +5,7 @@
     <link>https://conect-int.github.io/authors/matthieu-gilson/</link>
       <atom:link href="https://conect-int.github.io/authors/matthieu-gilson/index.xml" rel="self" type="application/rss+xml" />
     <description>Matthieu Gilson</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Nov 2022 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://conect-int.github.io/authors/matthieu-gilson/avatar_hu649687aaa067e9fe98cb8aa085fbad98_57526_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Matthieu Gilson</title>
@@ -54,6 +54,40 @@
       <description>&lt;p&gt;The Computational Neuroscience Center (CONECT) is an incubator within the INT to promote theoretical and computational neuroscience.&lt;/p&gt;
 &lt;p&gt;It ambitions to contribute to the training of a new generation of neuroscientists, following the revolution experienced by neuroscience over the past decades: tremendous technological advances across several disciplines have dramatically expanded the frontiers of experimentally accessible neuro-scientific facts. CONECT is thus concerned with new analysis tools and models that can account for large and complex datasets, in parallel with the NeuroTech Center that focuses on experimental devices.&lt;/p&gt;
 &lt;p&gt;CONECT aims to build an inter-disciplinary community within the INT to foster interactions between computational neuroscientists and with experimentalists. The tools include scientific animation (journal clubs, seminars) and practical sessions to leanr and master new tools. This will participate in structuring the teaching and research environment around computational neuroscience around AMU beyond INT alone. The plan is to involve not only local research partners of INT like NeuroMarseille and the Laennec Institute, but also engineer schools (PolyTech, Centrale Marseille) and applied mathematics masters.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2022-11-28: CONECT at the INT brainhack: Automatic detection of spiking motifs in neurobiological data</title>
+      <link>https://conect-int.github.io/talk/2022-11-28-conect-at-the-int-brainhack-automatic-detection-of-spiking-motifs-in-neurobiological-data/</link>
+      <pubDate>Mon, 28 Nov 2022 09:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2022-11-28-conect-at-the-int-brainhack-automatic-detection-of-spiking-motifs-in-neurobiological-data/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;TL;DR This project aims to develop a method for the automated detection of repeating spiking motifs, possibly noisy, in ongoing activity. Results are available on the shared repo: &lt;a href=&#34;https://github.com/SpikeAI/2022-11_brainhack_DetecSpikMotifs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/SpikeAI/2022-11_brainhack_DetecSpikMotifs&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mattermost.brainhack.org/brainhack/channels/bhg22-marseille-detecspikmotifs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mattermost channel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;h3 id=&#34;leaders&#34;&gt;Leaders&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://matthieugilson.eu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matthieu Gilson&lt;/a&gt; - &lt;a href=&#34;https://github.com/MatthieuGilson&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/MatthieuGilson&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://laurentperrinet.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Laurent Perrinet&lt;/a&gt; - &lt;a href=&#34;https://github.com/LaurentPerrinet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/LaurentPerrinet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Hugo Ladret&lt;/li&gt;
+&lt;li&gt;George Abitbol&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;brainhack-global-2022-event&#34;&gt;Brainhack Global 2022 Event&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://brainhack-marseille.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Brainhack Marseille&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;supported by the &lt;a href=&#34;https://laurentperrinet.github.io/grant/polychronies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Polychronies&lt;/a&gt; grant&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;project-description&#34;&gt;Project Description&lt;/h3&gt;
+&lt;p&gt;The study of spatio-temporal correlated activity patterns is very active in several fields related to neuroscience, like machine learning in vision &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29563572/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Muller Nat Rev Neurosci 2018)&lt;/a&gt; and neuronal representations and processing &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31110324/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Shahidi Nat Neurosci 2019)&lt;/a&gt;. &lt;strong&gt;This project aims to develop a method for the automated detection of repeating spiking motifs, possibly noisy, in ongoing activity.&lt;/strong&gt; A diversity of formalizations and detection methods have been proposed and we will focus on several example measures for event/spike trains, to be compared on both synthetic and real data.&lt;/p&gt;
+&lt;p&gt;An implementation could be based on autodifferentiable networks as implemented in Python libraries like pytorch. This framework allows for the tuning of parameters with specific architectures like convolutional layers that can capture various timescales in spike patterns (e.g. latencies) in an automated fashion. Another recent tool based on the estimation of firing probability for a range of latencies has been proposed &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-bc/grimaldi-22-bc.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Grimaldi ICIP 2022)&lt;/a&gt;. This will be compared with existing approaches like Elephant’s &lt;a href=&#34;https://elephant.readthedocs.io/en/latest/reference/spade.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPADE&lt;/a&gt; or decoding techniques based on computed statistics computed on smoothed spike trains (adapted from time series processing, see &lt;a href=&#34;https://doi.org/10.1101/2021.04.30.441789&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Lawrie, biorxiv&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;One part concerns the generation of realistic synthetic data producing spike trains  which include spiking motifs with specific latencies or comodulation of firing rate. The goal is to test how these different structures, which rely on specific assumptions about e.g. stationarity or independent firing probability across time, can be captured by different detection methods.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
