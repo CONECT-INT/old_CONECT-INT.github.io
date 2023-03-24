@@ -122,7 +122,7 @@
       <link>https://conect-int.github.io/talk/2023-03-28-conect-thematic-day-on-spiking-neural-networks/</link>
       <pubDate>Tue, 28 Mar 2023 10:00:00 +0000</pubDate>
       <guid>https://conect-int.github.io/talk/2023-03-28-conect-thematic-day-on-spiking-neural-networks/</guid>
-      <description>&lt;p&gt;This day is focused on &lt;strong&gt;discussing developments on Spiking Neural Networks&lt;/strong&gt;, giving plenty of time for discussions.&lt;/p&gt;
+      <description>&lt;p&gt;This meet-up is focused on &lt;strong&gt;discussing recent developments in Spiking Neural Networks&lt;/strong&gt;, with plenty of time for discussion.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;We will meet at INT, Laurent Vinay meeting room.&lt;/li&gt;
 &lt;li&gt;CONECT&amp;rsquo;s hotline: +33619478120&lt;/li&gt;
@@ -158,7 +158,7 @@
 &lt;p&gt;14:00&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Pr. Benoît Miramond (LEAT, Université Côte d&amp;rsquo;Azur)&lt;/li&gt;
-&lt;li&gt;Title: &lt;strong&gt;Estimation Energy Efficiency of Spiking Neural Networks on neuromorphic hardware&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Title: &lt;strong&gt;Estimating Energy Efficiency of Spiking Neural Networks on neuromorphic hardware&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Spiking Neural Networks are a type of neural networks where neurons communicate using only spikes. They are often presented as a low-power alternative to classical neural networks, but few works have proven these claims to be true. In this work, we present a metric to estimate the energy consumption of SNNs independently of a specific hardware. We then apply this metric on SNNs processing three different data types (static, dynamic and event-based) representative of real-world applications. As a result, all of our SNNs are 6 to 8 times more efficient than their FNN counterparts.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
