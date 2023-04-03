@@ -5,7 +5,7 @@
     <link>https://conect-int.github.io/authors/laurent-u-perrinet/</link>
       <atom:link href="https://conect-int.github.io/authors/laurent-u-perrinet/index.xml" rel="self" type="application/rss+xml" />
     <description>Laurent U Perrinet</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Jan 2023 16:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jun 2023 14:00:00 +0000</lastBuildDate>
     <image>
       <url>https://conect-int.github.io/authors/laurent-u-perrinet/avatar_hufdd75f582622d56af8f81b6f2821d19b_501026_270x270_fill_lanczos_center_3.png</url>
       <title>Laurent U Perrinet</title>
@@ -65,6 +65,292 @@
       <description>&lt;p&gt;The Computational Neuroscience Center (CONECT) is an incubator within the INT to promote theoretical and computational neuroscience.&lt;/p&gt;
 &lt;p&gt;It ambitions to contribute to the training of a new generation of neuroscientists, following the revolution experienced by neuroscience over the past decades: tremendous technological advances across several disciplines have dramatically expanded the frontiers of experimentally accessible neuro-scientific facts. CONECT is thus concerned with new analysis tools and models that can account for large and complex datasets, in parallel with the NeuroTech Center that focuses on experimental devices.&lt;/p&gt;
 &lt;p&gt;CONECT aims to build an inter-disciplinary community within the INT to foster interactions between computational neuroscientists and with experimentalists. The tools include scientific animation (journal clubs, seminars) and practical sessions to leanr and master new tools. This will participate in structuring the teaching and research environment around computational neuroscience around AMU beyond INT alone. The plan is to involve not only local research partners of INT like NeuroMarseille and the Laennec Institute, but also engineer schools (PolyTech, Centrale Marseille) and applied mathematics masters.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-06-20: CONECT at the CENTURI summer school</title>
+      <link>https://conect-int.github.io/talk/2023-06-20-conect-at-the-centuri-summer-school/</link>
+      <pubDate>Tue, 20 Jun 2023 14:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2023-06-20-conect-at-the-centuri-summer-school/</guid>
+      <description>&lt;h1 id=&#34;title-neural-computation-through-population-dynamics&#34;&gt;Title: Neural computation through population dynamics&lt;/h1&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;The CENTURI &lt;a href=&#34;https://twitter.com/hashtag/SummerSchool?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#SummerSchool&lt;/a&gt; 2022 has been launched this morning ! Rosa Cossart has welcomed all the participants this morning.👾&lt;br&gt;&lt;br&gt;Excited to begin these two weeks of transfer of knowledge and deep thinking at &lt;a href=&#34;https://twitter.com/univamu?ref_src=twsrc%5Etfw&#34;&gt;@univamu&lt;/a&gt;&lt;br&gt;!👏&lt;br&gt;&lt;br&gt;For more info➡️&lt;a href=&#34;https://t.co/K2oyuQWsmb&#34;&gt;https://t.co/K2oyuQWsmb&lt;/a&gt; &lt;a href=&#34;https://t.co/bAldJeyssj&#34;&gt;pic.twitter.com/bAldJeyssj&lt;/a&gt;&lt;/p&gt;&amp;mdash; CENTURI - Turing Centre for Living Systems (@centuri_ls) &lt;a href=&#34;https://twitter.com/centuri_ls/status/1538893493828997123?ref_src=twsrc%5Etfw&#34;&gt;June 20, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Program in construction - you can already check the program of the &lt;a href=&#34;https://centuri-livingsystems.org/centuri-summer-school-2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;summer school&lt;/a&gt; (June 20 - July 01, 2023)!
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;question&#34;&gt;Question&lt;/h2&gt;
+&lt;p&gt;Detecting precise spiking motifs in neurobiological data&lt;/p&gt;
+&lt;h2 id=&#34;preliminary-program&#34;&gt;Preliminary program&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Monday, June 19 – Room 4 at CIELL (Hexagone building – 1st floor)
+&lt;ul&gt;
+&lt;li&gt;14 – 16h : introduction par Rosa et ou Pierre&lt;/li&gt;
+&lt;li&gt;16h-17h : group project presentation (in Hexagone auditorium ?)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tuesday, June 20 to Thursday, June 29 - Room 4 at CIELL (Hexagone building- 1st floor)
+&lt;ul&gt;
+&lt;li&gt;13h-14h15: group lunch at CROUS (booking in the small room)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tuesday, June 20 to Thursday, June 29 - Room 4 at CIELL (Hexagone building- 1st floor)
+&lt;ul&gt;
+&lt;li&gt;Afternoon: group projects in  Room 4 at CIELL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Wednesday, June 28 and Thursday, June 29 -  Room 4 at CIELL (Hexagone building- 1st floor)
+&lt;ul&gt;
+&lt;li&gt;All day: Group projects in Institutes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Friday, June 30 – HEXAGONE AUDITORIUM
+&lt;ul&gt;
+&lt;li&gt;09h30-12h: presentation of group projects&lt;/li&gt;
+&lt;li&gt;12h-13h30 : group lunch – buffet in the HEXAGONE Hall&lt;/li&gt;
+&lt;li&gt;13h30: end of the event&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2023-03-28: CONECT thematic day on Spiking Neural Networks</title>
+      <link>https://conect-int.github.io/talk/2023-03-28-conect-thematic-day-on-spiking-neural-networks/</link>
+      <pubDate>Tue, 28 Mar 2023 10:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2023-03-28-conect-thematic-day-on-spiking-neural-networks/</guid>
+      <description>&lt;p&gt;This meet-up is focused on &lt;strong&gt;discussing recent developments in Spiking Neural Networks&lt;/strong&gt;, with plenty of time for discussion.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We will meet at INT, Laurent Vinay meeting room.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;program&#34;&gt;program&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;10:00&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Laurent Perrinet&lt;/li&gt;
+&lt;li&gt;Title: &lt;strong&gt;A short intro on &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Precise Spiking Motifs in Neurobiological and Neuromorphic Data&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;10:30&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://homepages.cwi.nl/~sbohte/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sander Bohte&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Title: &lt;strong&gt;Scaling Up Spiking Neural Networks with Online Learning in Gated Spiking Neurons&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;11:30&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Antoine Grimaldi, PhD student (INT)&lt;/li&gt;
+&lt;li&gt;Title: &lt;strong&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-bc/grimaldi-22-bc.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning heterogeneous delays in a layer of spiking neurons for fast motion detection&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;The response of a biological neuron depends on the precise timing of afferent spikes. This temporal aspect of the neuronal code is essential in understanding information processing in neurobiology and applies particularly well to the output of neuromorphic hardware such as event-based cameras. However, most artificial neuronal models do not take advantage of this minute temporal dimension. Inspired by this neuroscientific observation, we develop a model for the efficient detection of temporal spiking motifs based on a layer of spiking neurons with heterogeneous delays which we apply to the computer vision task of motion detection. Indeed, the variety of synaptic delays on the dendritic tree allows synchronizing synaptic inputs as they reach the basal dendritic tree. We show this can be formalized as a time-invariant logistic regression which can be trained using labeled data. We apply this model to solve the specific computer vision problem of motion detection, and demonstrate its application to synthetic naturalistic videos transformed into event streams similar to the output of event-based cameras. In particular, we quantify how the accuracy of the model can vary with the total computational load. This end-to-end event-driven computational brick could help improve the performance of future spiking neural network algorithms and their prospective use in neuromorphic chips.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;12:00 Lunch time (at INT R+4, will be provided only for people registered below)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;14:00&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pr. Benoît Miramond (LEAT, Université Côte d&amp;rsquo;Azur)&lt;/li&gt;
+&lt;li&gt;Title: &lt;strong&gt;Estimating Energy Efficiency of Spiking Neural Networks on neuromorphic hardware&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Spiking Neural Networks are a type of neural networks where neurons communicate using only spikes. They are often presented as a low-power alternative to classical neural networks, but few works have proven these claims to be true. In this work, we present a metric to estimate the energy consumption of SNNs independently of a specific hardware. We then apply this metric on SNNs processing three different data types (static, dynamic and event-based) representative of real-world applications. As a result, all of our SNNs are 6 to 8 times more efficient than their FNN counterparts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;15:00 break&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;15:30&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dr. Andrea Castagnetti (LEAT, Université Côte d&amp;rsquo;Azur)&lt;/li&gt;
+&lt;li&gt;Title: &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fnins.2023.1154241/full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Trainable quantization for Speedy Spiking Neural Networks&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Spiking neural networks are considered as the third generation of Artificial Neural Networks. SNNs perform computation using neurons and synapses that communicate using binary and asynchronous signals known as spikes. They have attracted significant research interest over the last years since their computing paradigm allows theoretically sparse and low-power operations. This hypothetical gain, used from the beginning of the neuromorphic research, was however limited by three main factors: the absence of an efficient learning rule competing with the one of classical deep learning, the lack of mature learning framework, and an important data processing latency finally generating energy overhead. While the first two limitations have recently been addressed in the literature, the major problem of latency is not solved yet. Indeed, information is not exchanged instantaneously between spiking neurons but gradually builds up over time as spikes are generated and propagated through the network. This presentation focuses on quantization error, one of the main consequence of the SNN discrete representation of information. We propose an in-depth characterization of SNN quantization noise. We then propose a end-to-end direct learning approach based on a new trainable spiking neural model.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;16:00&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Yann Cherdo, PhD student (LEAT, Université Côte d&amp;rsquo;Azur - Renault)&lt;/li&gt;
+&lt;li&gt;Title: &lt;strong&gt;HTM and SNN for a bio inspired time series forecasting&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;In the recent years, Spiking Neural Networks have gain much attention from the research community. They can now be trained using the powerful gradient descent and have drifted from the neuroscience to the Machine Learning community. An abundant literature shows that they can perform well on classical Artificial Intelligence tasks such as image or signal classification while consuming less energy than state-of-the-art models like Convolutional Neural Networks. Yet, there is very little work about their performance on unsupervised anomaly detection and time-series prediction. Indeed, the processing of such temporal data requires different encoding and decoding mechanisms and rises questions about their capacity to model a dynamical signal with long term temporal dependencies. In this presentation, we propose a comparison between Sparse Recurrent Spiking Neural Network and Hierarchical Temporal Memories (HTM). We show that both models perform well on temporal tasks and open a door for further studies of embedded applications for Spiking Neural Networks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;17:00 outro&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CONECT thematic day on Spiking Neural Networks</title>
+      <link>https://conect-int.github.io/slides/2023-03-28-conect-seminar-day-on-snns/</link>
+      <pubDate>Tue, 28 Mar 2023 10:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/slides/2023-03-28-conect-seminar-day-on-snns/</guid>
+      <description>
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/open-book.jpg&#34;
+  &gt;
+
+&lt;h1 id=&#34;spiking-neural-networks&#34;&gt;Spiking Neural Networks&lt;/h1&gt;
+&lt;h2 id=&#34;conect-thematic-day&#34;&gt;CONECT thematic day&lt;/h2&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;li&gt;Hi, I am LP and in the name of CONECT, we look forward to discuss on SNNs&lt;/li&gt;
+&lt;li&gt;as part of the CONECT&amp;hellip;&lt;/li&gt;
+&lt;li&gt;In this short presentation, we will present the challenges that we want to tackle and which we named&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;img data-src=&#34;https://conect-int.github.io/slides/conect/CONECT-logo.png&#34; height=&#34;200&#34; /&gt;
+&lt;p&gt;&lt;a href=&#34;https://conect-int.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CONECT: Computational Neuroscience Center @ INT&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;-so, what is CONECT?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;CONECT is Computational Neuroscience Center @ INT, bringing together a core of theoretician&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;aims at making bridges in neuroscience&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;and across the community&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;challenge-visual-latencies&#34;&gt;Challenge: Visual latencies&lt;/h2&gt;
+&lt;img data-src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency-estimate.jpg&#34; height=&#34;420&#34; /&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1126/science.1058249&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Thorpe &amp;amp; Fabre-Thorpe, 2001&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;In particular in our group, we are interested in dynamics of neural processing&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The visual system is very efficient in generating a decision from the retinal image to the different  stages of the visual pathways, here for a macaque monkey, a reaction of finger muscles in about 300 milliseconds.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;the process of categorizing an object takes 10 layers&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;challenge-visual-latencies-1&#34;&gt;Challenge: Visual latencies&lt;/h2&gt;
+&lt;img data-src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg&#34; height=&#34;420&#34; /&gt;
+&lt;p&gt;Review on &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Precise Spiking Motifs&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;the latencies are of similar in the human brain but merely scaled due to the brain size&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;as a consequence, it is thought that this efficiency is achieved by spikes that is, brief all-or-none events which are passed in the very large network which forms the brain from assemblies of neurons to others.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;key-spiking-neural-networks&#34;&gt;Key: Spiking Neural Networks&lt;/h2&gt;
+&lt;img data-src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/replicating_MainenSejnowski1995.png&#34; height=&#34;420&#34; /&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mainen Sejnowski, 1995&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;reproduucibility&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;key-spiking-neural-networks-1&#34;&gt;Key: Spiking Neural Networks&lt;/h2&gt;
+&lt;img data-src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/Diesmann_et_al_1999.png&#34; height=&#34;420&#34; /&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_3_Diesmann_et_al_1999.py&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diesmann et al. 1999&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;This hypothesis is reviewed with respect to our knowledge of the neurobiology, for instance in the hippocampus of rodents. We also review&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;hypothesis-spiking-motifs&#34;&gt;Hypothesis: Spiking motifs&lt;/h2&gt;
+&lt;img data-src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/haimerl2019.jpg&#34; height=&#34;420&#34; /&gt;
+&lt;p&gt;Review on &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Precise Spiking Motifs&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This hypothesis is reviewed with respect to our knowledge of the neurobiology, for instance in the hippocampus of rodents. We also review&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;hypothesis-spiking-motifs-1&#34;&gt;Hypothesis: Spiking motifs&lt;/h2&gt;
+&lt;img data-src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/Ikegaya2004zse0150424620001.jpeg&#34; height=&#34;420&#34; /&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;numerous and extensive work on mechanisms which may allow the neural system to learn to actually use that precise spiking motifs by attuning the delay between pairs of neurons.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;hypothesis-spiking-motifs-2&#34;&gt;Hypothesis: Spiking motifs&lt;/h2&gt;
+&lt;img data-src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png&#34; height=&#34;420&#34; /&gt;
+&lt;p&gt;Review on &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Precise Spiking Motifs&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Izhikevich polychronization&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;yet the domain is vast, and there s lot to do in SNNs&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;todays-program&#34;&gt;Today&amp;rsquo;s program&amp;hellip;&lt;/h2&gt;
+ &lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;&lt;img data-src=&#34;https://www.cwi.nl/intranet/faces/1152.jpg&#34; height=&#34;175&#34; /&gt;&lt;/th&gt;
+    &lt;th&gt;&lt;img data-src=&#34;https://laurentperrinet.github.io/author/antoine-grimaldi/avatar_hu85406bb2d5f7db2dce1cab01b4e48063_27520_270x270_fill_q75_lanczos_center.jpg&#34; height=&#34;175&#34; /&gt;&lt;/th&gt;
+    &lt;th&gt;&lt;img data-src=&#34;https://3ia.univ-cotedazur.eu/medias/photo/benoit-miramond_1621434732805-png?ID_FICHE=1087703&#34; height=&#34;175&#34; /&gt;&lt;/th&gt;
+    &lt;th&gt;&lt;img data-src=&#34;https://phd-seminars-sam.inria.fr/files/2019/04/photo_Andrea_Castagnetti-235x300.jpg&#34; height=&#34;175&#34; /&gt;&lt;/th&gt;
+    &lt;th&gt;&lt;img data-src=&#34;https://media.licdn.com/dms/image/C4D03AQG1wCHtwVhGYg/profile-displayphoto-shrink_400_400/0/1582485965416?e=1685577600&amp;v=beta&amp;t=oUiVlWlAQLG9rnz0nu0r-TdZ2LftDopThqB51nx4vQc&#34; height=&#34;175&#34; /&gt;&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Sander&lt;BR&gt;Bohte&lt;/td&gt;
+    &lt;td&gt;Antoine&lt;BR&gt;Grimaldi&lt;/td&gt;
+    &lt;td&gt;Benoit&lt;BR&gt;Miramond&lt;/td&gt;
+    &lt;td&gt;Andrea&lt;BR&gt;Castagnetti&lt;/td&gt;
+    &lt;td&gt;Yann&lt;BR&gt;Cherdo&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a href=&#34;https://conect-int.github.io/talk/2023-03-28-conect-thematic-day-on-spiking-neural-networks/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Program &amp;amp; more&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+</description>
     </item>
     
     <item>
