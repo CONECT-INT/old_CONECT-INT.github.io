@@ -70,6 +70,10 @@
       <description>&lt;p&gt;This meet-up is focused on &lt;strong&gt;discussing recent developments in Spiking Neural Networks&lt;/strong&gt;, with plenty of time for discussion.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;We will meet at INT, Laurent Vinay meeting room.&lt;/li&gt;
+<<<<<<< HEAD
+=======
+&lt;li&gt;CONECT&amp;rsquo;s hotline: +33619478120&lt;/li&gt;
+>>>>>>> 49c9f7ba0dd0101a3e89f15b4069432f4502af19
 &lt;/ul&gt;
 &lt;h2 id=&#34;program&#34;&gt;program&lt;/h2&gt;
 &lt;ul&gt;
@@ -91,7 +95,11 @@
 &lt;p&gt;11:30&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Antoine Grimaldi, PhD student (INT)&lt;/li&gt;
+<<<<<<< HEAD
 &lt;li&gt;Title: &lt;strong&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-bc/grimaldi-22-bc.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning heterogeneous delays in a layer of spiking neurons for fast motion detection&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+=======
+&lt;li&gt;Title: &lt;strong&gt;Learning heterogeneous delays in a layer of spiking neurons for fast motion detection&lt;/strong&gt;&lt;/li&gt;
+>>>>>>> 49c9f7ba0dd0101a3e89f15b4069432f4502af19
 &lt;li&gt;The response of a biological neuron depends on the precise timing of afferent spikes. This temporal aspect of the neuronal code is essential in understanding information processing in neurobiology and applies particularly well to the output of neuromorphic hardware such as event-based cameras. However, most artificial neuronal models do not take advantage of this minute temporal dimension. Inspired by this neuroscientific observation, we develop a model for the efficient detection of temporal spiking motifs based on a layer of spiking neurons with heterogeneous delays which we apply to the computer vision task of motion detection. Indeed, the variety of synaptic delays on the dendritic tree allows synchronizing synaptic inputs as they reach the basal dendritic tree. We show this can be formalized as a time-invariant logistic regression which can be trained using labeled data. We apply this model to solve the specific computer vision problem of motion detection, and demonstrate its application to synthetic naturalistic videos transformed into event streams similar to the output of event-based cameras. In particular, we quantify how the accuracy of the model can vary with the total computational load. This end-to-end event-driven computational brick could help improve the performance of future spiking neural network algorithms and their prospective use in neuromorphic chips.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
