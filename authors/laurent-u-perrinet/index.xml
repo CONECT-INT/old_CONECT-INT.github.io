@@ -148,6 +148,19 @@
 &lt;p&gt;15:30 : &lt;strong&gt;&lt;strong&gt;Jean-Rémi King&lt;/strong&gt;&lt;/strong&gt; (Meta / CNRS): &amp;ldquo;Language in the brain and algorithms&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;16:10 : &lt;strong&gt;Etienne Combrisson &amp;amp; Andrea Brovelli&lt;/strong&gt; (INT, Marseille) : &amp;ldquo;Cortico-cortical interactions for goal-directed causal learning&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;16:30 : Round table&lt;/p&gt;
+&lt;h3 id=&#34;abstracts&#34;&gt;Abstracts&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Thomas Schatz: &amp;ldquo;Perceptual development, unsupervised representation learning and auditory neuroscience&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I will draw from ongoing research projects at the interface between developmental psychology, machine learning, and computational neuroscience, to illustrate how, in my view, perspectives from each of these fields may contribute to the others. More specifically, I will discuss how considerations from developmental psychology and computational neuroscience can inform the design of novel algorithms for the unsupervised learning of speech representations and how the study of these algorithms may, in turn, lead to a deeper understanding of dynamic signal processing in the human brain and of perceptual development in infancy.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Jean-Rémi King: &amp;ldquo;Language in the brain and algorithms.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Deep learning has recently made remarkable progress in natural language processing. Yet, the resulting algorithms fall short of the efficiency of the human brain. To bridge this gap, we here explore the similarities and differences between these two systems using large-scale datasets of magneto/electro-encephalography (M/EEG), functional Magnetic Resonance Imaging (fMRI), and intracranial recordings. After investigating where and when deep language algorithms map onto the brain, we show that enhancing these algorithms with long-range forecasts makes them more similar to the brain. Our results further reveal that, unlike current deep language models, the human brain is tuned to generate a hierarchy of long-range predictions, whereby the fronto-parietal cortices forecast more abstract and more distant representations than the temporal cortices. Overall, our studies show how the interface between AI and neuroscience clarifies the computational bases of natural language processing.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
