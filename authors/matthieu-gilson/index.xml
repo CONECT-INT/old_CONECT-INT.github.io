@@ -112,6 +112,12 @@
 &lt;blockquote&gt;
 &lt;p&gt;The usual approach to analyze naturalistic behavior is to define its function as some form of reward or utility maximization. However, inferring the reward function for natural agents or designing one for artificial ones is problematic due to the unobservability of internal states and to the appearance of unintended behavior, respectively. Here, we abandon the idea of reward maximization and propose a principle of behavior based on the intrinsic motivation to maximize the occupancy of future action and state paths. We reconceptualize ‘reward’ as means to occupy paths, instead of the goals. We show that goal-directed behavior emerges from this principle by applying it to various discrete and continuous state tasks. In particular, we can apply this principle to a network of recurrently connected neurons, and we show that it is possible to produce highly variable activity while avoiding the saturation of the units. This work provides a proof of concept that goal-directedness is possible in the complete absence of external reward maximization.&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Antoine Grimaldi: &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-bc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Learning in networks of spiking neurons with heterogeneous delays&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The response of a biological neuron depends largely on the precise timing of presynaptic spikes that reach the basal dendritic tree. However, most neuronal models do not take advantage of this minute temporal dimension, especially in exploiting the variety of synaptic delays on the dendritic tree. A notable exception is the polychronization model, a recurrent model of spiking neurons including fixed and random heterogeneous delays and in which the weights are learned using Spike-Time Dependent Plasticity. The output raster plot displays repeated activations of prototypical spiking motifs called Polychronous Groups. Importantly, these motifs seem to be highly relevant in experimental neuroscience. Here, by extending the model of~[3], we develop a spiking neural network model for the efficient detection of PGs: By defining the generation of the raster plot as a probabilistic combination of PGs, we build and train the network in order to optimize the inversion of this generative model.&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
