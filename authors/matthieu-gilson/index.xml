@@ -71,7 +71,7 @@
 &lt;p&gt;9:00 : Welcome &amp;amp; Introduction&lt;/p&gt;
 &lt;h4 id=&#34;session-1--encoding-of-neuronal-representations-chair-emmanuel-daucé&#34;&gt;Session 1 : Encoding of neuronal representations (chair: Emmanuel Daucé)&lt;/h4&gt;
 &lt;p&gt;9:15 : &lt;strong&gt;&lt;strong&gt;Alexandre Pitti&lt;/strong&gt;&lt;/strong&gt; (ETIS, CY-U, Cergy Pontoise): &amp;ldquo;Neuro-inspired mechanisms for sensorimotor and syntactic learning in language&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;9:55 : &lt;strong&gt;Matthieu Gilson &amp;amp; Laurie Mifsud&lt;/strong&gt; (INT, Marseille) &amp;ldquo;Covariance-based processing in bio-inspired neuronal network&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;9:55 : &lt;strong&gt;Laurie Mifsud &amp;amp; Matthieu Gilson&lt;/strong&gt; (INT, Marseille) &amp;ldquo;Statistical learning in bio-inspired neuronal network&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;10:15 : &lt;strong&gt;Antoine Grimaldi&lt;/strong&gt; (INT, Marseille) &amp;ldquo;Learning in networks of spiking neurons with heterogeneous delays&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;10:35 : coffee break&lt;/p&gt;
 &lt;h4 id=&#34;session-2--learning-action-selection-chair-matthieu-gilson&#34;&gt;Session 2 : Learning action selection (chair: Matthieu Gilson)&lt;/h4&gt;
@@ -81,7 +81,7 @@
 &lt;p&gt;12:30 : Meal&lt;/p&gt;
 &lt;h4 id=&#34;session-3--neuronal-basis-of-vocal-representation-chair-simon-nougaret&#34;&gt;Session 3 : Neuronal basis of vocal representation (chair: Simon Nougaret)&lt;/h4&gt;
 &lt;p&gt;14:00 : &lt;strong&gt;&lt;strong&gt;Thomas Schatz&lt;/strong&gt;&lt;/strong&gt; (LIS, Marseille): &amp;ldquo;Perceptual development, unsupervised representation learning and auditory neuroscience&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;14:40 : &lt;strong&gt;Charly Lamothe&lt;/strong&gt; (LIS/INT, Marseille)  &amp;amp; &lt;strong&gt;Etienne Thoret&lt;/strong&gt; (PRISM/LIS/ILCB, Marseille): &amp;ldquo;Characterization of the vocal brain and brain-based voice reconstruction using machine learning and deep learning techniques&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;14:40 : &lt;strong&gt;Charly Lamothe&lt;/strong&gt; (LIS/INT, Marseille)  &amp;amp; &lt;strong&gt;Etienne Thoret&lt;/strong&gt; (PRISM/LIS/ILCB, Marseille): &amp;ldquo;Decoding voice identity from brain activity&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;15:00 : coffee break&lt;/p&gt;
 &lt;h4 id=&#34;session-4--distribution-and-integration-of-brain-functions-chair-laurent-perrinet&#34;&gt;Session 4 : Distribution and integration of brain functions (chair: Laurent Perrinet)&lt;/h4&gt;
 &lt;p&gt;15:30 : &lt;strong&gt;&lt;strong&gt;Jean-Rémi King&lt;/strong&gt;&lt;/strong&gt; (Meta / CNRS): &amp;ldquo;Language in the brain and algorithms&amp;rdquo;&lt;/p&gt;
@@ -89,10 +89,16 @@
 &lt;p&gt;16:30 : Round table&lt;/p&gt;
 &lt;h3 id=&#34;abstracts&#34;&gt;Abstracts&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Thomas Schatz: &amp;ldquo;Perceptual development, unsupervised representation learning and auditory neuroscience&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Antoine Grimaldi: &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-bc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Learning in networks of spiking neurons with heterogeneous delays&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
-&lt;p&gt;I will draw from ongoing research projects at the interface between developmental psychology, machine learning, and computational neuroscience, to illustrate how, in my view, perspectives from each of these fields may contribute to the others. More specifically, I will discuss how considerations from developmental psychology and computational neuroscience can inform the design of novel algorithms for the unsupervised learning of speech representations and how the study of these algorithms may, in turn, lead to a deeper understanding of dynamic signal processing in the human brain and of perceptual development in infancy.&lt;/p&gt;
+&lt;p&gt;The response of a biological neuron depends largely on the precise timing of presynaptic spikes that reach the basal dendritic tree. However, most neuronal models do not take advantage of this minute temporal dimension, especially in exploiting the variety of synaptic delays on the dendritic tree. A notable exception is the polychronization model, a recurrent model of spiking neurons including fixed and random heterogeneous delays and in which the weights are learned using Spike-Time Dependent Plasticity. The output raster plot displays repeated activations of prototypical spiking motifs called Polychronous Groups. Importantly, these motifs seem to be highly relevant in experimental neuroscience. Here, by extending the model of~[3], we develop a spiking neural network model for the efficient detection of PGs: By defining the generation of the raster plot as a probabilistic combination of PGs, we build and train the network in order to optimize the inversion of this generative model.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Charly Lamothe &amp;amp; Etienne Thoret: &amp;ldquo;Decoding voice identity from brain activity&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Voice information processing in the brain involves specialized areas called temporal voice areas (TVAs), which respond more strongly to vocalizations from the same species. However, how these areas represent voice information, specifically speaker identity, is not well understood. To investigate this, we used a deep neural network (DNN) to create a compact representation of voice stimuli called the voice latent space (VLS). We then examined the relationship between the VLS and brain activity using various analyses. We discovered that the VLS correlates with cerebral activity measured by fMRI when exposed to thousands of voice stimuli from numerous speakers. The VLS also better captures the representation of speaker identity in the TVAs compared to the primary auditory cortex (A1). Additionally, the VLS enables reconstructions of voice stimuli in the TVAs that maintain important aspects of speaker identity, as confirmed by both machine classifiers and human listeners. These findings suggest that the DNN-derived VLS provides high-level representations of voice identity information in the TVAs.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;Jean-Rémi King: &amp;ldquo;Language in the brain and algorithms.&amp;rdquo;&lt;/li&gt;
@@ -107,16 +113,22 @@
 &lt;p&gt;A central function of the brain is the capacity to anticipate the timing of future events based on past experience. Picture, for instance, a naive baseball player attempting to intercept an incoming ball. After a few failed trials, the player becomes increasingly close to striking the ball, and ultimately hits a home run. How does information about the past few throws help guide the timing of the player’s action? In this talk, I will present behavioral and electrophysiological data from non-human primates aimed at understanding how temporal expectations are represented in the brain. Specifically, I will address the following two questions: (1) how prior knowledge about the timing of a future event is encoded at the level of single neurons, and induces systematic biases in behavior; (2) what type of neural and behavioral changes occur when temporal expectations change in a dynamic environment.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
+&lt;li&gt;Laurie Mifsud &amp;amp; Matthieu Gilson: &amp;ldquo;Statistical learning in bio-inspired neuronal network&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In biological neuronal networks, information representation and processing like learning by synaptic plasticity rules are not only related to first-order statistics (i.e. mean firing rate) but also second and higher-order statistics in spike trains. This palces the focus on the temporal structure of distributed spiking activity, at several timescales. In parallel, recent models in machine learning like  deep temporal convolutional networks have switched from inputs like static images to time series. In both cases, the goal is to extract spatio-temporal patterns of activity and it can be framed in the context of statistical learning. We will start from experimental evidence about spiking activity during a cognitive task, then present recent work combining covariance-based learning and reservoir computing to classify time series. The results highlight the important role for the recurrent connectivity in transforming information representations in biologically inspired architectures. Finally, we will see how to use this supervised learning framework to tune a recurrently connected population to experimental spiking data.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
 &lt;li&gt;Jorge Ramirez Ruiz: &amp;ldquo;A maximum occupancy principle for brains and behavior&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The usual approach to analyze naturalistic behavior is to define its function as some form of reward or utility maximization. However, inferring the reward function for natural agents or designing one for artificial ones is problematic due to the unobservability of internal states and to the appearance of unintended behavior, respectively. Here, we abandon the idea of reward maximization and propose a principle of behavior based on the intrinsic motivation to maximize the occupancy of future action and state paths. We reconceptualize ‘reward’ as means to occupy paths, instead of the goals. We show that goal-directed behavior emerges from this principle by applying it to various discrete and continuous state tasks. In particular, we can apply this principle to a network of recurrently connected neurons, and we show that it is possible to produce highly variable activity while avoiding the saturation of the units. This work provides a proof of concept that goal-directedness is possible in the complete absence of external reward maximization.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;Antoine Grimaldi: &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-bc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Learning in networks of spiking neurons with heterogeneous delays&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Thomas Schatz: &amp;ldquo;Perceptual development, unsupervised representation learning and auditory neuroscience&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The response of a biological neuron depends largely on the precise timing of presynaptic spikes that reach the basal dendritic tree. However, most neuronal models do not take advantage of this minute temporal dimension, especially in exploiting the variety of synaptic delays on the dendritic tree. A notable exception is the polychronization model, a recurrent model of spiking neurons including fixed and random heterogeneous delays and in which the weights are learned using Spike-Time Dependent Plasticity. The output raster plot displays repeated activations of prototypical spiking motifs called Polychronous Groups. Importantly, these motifs seem to be highly relevant in experimental neuroscience. Here, by extending the model of~[3], we develop a spiking neural network model for the efficient detection of PGs: By defining the generation of the raster plot as a probabilistic combination of PGs, we build and train the network in order to optimize the inversion of this generative model.&lt;/p&gt;
+&lt;p&gt;I will draw from ongoing research projects at the interface between developmental psychology, machine learning, and computational neuroscience, to illustrate how, in my view, perspectives from each of these fields may contribute to the others. More specifically, I will discuss how considerations from developmental psychology and computational neuroscience can inform the design of novel algorithms for the unsupervised learning of speech representations and how the study of these algorithms may, in turn, lead to a deeper understanding of dynamic signal processing in the human brain and of perceptual development in infancy.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
