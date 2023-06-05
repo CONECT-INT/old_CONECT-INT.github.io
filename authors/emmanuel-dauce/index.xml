@@ -18,8 +18,11 @@
       <pubDate>Mon, 12 Jun 2023 09:00:00 +0000</pubDate>
       <guid>https://conect-int.github.io/talk/2023-06-12-conect-workshop-on-learning/</guid>
       <description>&lt;h1 id=&#34;conect-workshop-active-learning-in-brains-and-machines&#34;&gt;CONECT Workshop &lt;em&gt;Active learning in brains and machines&lt;/em&gt;&lt;/h1&gt;
+&lt;p&gt;We organize a one-day workshop on Monday, June 12th, at the Institut de Neurosciences de la Timone (INT), in the Gastaut room (9h-17h), campus Timone. The aim of CONECT one-day workshops is to gather computational neuroscientists and experimentalists around an open question in the field, with plenty of room for interaction and discussion.&lt;/p&gt;
 &lt;p&gt;When? &lt;em&gt;12th of June 2023&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Where? &lt;em&gt;Campus Timone (room Gastaut), Aix-Marseille Université&lt;/em&gt;, 27 Boulevard Jean Moulin, 13005 Marseille&lt;/p&gt;
+&lt;p&gt;The event is free, but registration is required. The registration form can be found at:
+&lt;a href=&#34;https://framaforms.org/conect-workshop-active-learning-in-brains-and-machines-12062023-int-marseille-1684232540&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://framaforms.org/conect-workshop-active-learning-in-brains-and-machines-12062023-int-marseille-1684232540&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;topics&#34;&gt;Topics&lt;/h2&gt;
 &lt;p&gt;In biology, a major trait of neural systems is the capability to &lt;em&gt;learn&lt;/em&gt;, that is, to adapt its behavior to the environment it interacts with. Recent advances in machine learning and deep learning have, in parallel, contributed to formulate learning in terms of optimizing performance under task-specific domains.&lt;/p&gt;
 &lt;p&gt;While each field inspires the other, there is still a gap in our understanding of how learning in machines may compare or even relate to learning in biology. The goal of this workshop is to allow people from both computational and experimental sides to understand current research achievements and challenges about &lt;em&gt;active learning in brains and machines&lt;/em&gt;.&lt;/p&gt;
@@ -85,6 +88,12 @@
 &lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;In biological neuronal networks, information representation and processing like learning by synaptic plasticity rules are not only related to first-order statistics (i.e. mean firing rate) but also second and higher-order statistics in spike trains. This palces the focus on the temporal structure of distributed spiking activity, at several timescales. In parallel, recent models in machine learning like  deep temporal convolutional networks have switched from inputs like static images to time series. In both cases, the goal is to extract spatio-temporal patterns of activity and it can be framed in the context of statistical learning. We will start from experimental evidence about spiking activity during a cognitive task, then present recent work combining covariance-based learning and reservoir computing to classify time series. The results highlight the important role for the recurrent connectivity in transforming information representations in biologically inspired architectures. Finally, we will see how to use this supervised learning framework to tune a recurrently connected population to experimental spiking data.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Alex Pitti : &amp;ldquo;Neuro-inspired mechanisms for sensorimotor and syntactic learning in language&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;I propose that two neural mechanisms are at work for language acquisition. On the one hand, predictive coding and on the other hand, serial order coding. Predictive coding helps connect causes to effects in sensorimotor coordination during voice learning. While serial order codes allow pattern recognition in sentences to extract syntactic rules and hierarchy. The coupling between two neural architectures based on these two mechanisms, resp. the cortico-basal system and the fronto-striatum system can be used for the acquisition and categorization of sound primitives (syllables) and sequences (words). As a surprising extension of this idea, we have found that serial codes produce as well efficient coding and can reach Shannon&amp;rsquo;s limit in terms of information capacity. Langage is a compressive representation of information.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;Jorge Ramirez Ruiz: &amp;ldquo;A maximum occupancy principle for brains and behavior&amp;rdquo;&lt;/li&gt;
