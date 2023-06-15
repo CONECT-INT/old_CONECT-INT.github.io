@@ -65,10 +65,10 @@
 &lt;p&gt;Data that will be shared by the teaching staff, under the BIDS standard data organization which is currently being extended to electrophysiology data by the members of the INT and the CONECT team. The data we will use consists of:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;publicly available recordings from the dorsomedial frontal cortex of NHPs performing a time-interval reproduction task (&lt;a href=&#34;https://github.com/jazlab/Meirhaeghe2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jazlab/Meirhaeghe2021&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;publicly available recordings from a reaching task&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5&lt;/a&gt; : V1, gratings-like, natural stimulations : extracellular electrophy recordings in cat V1&lt;/p&gt;
+&lt;p&gt;publicly available recordings from the dorsomedial frontal cortex of NHPs performing a time-interval reproduction task (&lt;a href=&#34;https://github.com/jazlab/Meirhaeghe2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jazlab/Meirhaeghe2021&lt;/a&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;methods&#34;&gt;Methods&lt;/h2&gt;
