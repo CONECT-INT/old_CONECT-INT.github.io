@@ -73,9 +73,6 @@
       <pubDate>Tue, 20 Jun 2023 14:00:00 +0000</pubDate>
       <guid>https://conect-int.github.io/talk/2023-06-20-conect-at-the-centuri-summer-school/</guid>
       <description>&lt;h1 id=&#34;title-neural-computation-through-population-dynamics&#34;&gt;Title: Neural computation through population dynamics&lt;/h1&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;The CENTURI &lt;a href=&#34;https://twitter.com/hashtag/SummerSchool?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#SummerSchool&lt;/a&gt; 2022 has been launched this morning ! Rosa Cossart has welcomed all the participants this morning.👾&lt;br&gt;&lt;br&gt;Excited to begin these two weeks of transfer of knowledge and deep thinking at &lt;a href=&#34;https://twitter.com/univamu?ref_src=twsrc%5Etfw&#34;&gt;@univamu&lt;/a&gt;&lt;br&gt;!👏&lt;br&gt;&lt;br&gt;For more info➡️&lt;a href=&#34;https://t.co/K2oyuQWsmb&#34;&gt;https://t.co/K2oyuQWsmb&lt;/a&gt; &lt;a href=&#34;https://t.co/bAldJeyssj&#34;&gt;pic.twitter.com/bAldJeyssj&lt;/a&gt;&lt;/p&gt;&amp;mdash; CENTURI - Turing Centre for Living Systems (@centuri_ls) &lt;a href=&#34;https://twitter.com/centuri_ls/status/1538893493828997123?ref_src=twsrc%5Etfw&#34;&gt;June 20, 2022&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Program in construction - you can already check the program of the &lt;a href=&#34;https://centuri-livingsystems.org/centuri-summer-school-2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;summer school&lt;/a&gt; (June 20 - July 01, 2023)!
@@ -84,25 +81,28 @@
 &lt;h2 id=&#34;question&#34;&gt;Question&lt;/h2&gt;
 &lt;p&gt;Detecting precise spiking motifs in neurobiological data&lt;/p&gt;
 &lt;h2 id=&#34;preliminary-program&#34;&gt;Preliminary program&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://centuri-livingsystems.org/wp-content/uploads/2018/02/SUMMER-SCHOOL-program-2023.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Detailed program&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Monday, June 19 – Room 4 at CIELL (Hexagone building – 1st floor)
 &lt;ul&gt;
-&lt;li&gt;14 – 16h : introduction par Rosa et ou Pierre&lt;/li&gt;
-&lt;li&gt;16h-17h : group project presentation (in Hexagone auditorium ?)&lt;/li&gt;
+&lt;li&gt;14 – 16h : introduction par Rosa and Pierre&lt;/li&gt;
+&lt;li&gt;16h-17h : group project presentation (in Hexagone auditorium)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Tuesday, June 20 to Thursday, June 29 - Room 4 at CIELL (Hexagone building- 1st floor)
+&lt;li&gt;Tuesday, June 20
 &lt;ul&gt;
 &lt;li&gt;13h-14h15: group lunch at CROUS (booking in the small room)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Tuesday, June 20 to Thursday, June 29 - Room 4 at CIELL (Hexagone building- 1st floor)
+&lt;li&gt;Tuesday, June 20 to Thursday, June 29
 &lt;ul&gt;
-&lt;li&gt;Afternoon: group projects in  Room 4 at CIELL&lt;/li&gt;
+&lt;li&gt;Afternoon 14:30 - 17:00: group projects in Room 4 at CIELL&lt;/li&gt;
+&lt;li&gt;Room 4 at CIELL (Hexagone building- 1st floor)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Wednesday, June 28 and Thursday, June 29 -  Room 4 at CIELL (Hexagone building- 1st floor)
+&lt;li&gt;Wednesday, June 28 and Thursday, June 29
 &lt;ul&gt;
+&lt;li&gt;Room 4 at CIELL (Hexagone building- 1st floor)&lt;/li&gt;
 &lt;li&gt;All day: Group projects in Institutes&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -112,6 +112,29 @@
 &lt;li&gt;12h-13h30 : group lunch – buffet in the HEXAGONE Hall&lt;/li&gt;
 &lt;li&gt;13h30: end of the event&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;At any given instant, hundreds of billions of cells in our brains are lighting up in a complicated yet highly coordinated manner to give rise to our thoughts, percepts, and movements. A single neuron may be connected to thousands of other cells, sending out and receiving information through electrical impulses called spikes. From an engineering perspective, these spikes form a signal that may be viewed as a series of ones and zeros rapidly unfolding in time. Altogether, these signals reflect the ongoing computations taking place inside the nervous system, and as such, constitute a window into the brain’s inner workings. Recent advances in recording techniques have allowed experimenters to collect data from hundreds to thousands of neurons simultaneously while animals perform simple tasks. Dealing with such high-dimensional data poses important technical challenges that require elaborate methods for data mining and analysis. In this project, students will deal with datasets of increasing complexity and develop a set of analyses to extract meaningful information from the data.&lt;/p&gt;
+&lt;h2 id=&#34;type-of-data&#34;&gt;Type of data&lt;/h2&gt;
+&lt;p&gt;Data that will be shared by the teaching staff, under the BIDS standard data organization which is currently being extended to electrophysiology data by the members of the INT and the CONECT team. The data we will use consists of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;publicly available recordings from the dorsomedial frontal cortex of NHPs performing a time-interval reproduction task (&lt;a href=&#34;https://github.com/jazlab/Meirhaeghe2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jazlab/Meirhaeghe2021&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5&lt;/a&gt; : V1, gratings-like, natural stimulations : extracellular electrophy recordings in cat V1&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;methods&#34;&gt;Methods&lt;/h2&gt;
+&lt;p&gt;Data visualisation, neural decoding, principal component analysis, kinematic and geometric analyses of neural trajectories in high-dimensional space, hypothesis-testing, null distributions and statistics&lt;/p&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/CONECT-INT/2023_CENTURI-SummerSchool&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/CONECT-INT/2023_CENTURI-SummerSchool&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/SpikeAI/2022-11_brainhack_DetecSpikMotifs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/SpikeAI/2022-11_brainhack_DetecSpikMotifs&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -127,11 +150,67 @@
 &lt;p&gt;When? &lt;em&gt;12th of June 2023&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Where? &lt;a href=&#34;https://goo.gl/maps/MLpmsN9cd2N1Uv1L7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Campus Timone (room Gastaut), Aix-Marseille Université&lt;/em&gt;, 27 Boulevard Jean Moulin, 13005 Marseille&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Organizers: Simon Nougaret, Emmanuel Daucé, Laurent Perrinet (mobile: 0619478120), Matthieu Gilson&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;attendees&#34; srcset=&#34;
+               /talk/2023-06-12-conect-workshop-on-learning/IMG_7807_hua238fd24969325e44a2e5a20c16ddb0f_1676835_386c996f28fe3b27501a18bd241958e9.webp 400w,
+               /talk/2023-06-12-conect-workshop-on-learning/IMG_7807_hua238fd24969325e44a2e5a20c16ddb0f_1676835_a5a17807c61cbb584265368fb8d11cb9.webp 760w,
+               /talk/2023-06-12-conect-workshop-on-learning/IMG_7807_hua238fd24969325e44a2e5a20c16ddb0f_1676835_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://conect-int.github.io/talk/2023-06-12-conect-workshop-on-learning/IMG_7807_hua238fd24969325e44a2e5a20c16ddb0f_1676835_386c996f28fe3b27501a18bd241958e9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;p&gt;The event is free, but registration is required. The registration form can be found at:
 &lt;a href=&#34;https://framaforms.org/conect-workshop-active-learning-in-brains-and-machines-12062023-int-marseille-1684232540&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://framaforms.org/conect-workshop-active-learning-in-brains-and-machines-12062023-int-marseille-1684232540&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;topics&#34;&gt;Topics&lt;/h2&gt;
 &lt;p&gt;In biology, a major trait of neural systems is the capability to &lt;em&gt;learn&lt;/em&gt;, that is, to adapt its behavior to the environment it interacts with. Recent advances in machine learning and deep learning have, in parallel, contributed to formulate learning in terms of optimizing performance under task-specific domains.&lt;/p&gt;
 &lt;p&gt;While each field inspires the other, there is still a gap in our understanding of how learning in machines may compare or even relate to learning in biology. The goal of this workshop is to allow people from both computational and experimental sides to understand current research achievements and challenges about &lt;em&gt;active learning in brains and machines&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;attendees&#34; srcset=&#34;
+               /talk/2023-06-12-conect-workshop-on-learning/IMG_1617_hu55ebe531ef629f2f9bbb055848de5bda_1416425_c30c38272a25c645564605b7959f24bd.webp 400w,
+               /talk/2023-06-12-conect-workshop-on-learning/IMG_1617_hu55ebe531ef629f2f9bbb055848de5bda_1416425_d915f19bc8e4a60f75c47d8c36c15d1f.webp 760w,
+               /talk/2023-06-12-conect-workshop-on-learning/IMG_1617_hu55ebe531ef629f2f9bbb055848de5bda_1416425_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://conect-int.github.io/talk/2023-06-12-conect-workshop-on-learning/IMG_1617_hu55ebe531ef629f2f9bbb055848de5bda_1416425_c30c38272a25c645564605b7959f24bd.webp&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;h3 id=&#34;program&#34;&gt;PROGRAM&lt;/h3&gt;
 &lt;p&gt;9:00 : Welcome &amp;amp; Introduction&lt;/p&gt;
 &lt;h4 id=&#34;session-1--encoding-of-neuronal-representations-chair-emmanuel-daucé&#34;&gt;Session 1 : Encoding of neuronal representations (chair: Emmanuel Daucé)&lt;/h4&gt;
@@ -552,7 +631,7 @@ Keywords: retinal network; visual system; spatio-temporal spike correlations; li
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Program in construction - you can already check the program of the &lt;a href=&#34;https://centuri-livingsystems.org/centuri-summer-school-2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;summer school&lt;/a&gt; (June 20 - July 01, 2022)!
+    The summer school is now over! You can check the program of the &lt;a href=&#34;https://centuri-livingsystems.org/centuri-summer-school-2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;summer school&lt;/a&gt; (June 20 - July 01, 2022)!
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;h2 id=&#34;question&#34;&gt;Question&lt;/h2&gt;
@@ -574,6 +653,11 @@ Keywords: retinal network; visual system; spatio-temporal spike correlations; li
 &lt;/ul&gt;
 &lt;h2 id=&#34;methods&#34;&gt;Methods&lt;/h2&gt;
 &lt;p&gt;Data visualisation, neural decoding, principal component analysis, kinematic and geometric analyses of neural trajectories in high-dimensional space, hypothesis-testing, null distributions and statistics&lt;/p&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/CONECT-INT/2022_CENTURI-SummerSchool_private&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/CONECT-INT/2022_CENTURI-SummerSchool_private&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/CONECT-INT/2022_CENTURI-SummerSchool&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/CONECT-INT/2022_CENTURI-SummerSchool&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -705,6 +789,115 @@ blah blas blah&lt;/p&gt;
 &lt;li&gt;home page: &lt;a href=&#34;https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Contact us @ &lt;a href=&#34;mailto:nmrghe@gmail.com,laurent.perrinet@univ-amu.fr&#34;&gt;nicolas.meirhaeghe@univ-amu.fr, laurent.perrinet@univ-amu.fr&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;GitHub repository: &lt;a href=&#34;https://github.com/CONECT-INT/2022_CENTURI-SummerSchool&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/CONECT-INT/2022_CENTURI-SummerSchool&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computational Neuroscience projet</title>
+      <link>https://conect-int.github.io/slides/2023-06-19-conect-centuri-summer-school/</link>
+      <pubDate>Mon, 20 Jun 2022 14:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/slides/2023-06-19-conect-centuri-summer-school/</guid>
+      <description>
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/open-book.jpg&#34;
+  &gt;
+
+&lt;h1 id=&#34;computational-neuroscience-projet&#34;&gt;Computational Neuroscience projet&lt;/h1&gt;
+&lt;h2 id=&#34;centuri-summer-school&#34;&gt;CENTURI Summer school&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://conect-int.github.io/talk/2023-06-20-conect-at-the-centuri-summer-school/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://conect-int.github.io/talk/2023-06-20-conect-at-the-centuri-summer-school/&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;li&gt;Hi, we are LP and NM and we look forward to start working with you on this project&lt;/li&gt;
+&lt;li&gt;as part of the CENTURI summer school - and we would like to thank the organizers of the school&amp;hellip;&lt;/li&gt;
+&lt;li&gt;In this short presentation, we will present the challenges that we want to tackle and which we named&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;who-are-we&#34;&gt;Who are we?&lt;/h2&gt;
+ &lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;&lt;img data-src=&#34;https://conect-int.github.io/authors/nicolas-meirhaeghe/avatar.jpg&#34; height=&#34;200&#34; /&gt;&lt;/th&gt;
+    &lt;th&gt;&lt;img data-src=&#34;https://conect-int.github.io/authors/laurent-u-perrinet/avatar.jpg&#34; height=&#34;200&#34; /&gt;&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Nicolas&lt;BR&gt;Meirhaeghe&lt;/td&gt;
+    &lt;td&gt;Laurent&lt;BR&gt;Perrinet&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;blah blas blah&lt;/p&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;challenge-brain-decoding&#34;&gt;Challenge: brain decoding&lt;/h2&gt;
+&lt;img data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/decoding.png&#34; height=&#34;420&#34; /&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;our brains light up billions of cells in a structured way,&lt;/li&gt;
+&lt;li&gt;neural activity is in majority carried by action potentials, or &lt;em&gt;spikes&lt;/em&gt;,&lt;/li&gt;
+&lt;li&gt;we wish to better understand this structure by using machine learning.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Learn computational methods to interpret and interrogate neural data&lt;/li&gt;
+&lt;li&gt;Learn to reduce the complexity of high-dimensional neural data&lt;/li&gt;
+&lt;li&gt;Learn statistical approaches to perform hypothesis-testing on neural data&lt;/li&gt;
+&lt;li&gt;Learn the principles of decoding analyses to relate neural data to behavioral data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;2 MINUTES&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;blah blas blah&lt;/p&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;datasets&#34;&gt;Datasets&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Dataset 1: reaching task (Hatsopoulos et al., J. Neurophysiol., 2004)&lt;/li&gt;
+&lt;li&gt;Dataset 2: grasping task (Brochier et al., Sci. Data, 2018)&lt;/li&gt;
+&lt;li&gt;Dataset 3: time interval task (Meirhaeghe et al., Neuron, 2021)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;blah blas blah&lt;/p&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;dataset-1-reaching-task&#34;&gt;Dataset 1: reaching task&lt;/h2&gt;
+&lt;h5 id=&#34;goal-decode-intended-arm-movements-from-motor-cortical-activity&#34;&gt;Goal: decode intended arm movements from motor cortical activity&lt;/h5&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/centerout-task.png&#34; height=&#34;200&#34; /&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/trajectories.png&#34; height=&#34;300&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Hatsopoulos, Joshi, and O&amp;rsquo;Leary (2004) &lt;a href=&#34;https://journals.physiology.org/doi/full/10.1152/jn.01245.2003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1152/jn.01245.2003&lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;blah blas blah&lt;/p&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;dataset-2-time-interval-task&#34;&gt;Dataset 2: time interval task&lt;/h2&gt;
+&lt;h5 id=&#34;goal-relating-neural-dynamics-to-animals-behavioral-performance&#34;&gt;Goal: relating neural dynamics to animals’ behavioral performance&lt;/h5&gt;
+&lt;img data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset3_time-interval-task/dataset3_fig1A.png&#34; height=&#34;300&#34; /&gt;
+&lt;p&gt;Meirhaeghe, Sohn, and Jazayeri (2021) &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.03.10.434831v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1016/j.neuron.2021.08.025 &lt;/a&gt;&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;blah blas blah&lt;/p&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;home page: &lt;a href=&#34;https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Contact us @ &lt;a href=&#34;mailto:nmrghe@gmail.com,laurent.perrinet@univ-amu.fr&#34;&gt;nicolas.meirhaeghe@univ-amu.fr, laurent.perrinet@univ-amu.fr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;GitHub repository: &lt;a href=&#34;https://github.com/CONECT-INT/2023_CENTURI-SummerSchool&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/CONECT-INT/2023_CENTURI-SummerSchool&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
