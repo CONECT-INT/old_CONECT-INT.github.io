@@ -29,25 +29,28 @@
 &lt;h2 id=&#34;question&#34;&gt;Question&lt;/h2&gt;
 &lt;p&gt;Detecting precise spiking motifs in neurobiological data&lt;/p&gt;
 &lt;h2 id=&#34;preliminary-program&#34;&gt;Preliminary program&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://centuri-livingsystems.org/wp-content/uploads/2018/02/SUMMER-SCHOOL-program-2023.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Detailed program&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Monday, June 19 – Room 4 at CIELL (Hexagone building – 1st floor)
 &lt;ul&gt;
-&lt;li&gt;14 – 16h : introduction par Rosa et ou Pierre&lt;/li&gt;
-&lt;li&gt;16h-17h : group project presentation (in Hexagone auditorium ?)&lt;/li&gt;
+&lt;li&gt;14 – 16h : introduction par Rosa and Pierre&lt;/li&gt;
+&lt;li&gt;16h-17h : group project presentation (in Hexagone auditorium)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Tuesday, June 20 to Thursday, June 29 - Room 4 at CIELL (Hexagone building- 1st floor)
+&lt;li&gt;Tuesday, June 20
 &lt;ul&gt;
 &lt;li&gt;13h-14h15: group lunch at CROUS (booking in the small room)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Tuesday, June 20 to Thursday, June 29 - Room 4 at CIELL (Hexagone building- 1st floor)
+&lt;li&gt;Tuesday, June 20 to Thursday, June 29
 &lt;ul&gt;
-&lt;li&gt;Afternoon: group projects in  Room 4 at CIELL&lt;/li&gt;
+&lt;li&gt;Afternoon 14:30 - 17:00: group projects in Room 4 at CIELL&lt;/li&gt;
+&lt;li&gt;Room 4 at CIELL (Hexagone building- 1st floor)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Wednesday, June 28 and Thursday, June 29 -  Room 4 at CIELL (Hexagone building- 1st floor)
+&lt;li&gt;Wednesday, June 28 and Thursday, June 29
 &lt;ul&gt;
+&lt;li&gt;Room 4 at CIELL (Hexagone building- 1st floor)&lt;/li&gt;
 &lt;li&gt;All day: Group projects in Institutes&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -59,6 +62,20 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;At any given instant, hundreds of billions of cells in our brains are lighting up in a complicated yet highly coordinated manner to give rise to our thoughts, percepts, and movements. A single neuron may be connected to thousands of other cells, sending out and receiving information through electrical impulses called spikes. From an engineering perspective, these spikes form a signal that may be viewed as a series of ones and zeros rapidly unfolding in time. Altogether, these signals reflect the ongoing computations taking place inside the nervous system, and as such, constitute a window into the brain’s inner workings. Recent advances in recording techniques have allowed experimenters to collect data from hundreds to thousands of neurons simultaneously while animals perform simple tasks. Dealing with such high-dimensional data poses important technical challenges that require elaborate methods for data mining and analysis. In this project, students will deal with datasets of increasing complexity and develop a set of analyses to extract meaningful information from the data.&lt;/p&gt;
+&lt;h2 id=&#34;type-of-data&#34;&gt;Type of data&lt;/h2&gt;
+&lt;p&gt;Data that will be shared by the teaching staff, under the BIDS standard data organization which is currently being extended to electrophysiology data by the members of the INT and the CONECT team. The data we will use consists of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;publicly available recordings from the dorsomedial frontal cortex of NHPs performing a time-interval reproduction task (&lt;a href=&#34;https://github.com/jazlab/Meirhaeghe2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jazlab/Meirhaeghe2021&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5&lt;/a&gt; : V1, gratings-like, natural stimulations : extracellular electrophy recordings in cat V1&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;methods&#34;&gt;Methods&lt;/h2&gt;
+&lt;p&gt;Data visualisation, neural decoding, principal component analysis, kinematic and geometric analyses of neural trajectories in high-dimensional space, hypothesis-testing, null distributions and statistics&lt;/p&gt;
 </description>
     </item>
     
@@ -395,7 +412,7 @@ I will then loop back and show how we can find low-order descriptors of high-ord
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Program in construction - you can already check the program of the &lt;a href=&#34;https://centuri-livingsystems.org/centuri-summer-school-2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;summer school&lt;/a&gt; (June 20 - July 01, 2022)!
+    The summer school is now over! You can check the program of the &lt;a href=&#34;https://centuri-livingsystems.org/centuri-summer-school-2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;summer school&lt;/a&gt; (June 20 - July 01, 2022)!
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;h2 id=&#34;question&#34;&gt;Question&lt;/h2&gt;
