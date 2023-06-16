@@ -116,13 +116,13 @@
 &lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
 &lt;p&gt;At any given instant, hundreds of billions of cells in our brains are lighting up in a complicated yet highly coordinated manner to give rise to our thoughts, percepts, and movements. A single neuron may be connected to thousands of other cells, sending out and receiving information through electrical impulses called spikes. From an engineering perspective, these spikes form a signal that may be viewed as a series of ones and zeros rapidly unfolding in time. Altogether, these signals reflect the ongoing computations taking place inside the nervous system, and as such, constitute a window into the brain’s inner workings. Recent advances in recording techniques have allowed experimenters to collect data from hundreds to thousands of neurons simultaneously while animals perform simple tasks. Dealing with such high-dimensional data poses important technical challenges that require elaborate methods for data mining and analysis. In this project, students will deal with datasets of increasing complexity and develop a set of analyses to extract meaningful information from the data.&lt;/p&gt;
 &lt;h2 id=&#34;type-of-data&#34;&gt;Type of data&lt;/h2&gt;
-&lt;p&gt;Data that will be shared by the teaching staff, under the BIDS standard data organization which is currently being extended to electrophysiology data by the members of the INT and the CONECT team. The data we will use consists of:&lt;/p&gt;
+&lt;p&gt;The folowing datasets will be shared by the teaching staff:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;publicly available recordings from a reaching task from Hatsopoulos, Joshi, and O&amp;rsquo;Leary (2004) &lt;a href=&#34;https://journals.physiology.org/doi/full/10.1152/jn.01245.2003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1152/jn.01245.2003&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;publicly available recordings from the dorsomedial frontal cortex of NHPs performing a time-interval reproduction task (&lt;a href=&#34;https://github.com/jazlab/Meirhaeghe2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jazlab/Meirhaeghe2021&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;publicly available recordings from the dorsomedial frontal cortex of NHPs performing a time-interval reproduction task Meirhaeghe, Sohn, and Jazayeri (2021) &lt;a href=&#34;https://www.cell.com/neuron/fulltext/S0896-6273%2821%2900622-X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1016/j.neuron.2021.08.025&lt;/a&gt; - see (&lt;a href=&#34;https://github.com/jazlab/Meirhaeghe2021%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jazlab/Meirhaeghe2021)&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;methods&#34;&gt;Methods&lt;/h2&gt;
