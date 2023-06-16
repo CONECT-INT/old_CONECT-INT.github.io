@@ -152,7 +152,7 @@
   &gt;
 
 &lt;h2 id=&#34;neural-computation-through-population-dynamics&#34;&gt;Neural computation through population dynamics&lt;/h2&gt;
-&lt;h3 id=&#34;computational-neuroscience-projet&#34;&gt;Computational Neuroscience projet&lt;/h3&gt;
+&lt;h5 id=&#34;computational-neuroscience-project&#34;&gt;Computational Neuroscience project&lt;/h5&gt;
 &lt;h3 id=&#34;centuri-summer-school&#34;&gt;CENTURI Summer school&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://conect-int.github.io/talk/2023-06-20-conect-at-the-centuri-summer-school/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://conect-int.github.io/talk/2023-06-20-conect-at-the-centuri-summer-school/&lt;/a&gt;&lt;/p&gt;
 &lt;aside class=&#34;notes&#34;&gt;
@@ -193,6 +193,9 @@
 &lt;li&gt;we wish to better understand this structure by using machine learning.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In this example, a monkey is seeing a display for which a reaching task is associated. at the same time neural activity (raster plot) is recorded in the premotor area. our goal is to be able to design a computational method to predict the actual behavior. achieving to do this allows to better understand computational principles of the brain&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;application to BCI&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&amp;ldquo;what I can build, I can understand&amp;rdquo;
 (to be more modest, as Feynman said “What I cannot build. I do not understand.” )&lt;/p&gt;
 
@@ -228,9 +231,9 @@
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;dataset-1-reaching-task&#34;&gt;Dataset 1: reaching task&lt;/h2&gt;
-&lt;h5 id=&#34;goal-decode-intended-arm-movements-from-motor-cortical-activity&#34;&gt;Goal: decode intended arm movements from motor cortical activity&lt;/h5&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/centerout-task.png&#34; height=&#34;200&#34; /&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/trajectories.png&#34; height=&#34;300&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Hatsopoulos, Joshi, and O&amp;rsquo;Leary (2004) &lt;a href=&#34;https://journals.physiology.org/doi/full/10.1152/jn.01245.2003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1152/jn.01245.2003&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&#34;goal-decode-intended-arm-movements-from-motor-cortical-activity&#34;&gt;Goal: decode intended arm movements from motor cortical activity&lt;/h5&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The first dataset is a classic reaching task. it consists of recordings in primary motor (MI) and dorsal premotor (PMd) cortices in behaving monkeys doing a reaching task, that is, instructed to move a cursor from the center to a target.&lt;/p&gt;
@@ -238,9 +241,9 @@
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;dataset-2-time-interval-task&#34;&gt;Dataset 2: time interval task&lt;/h2&gt;
-&lt;h5 id=&#34;goal-relating-neural-dynamics-to-animals-behavioral-performance&#34;&gt;Goal: relating neural dynamics to animals’ behavioral performance&lt;/h5&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset2_time-interval-task/dataset2_fig1A.png&#34; height=&#34;300&#34; /&gt;&lt;img data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset2_time-interval-task/dataset2_fig2.png&#34; height=&#34;300&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Meirhaeghe, Sohn, and Jazayeri (2021) &lt;a href=&#34;https://www.cell.com/neuron/fulltext/S0896-6273%2821%2900622-X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1016/j.neuron.2021.08.025&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&#34;goal-relating-neural-dynamics-to-animals-behavioral-performance&#34;&gt;Goal: relating neural dynamics to animals’ behavioral performance&lt;/h5&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;p&gt;&lt;strong&gt;1 MINUTE&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;the second dataset is more challenging and involves :&lt;/p&gt;
@@ -253,9 +256,9 @@
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;dataset-2-time-interval-task-1&#34;&gt;Dataset 2: time interval task&lt;/h2&gt;
-&lt;h5 id=&#34;goal-use-precise-spike-times-to-improve-decoding&#34;&gt;Goal: use precise spike times to improve decoding&lt;/h5&gt;
 &lt;img data-src=&#34;https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/haimerl2019.jpg&#34; height=&#34;300&#34; /&gt;
 &lt;p&gt;Haimerl et al,  (2019) &lt;a href=&#34;https://doi.org/10.1073/pnas.1718518116&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1073/pnas.1718518116&lt;/a&gt;&lt;/p&gt;
+&lt;h5 id=&#34;goal-use-precise-spike-times-to-improve-decoding&#34;&gt;Goal: use precise spike times to improve decoding&lt;/h5&gt;
 &lt;aside class=&#34;notes&#34;&gt;
   &lt;p&gt;&lt;strong&gt;2 MINUTE&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
