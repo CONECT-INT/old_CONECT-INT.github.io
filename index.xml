@@ -5,7 +5,7 @@
     <link>https://conect-int.github.io/</link>
       <atom:link href="https://conect-int.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>CONECT | Computational Neuroscience Center @ INT</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jun 2023 14:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jul 2023 14:00:00 +0000</lastBuildDate>
     <image>
       <url>https://conect-int.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>CONECT | Computational Neuroscience Center @ INT</title>
@@ -65,6 +65,26 @@
       <description>&lt;p&gt;The Computational Neuroscience Center (CONECT) is an incubator within the INT to promote theoretical and computational neuroscience.&lt;/p&gt;
 &lt;p&gt;It ambitions to contribute to the training of a new generation of neuroscientists, following the revolution experienced by neuroscience over the past decades: tremendous technological advances across several disciplines have dramatically expanded the frontiers of experimentally accessible neuro-scientific facts. CONECT is thus concerned with new analysis tools and models that can account for large and complex datasets, in parallel with the NeuroTech Center that focuses on experimental devices.&lt;/p&gt;
 &lt;p&gt;CONECT aims to build an inter-disciplinary community within the INT to foster interactions between computational neuroscientists and with experimentalists. The tools include scientific animation (journal clubs, seminars) and practical sessions to leanr and master new tools. This will participate in structuring the teaching and research environment around computational neuroscience around AMU beyond INT alone. The plan is to involve not only local research partners of INT like NeuroMarseille and the Laennec Institute, but also engineer schools (PolyTech, Centrale Marseille) and applied mathematics masters.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-07-10 : CONECT seminar by Adrien Fois</title>
+      <link>https://conect-int.github.io/talk/2023-07-10-conect-seminar-by-adrien-fois/</link>
+      <pubDate>Mon, 10 Jul 2023 14:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2023-07-10-conect-seminar-by-adrien-fois/</guid>
+      <description>&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://www.researchgate.net/profile/Adrien-Fois-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adrien Fois&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Plasticity and Temporal Coding in Spiking Neural Networks Applied to Representation Learning&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The brain is a highly efficient computational system, capable of delivering 600 petaFlops while consuming only 20 W of energy, comparable to that of a light bulb. Computation is based on neural impulses, involving information encoding in the form of spikes and learning based on these spikes. According to the dominant paradigm, information is encoded by the number of spikes. However, an alternative paradigm suggests that information is contained in the precise timing of the spikes, offering significant advantages in terms of energy efficiency and information transfer speed.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;My work aims to extract representations from temporal codes using event-based learning rules that are both spatially and temporally local. In particular, I will present a learning model that learns representations not in synaptic weights, but in transmission delays, which inherently operate in the temporal domain. Learning delays prove to be particularly relevant for processing temporal codes and enable the activation of a key function of spiking neurons: the detection of temporal coincidences.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Adrien Fois is a PhD Student at the Institute Lorrain de Recherche en Informatique et Ses Applications.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
