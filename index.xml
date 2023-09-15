@@ -5,7 +5,7 @@
     <link>https://conect-int.github.io/</link>
       <atom:link href="https://conect-int.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>CONECT | Computational Neuroscience Center @ INT</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jul 2023 14:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Sep 2023 14:00:00 +0000</lastBuildDate>
     <image>
       <url>https://conect-int.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>CONECT | Computational Neuroscience Center @ INT</title>
@@ -68,11 +68,25 @@
     </item>
     
     <item>
+      <title>2023-09-21 : CONECT seminar by Jason Eshraghian</title>
+      <link>https://conect-int.github.io/talk/2023-09-21-conect-seminar-by-jason-eshraghian/</link>
+      <pubDate>Thu, 21 Sep 2023 14:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2023-09-21-conect-seminar-by-jason-eshraghian/</guid>
+      <description>&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://ncg.ucsc.edu/jason-eshraghian-bio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason Eshraghian&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;TBC&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Jason K. Eshraghian is an Assistant Professor with the Department of Electrical and Computer Engineering, University of California, Santa Cruz and the maintainer of &lt;a href=&#34;https://github.com/jeshraghian/snntorch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;snnTorch&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>2023-07-10 : CONECT seminar by Adrien Fois</title>
       <link>https://conect-int.github.io/talk/2023-07-10-conect-seminar-by-adrien-fois/</link>
       <pubDate>Mon, 10 Jul 2023 14:00:00 +0000</pubDate>
       <guid>https://conect-int.github.io/talk/2023-07-10-conect-seminar-by-adrien-fois/</guid>
-      <description>&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://www.researchgate.net/profile/Adrien-Fois-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adrien Fois&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Plasticity and Temporal Coding in Spiking Neural Networks Applied to Representation Learning&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
+      <description>&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://www.researchgate.net/profile/Adrien-Fois-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adrien Fois&lt;/a&gt; did present his recent work on &amp;ldquo;&lt;strong&gt;Plasticity and Temporal Coding in Spiking Neural Networks Applied to Representation Learning&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The brain is a highly efficient computational system, capable of delivering 600 petaFlops while consuming only 20 W of energy, comparable to that of a light bulb. Computation is based on neural impulses, involving information encoding in the form of spikes and learning based on these spikes. According to the dominant paradigm, information is encoded by the number of spikes. However, an alternative paradigm suggests that information is contained in the precise timing of the spikes, offering significant advantages in terms of energy efficiency and information transfer speed.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -81,7 +95,7 @@
 &lt;/blockquote&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Adrien Fois is a PhD Student at the Institute Lorrain de Recherche en Informatique et Ses Applications.
+    Adrien Fois was a PhD Student at the Institute Lorrain de Recherche en Informatique et Ses Applications and now a Post-doc at INT.
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -459,7 +473,7 @@ Haimerl, Angulo-Garcia *et al*, (2019) [doi:10.1073/pnas.1718518116](https://doi
 &lt;p&gt;Understanding our environment requires not only passively observing sensory samples, but also acting to seek out useful relationships between our actions and their possible outcomes. Inspired by the concept of &amp;ldquo;visual salience&amp;rdquo;, we provide a way to interpret action selection as making an &amp;ldquo;ideal experiment&amp;rdquo;, in a behavioral task where participants estimate the causal influence of a player on the outcome of a volleyball game. We show that the balance between the accuracy and the diversity objectives can lead to specific action selection biases, reflected both in the model and in the data.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;Antoine Grimaldi: &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-bc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Learning in networks of spiking neurons with heterogeneous delays&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Antoine Grimaldi: &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Learning in networks of spiking neurons with heterogeneous delays&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The response of a biological neuron depends on the precise timing of afferent spikes. This temporal aspect of the neural code is essential to understand information processing in neurobiology and applies particularly well to the output of neuromorphic hardware such as event-based cameras. However, most artificial neural models do not take advantage of this important temporal dimension of the neural code. Inspired by this neuroscientific observation, we develop a model for the efficient detection of temporal spiking motifs based on a layer of spiking neurons with heterogeneous synaptic delays. The model uses the property that the diversity of synaptic delays on the dendritic tree allows for the synchronization of specific arrangements of synaptic inputs as they reach the basal dendritic tree. We show that this can be formalized as a time-invariant logistic regression that can be trained on labeled data. We demonstrate its application to synthetic naturalistic videos transformed into event streams similar to the output of the retina or to event-based cameras and for which we will characterize the accuracy of the model in detecting visual motion. In particular, we quantify how the accuracy can vary as a function of the overall computational load showing it is still efficient at very low workloads. This end-to-end, event-driven computational building block could improve the performance of future spiking neural network (SNN) algorithms and in particular their implementation in neuromorphic chips.&lt;/p&gt;
@@ -539,7 +553,7 @@ Haimerl, Angulo-Garcia *et al*, (2019) [doi:10.1073/pnas.1718518116](https://doi
 &lt;p&gt;11:30&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Antoine Grimaldi, PhD student (INT)&lt;/li&gt;
-&lt;li&gt;Title: &lt;strong&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-bc/grimaldi-22-bc.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning heterogeneous delays in a layer of spiking neurons for fast motion detection&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Title: &lt;strong&gt;&lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/grimaldi-23-bc.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning heterogeneous delays in a layer of spiking neurons for fast motion detection&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;The response of a biological neuron depends on the precise timing of afferent spikes. This temporal aspect of the neuronal code is essential in understanding information processing in neurobiology and applies particularly well to the output of neuromorphic hardware such as event-based cameras. However, most artificial neuronal models do not take advantage of this minute temporal dimension. Inspired by this neuroscientific observation, we develop a model for the efficient detection of temporal spiking motifs based on a layer of spiking neurons with heterogeneous delays which we apply to the computer vision task of motion detection. Indeed, the variety of synaptic delays on the dendritic tree allows synchronizing synaptic inputs as they reach the basal dendritic tree. We show this can be formalized as a time-invariant logistic regression which can be trained using labeled data. We apply this model to solve the specific computer vision problem of motion detection, and demonstrate its application to synthetic naturalistic videos transformed into event streams similar to the output of event-based cameras. In particular, we quantify how the accuracy of the model can vary with the total computational load. This end-to-end event-driven computational brick could help improve the performance of future spiking neural network algorithms and their prospective use in neuromorphic chips.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -811,7 +825,7 @@ Haimerl, Angulo-Garcia *et al*, (2019) [doi:10.1073/pnas.1718518116](https://doi
 &lt;/ul&gt;
 &lt;h3 id=&#34;project-description&#34;&gt;Project Description&lt;/h3&gt;
 &lt;p&gt;The study of spatio-temporal correlated activity patterns is very active in several fields related to neuroscience, like machine learning in vision &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29563572/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Muller Nat Rev Neurosci 2018)&lt;/a&gt; and neuronal representations and processing &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31110324/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Shahidi Nat Neurosci 2019)&lt;/a&gt;. &lt;strong&gt;This project aims to develop a method for the automated detection of repeating spiking motifs, possibly noisy, in ongoing activity.&lt;/strong&gt; A diversity of formalizations and detection methods have been proposed and we will focus on several example measures for event/spike trains, to be compared on both synthetic and real data.&lt;/p&gt;
-&lt;p&gt;An implementation could be based on autodifferentiable networks as implemented in Python libraries like pytorch. This framework allows for the tuning of parameters with specific architectures like convolutional layers that can capture various timescales in spike patterns (e.g. latencies) in an automated fashion. Another recent tool based on the estimation of firing probability for a range of latencies has been proposed &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-22-bc/grimaldi-22-bc.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Grimaldi ICIP 2022)&lt;/a&gt;. This will be compared with existing approaches like Elephant’s &lt;a href=&#34;https://elephant.readthedocs.io/en/latest/reference/spade.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPADE&lt;/a&gt; or decoding techniques based on computed statistics computed on smoothed spike trains (adapted from time series processing, see &lt;a href=&#34;https://doi.org/10.1101/2021.04.30.441789&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Lawrie, biorxiv&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;An implementation could be based on autodifferentiable networks as implemented in Python libraries like pytorch. This framework allows for the tuning of parameters with specific architectures like convolutional layers that can capture various timescales in spike patterns (e.g. latencies) in an automated fashion. Another recent tool based on the estimation of firing probability for a range of latencies has been proposed &lt;a href=&#34;https://laurentperrinet.github.io/publication/grimaldi-23-bc/grimaldi-23-bc.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Grimaldi ICIP 2022)&lt;/a&gt;. This will be compared with existing approaches like Elephant’s &lt;a href=&#34;https://elephant.readthedocs.io/en/latest/reference/spade.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPADE&lt;/a&gt; or decoding techniques based on computed statistics computed on smoothed spike trains (adapted from time series processing, see &lt;a href=&#34;https://doi.org/10.1101/2021.04.30.441789&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(Lawrie, biorxiv&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;One part concerns the generation of realistic synthetic data producing spike trains  which include spiking motifs with specific latencies or comodulation of firing rate. The goal is to test how these different structures, which rely on specific assumptions about e.g. stationarity or independent firing probability across time, can be captured by different detection methods.&lt;/p&gt;
 </description>
     </item>

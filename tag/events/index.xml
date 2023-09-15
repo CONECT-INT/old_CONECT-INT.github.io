@@ -5,7 +5,7 @@
     <link>https://conect-int.github.io/tag/events/</link>
       <atom:link href="https://conect-int.github.io/tag/events/index.xml" rel="self" type="application/rss+xml" />
     <description>events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 10 Jul 2023 14:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Sep 2023 14:00:00 +0000</lastBuildDate>
     <image>
       <url>https://conect-int.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>events</title>
@@ -13,11 +13,25 @@
     </image>
     
     <item>
+      <title>2023-09-21 : CONECT seminar by Jason Eshraghian</title>
+      <link>https://conect-int.github.io/talk/2023-09-21-conect-seminar-by-jason-eshraghian/</link>
+      <pubDate>Thu, 21 Sep 2023 14:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2023-09-21-conect-seminar-by-jason-eshraghian/</guid>
+      <description>&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://ncg.ucsc.edu/jason-eshraghian-bio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason Eshraghian&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;TBC&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Jason K. Eshraghian is an Assistant Professor with the Department of Electrical and Computer Engineering, University of California, Santa Cruz and the maintainer of &lt;a href=&#34;https://github.com/jeshraghian/snntorch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;snnTorch&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>2023-07-10 : CONECT seminar by Adrien Fois</title>
       <link>https://conect-int.github.io/talk/2023-07-10-conect-seminar-by-adrien-fois/</link>
       <pubDate>Mon, 10 Jul 2023 14:00:00 +0000</pubDate>
       <guid>https://conect-int.github.io/talk/2023-07-10-conect-seminar-by-adrien-fois/</guid>
-      <description>&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://www.researchgate.net/profile/Adrien-Fois-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adrien Fois&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Plasticity and Temporal Coding in Spiking Neural Networks Applied to Representation Learning&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
+      <description>&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://www.researchgate.net/profile/Adrien-Fois-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adrien Fois&lt;/a&gt; did present his recent work on &amp;ldquo;&lt;strong&gt;Plasticity and Temporal Coding in Spiking Neural Networks Applied to Representation Learning&lt;/strong&gt;&amp;rdquo;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The brain is a highly efficient computational system, capable of delivering 600 petaFlops while consuming only 20 W of energy, comparable to that of a light bulb. Computation is based on neural impulses, involving information encoding in the form of spikes and learning based on these spikes. According to the dominant paradigm, information is encoded by the number of spikes. However, an alternative paradigm suggests that information is contained in the precise timing of the spikes, offering significant advantages in terms of energy efficiency and information transfer speed.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -26,7 +40,7 @@
 &lt;/blockquote&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    Adrien Fois is a PhD Student at the Institute Lorrain de Recherche en Informatique et Ses Applications.
+    Adrien Fois was a PhD Student at the Institute Lorrain de Recherche en Informatique et Ses Applications and now a Post-doc at INT.
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
