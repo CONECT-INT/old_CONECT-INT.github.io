@@ -72,7 +72,10 @@
       <link>https://conect-int.github.io/talk/2023-09-21-conect-seminar-by-jason-eshraghian/</link>
       <pubDate>Thu, 21 Sep 2023 14:00:00 +0000</pubDate>
       <guid>https://conect-int.github.io/talk/2023-09-21-conect-seminar-by-jason-eshraghian/</guid>
-      <description>&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://ncg.ucsc.edu/jason-eshraghian-bio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason Eshraghian&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;TBC&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
+      <description>&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://ncg.ucsc.edu/jason-eshraghian-bio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason Eshraghian&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Making spiking neural networks do useful things&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This presentation will dive into how spiking neural networks can be trained to accomplish practical engineering problems. We will provide an overview of the various learning rules that have emerged over the past several decades, along with a few large-scale applications we’ve achieved with spike-based computation. This involves our spike-based language model, SpikeGPT, and our open-source Python library that adopts gradient-based optimization into spike-based models, snnTorch.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Jason K. Eshraghian is an Assistant Professor with the Department of Electrical and Computer Engineering, University of California, Santa Cruz and the maintainer of &lt;a href=&#34;https://github.com/jeshraghian/snntorch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;snnTorch&lt;/a&gt;.
