@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Ladret | CONECT | Computational Neuroscience Center @ INT</title>
+    <link>https://conect-int.github.io/authors/hugo-ladret/</link>
+      <atom:link href="https://conect-int.github.io/authors/hugo-ladret/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Ladret</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Sep 2023 14:30:00 +0000</lastBuildDate>
+    <image>
+      <url>https://conect-int.github.io/authors/hugo-ladret/avatar_hud84a483f73decf0a7d85ed2f62cffba3_42123_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Hugo Ladret</title>
+      <link>https://conect-int.github.io/authors/hugo-ladret/</link>
+    </image>
+    
+    <item>
+      <title>2023-09-21 : CONECT seminar by Jason Eshraghian</title>
+      <link>https://conect-int.github.io/talk/2023-09-21-conect-seminar-by-jason-eshraghian/</link>
+      <pubDate>Thu, 21 Sep 2023 14:30:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2023-09-21-conect-seminar-by-jason-eshraghian/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;When: Thursday &lt;em&gt;&lt;strong&gt;2:30pm to 4pm&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Where: &lt;em&gt;salle Laurent Vinay&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://ncg.ucsc.edu/jason-eshraghian-bio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason Eshraghian&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Making spiking neural networks do useful things&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This presentation will dive into how spiking neural networks can be trained to accomplish practical engineering problems. We will provide an overview of the various learning rules that have emerged over the past several decades, along with a few large-scale applications we’ve achieved with spike-based computation. This involves our spike-based language model, SpikeGPT, and our open-source Python library that adopts gradient-based optimization into spike-based models, snnTorch.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Jason K. Eshraghian is an Assistant Professor with the Department of Electrical and Computer Engineering, University of California, Santa Cruz and the maintainer of &lt;a href=&#34;https://github.com/jeshraghian/snntorch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;snnTorch&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
