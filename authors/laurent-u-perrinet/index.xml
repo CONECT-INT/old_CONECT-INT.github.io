@@ -72,7 +72,11 @@
       <link>https://conect-int.github.io/talk/2023-09-21-conect-seminar-by-jason-eshraghian/</link>
       <pubDate>Thu, 21 Sep 2023 14:30:00 +0000</pubDate>
       <guid>https://conect-int.github.io/talk/2023-09-21-conect-seminar-by-jason-eshraghian/</guid>
-      <description>&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://ncg.ucsc.edu/jason-eshraghian-bio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason Eshraghian&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Making spiking neural networks do useful things&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;When: Thursday &lt;em&gt;&lt;strong&gt;2:30pm to 4pm&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Where: &lt;em&gt;salle Laurent Vinay&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://ncg.ucsc.edu/jason-eshraghian-bio/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jason Eshraghian&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Making spiking neural networks do useful things&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This presentation will dive into how spiking neural networks can be trained to accomplish practical engineering problems. We will provide an overview of the various learning rules that have emerged over the past several decades, along with a few large-scale applications we’ve achieved with spike-based computation. This involves our spike-based language model, SpikeGPT, and our open-source Python library that adopts gradient-based optimization into spike-based models, snnTorch.&lt;/p&gt;
 &lt;/blockquote&gt;
