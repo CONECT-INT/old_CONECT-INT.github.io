@@ -89,6 +89,27 @@
     </item>
     
     <item>
+      <title>2023-09-11: CONECT seminar by Taro Toyoizumi</title>
+      <link>https://conect-int.github.io/talk/2023-09-11-conect-seminar-by-taro-toyoizumi/</link>
+      <pubDate>Mon, 11 Sep 2023 14:30:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2023-09-11-conect-seminar-by-taro-toyoizumi/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;When: Monday 11th Sept 2023 &lt;em&gt;&lt;strong&gt;2.30pm to 3.30pm&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Where: &lt;em&gt;salle de cours 5, batiment principal Timone- (aile verte)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;During this CONECT seminar co-organized with Institut de Neurosciences des Systèmes (INS), &lt;a href=&#34;https://toyoizumilab.riken.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Taro Toyoizumi&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Modeling the fluctuations and state-dependence of synaptic dynamics&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Abstract: Adaptive behavior, crucial for thriving in complex environments, is believed to be enabled by activity-dependent synaptic plasticity within neural circuits. In the first part of this talk, I present how synaptic plasticity could be stabilized in the brain. Conventional models of Hebbian plasticity often facilitate connections between coincidentally active neurons and produce pathologically synchronous neural activity. I demonstrate that biologically observed intrinsic synaptic dynamics—activity-independent changes in synapses—can maintain a physiological distribution of synaptic strength and stabilize memory within neural networks. In the second part, I adopt a top-down approach to model synaptic plasticity. Viewing the brain as an efficient information-processing organ, I assume that synaptic weights are updated to transmit information between neurons efficiently. This theory provides insights into the distinct outcomes of synaptic plasticity observed during the up and down states of non-rapid eye movement sleep, thereby shedding light on how memory consolidation may be influenced by the states and spatial scale of slow waves.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Taro Toyoizumi leads the Lab for Neural Computation and Adaptation at &lt;a href=&#34;https://cbs.riken.jp/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RIKEN Center for Brain Science&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>2023-07-10 : CONECT seminar by Adrien Fois</title>
       <link>https://conect-int.github.io/talk/2023-07-10-conect-seminar-by-adrien-fois/</link>
       <pubDate>Mon, 10 Jul 2023 14:00:00 +0000</pubDate>

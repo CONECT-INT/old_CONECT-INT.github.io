@@ -5,7 +5,7 @@
     <link>https://conect-int.github.io/authors/matthieu-gilson/</link>
       <atom:link href="https://conect-int.github.io/authors/matthieu-gilson/index.xml" rel="self" type="application/rss+xml" />
     <description>Matthieu Gilson</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jun 2023 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Sep 2023 14:30:00 +0000</lastBuildDate>
     <image>
       <url>https://conect-int.github.io/authors/matthieu-gilson/avatar_hu649687aaa067e9fe98cb8aa085fbad98_57526_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Matthieu Gilson</title>
@@ -54,6 +54,27 @@
       <description>&lt;p&gt;The Computational Neuroscience Center (CONECT) is an incubator within the INT to promote theoretical and computational neuroscience.&lt;/p&gt;
 &lt;p&gt;It ambitions to contribute to the training of a new generation of neuroscientists, following the revolution experienced by neuroscience over the past decades: tremendous technological advances across several disciplines have dramatically expanded the frontiers of experimentally accessible neuro-scientific facts. CONECT is thus concerned with new analysis tools and models that can account for large and complex datasets, in parallel with the NeuroTech Center that focuses on experimental devices.&lt;/p&gt;
 &lt;p&gt;CONECT aims to build an inter-disciplinary community within the INT to foster interactions between computational neuroscientists and with experimentalists. The tools include scientific animation (journal clubs, seminars) and practical sessions to leanr and master new tools. This will participate in structuring the teaching and research environment around computational neuroscience around AMU beyond INT alone. The plan is to involve not only local research partners of INT like NeuroMarseille and the Laennec Institute, but also engineer schools (PolyTech, Centrale Marseille) and applied mathematics masters.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2023-09-11: CONECT seminar by Taro Toyoizumi</title>
+      <link>https://conect-int.github.io/talk/2023-09-11-conect-seminar-by-taro-toyoizumi/</link>
+      <pubDate>Mon, 11 Sep 2023 14:30:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2023-09-11-conect-seminar-by-taro-toyoizumi/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;When: Monday 11th Sept 2023 &lt;em&gt;&lt;strong&gt;2.30pm to 3.30pm&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Where: &lt;em&gt;salle de cours 5, batiment principal Timone- (aile verte)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;During this CONECT seminar co-organized with Institut de Neurosciences des Systèmes (INS), &lt;a href=&#34;https://toyoizumilab.riken.jp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Taro Toyoizumi&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Modeling the fluctuations and state-dependence of synaptic dynamics&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Abstract: Adaptive behavior, crucial for thriving in complex environments, is believed to be enabled by activity-dependent synaptic plasticity within neural circuits. In the first part of this talk, I present how synaptic plasticity could be stabilized in the brain. Conventional models of Hebbian plasticity often facilitate connections between coincidentally active neurons and produce pathologically synchronous neural activity. I demonstrate that biologically observed intrinsic synaptic dynamics—activity-independent changes in synapses—can maintain a physiological distribution of synaptic strength and stabilize memory within neural networks. In the second part, I adopt a top-down approach to model synaptic plasticity. Viewing the brain as an efficient information-processing organ, I assume that synaptic weights are updated to transmit information between neurons efficiently. This theory provides insights into the distinct outcomes of synaptic plasticity observed during the up and down states of non-rapid eye movement sleep, thereby shedding light on how memory consolidation may be influenced by the states and spatial scale of slow waves.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Taro Toyoizumi leads the Lab for Neural Computation and Adaptation at &lt;a href=&#34;https://cbs.riken.jp/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RIKEN Center for Brain Science&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
