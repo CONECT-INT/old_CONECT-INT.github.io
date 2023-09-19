@@ -5,12 +5,34 @@
     <link>https://conect-int.github.io/event/</link>
       <atom:link href="https://conect-int.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Sep 2023 14:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Sep 2023 11:00:00 +0000</lastBuildDate>
     <image>
       <url>https://conect-int.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Events</title>
       <link>https://conect-int.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>2023-09-22: AutoTune</title>
+      <link>https://conect-int.github.io/talk/2023-09-22-autotune/</link>
+      <pubDate>Fri, 22 Sep 2023 11:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2023-09-22-autotune/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;When: one Friday a month &lt;em&gt;&lt;strong&gt;11.00am to 12.00am&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Where: &lt;em&gt;salle Vinay (INT)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Today: AutoTune&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Special session on advanced computational tools for neuroscience and open science during the &lt;a href=&#34;https://framateam.org/int-marseille/channels/coding-club&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;coding club&lt;/a&gt; organized by the &lt;a href=&#34;https://www.int.univ-amu.fr/plateformes/nit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIT&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Come and test recent computational tools that are useful for neuromodeling, analyzing data and much more.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    To CONECT members: Propose topics at &lt;a href=&#34;https://amubox.univ-amu.fr/f/1359219652&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coding Club x CONECT&lt;/a&gt;.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>2023-09-21 : CONECT seminar by Jason Eshraghian</title>
