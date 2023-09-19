@@ -5,7 +5,31 @@
     <link>https://conect-int.github.io/slides/</link>
       <atom:link href="https://conect-int.github.io/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jun 2023 14:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Sep 2023 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Monthly coding club by CONECT</title>
+      <link>https://conect-int.github.io/slides/2023-2024-coding-club-conect/</link>
+      <pubDate>Tue, 19 Sep 2023 09:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/slides/2023-2024-coding-club-conect/</guid>
+      <description>
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/open-book.jpg&#34;
+  &gt;
+
+&lt;h1 id=&#34;monthly-coding-club-by-conect&#34;&gt;Monthly coding club by CONECT&lt;/h1&gt;
+&lt;h2 id=&#34;advanced-computational-tools-for-neuroscience-and-open-science&#34;&gt;Advanced computational tools for neuroscience and open science&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;When? on Friday per month, at 11.00am&lt;/li&gt;
+&lt;li&gt;Where? salle Vinay at INT&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;2023-09-22-optuna&#34;&gt;2023-09-22: Optuna&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://optuna.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Optuna&lt;/a&gt; is a generic-purpose optimizer for hyperparameters. It combines a diversity of &lt;a href=&#34;https://optuna.readthedocs.io/en/stable/tutorial/10_key_features/003_efficient_optimization_algorithms.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;modern search algorithms&lt;/a&gt; to optimize models in a black-box fashion, namely defining hyperparameters to optimize and an objective/cost function. Check the &lt;a href=&#34;https://optuna.readthedocs.io/en/stable/tutorial/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tutorials&lt;/a&gt; for further information.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Computational Neuroscience projet</title>
       <link>https://conect-int.github.io/slides/2023-06-19-conect-centuri-summer-school/</link>
