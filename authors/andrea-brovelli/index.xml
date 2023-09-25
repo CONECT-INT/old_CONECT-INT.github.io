@@ -5,12 +5,33 @@
     <link>https://conect-int.github.io/authors/andrea-brovelli/</link>
       <atom:link href="https://conect-int.github.io/authors/andrea-brovelli/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrea Brovelli</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Oct 2022 14:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Oct 2023 15:00:00 +0000</lastBuildDate>
     <image>
       <url>https://conect-int.github.io/authors/andrea-brovelli/avatar_hu6271d2d0be28685cb1259e40678bbda3_40307_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Andrea Brovelli</title>
       <link>https://conect-int.github.io/authors/andrea-brovelli/</link>
     </image>
+    
+    <item>
+      <title>2023-10-02 : CONECT seminar by Lorenzo Fontolan</title>
+      <link>https://conect-int.github.io/talk/2023-10-02-conect-seminar-by-lorenzo-fontolan/</link>
+      <pubDate>Mon, 02 Oct 2023 15:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2023-10-02-conect-seminar-by-lorenzo-fontolan/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;When: Monday &lt;em&gt;&lt;strong&gt;15:00 to 16:00&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Where: &lt;em&gt;salle Laurent Vinay&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://fontolanl.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lorenzo Fontolan&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Neural mechanisms of memory-guided motor learning&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Abstract : TBA&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Lorenzo Fontolan is a computational neuroscientist interested in how neural interactions give rise to cognitive phenomena, how brain circuits change during learning, and how mental disorders disrupt communication pathways in the brain. Currently he is a CENTURI Group Leader at Aix-Marseille University in France.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>2022-10-05 : CONECT workshop &#34;Higher-order interactions in brain networks: from theory to data analysis&#34;</title>

@@ -5,7 +5,7 @@
     <link>https://conect-int.github.io/event/</link>
       <atom:link href="https://conect-int.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Sep 2023 11:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Oct 2023 15:00:00 +0000</lastBuildDate>
     <image>
       <url>https://conect-int.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Events</title>
@@ -13,22 +13,45 @@
     </image>
     
     <item>
-      <title>2023-09-22: Coding Club on Optuna</title>
-      <link>https://conect-int.github.io/talk/2023-09-22-coding-club-on-optuna/</link>
-      <pubDate>Fri, 22 Sep 2023 11:00:00 +0000</pubDate>
-      <guid>https://conect-int.github.io/talk/2023-09-22-coding-club-on-optuna/</guid>
+      <title>2023-10-02 : CONECT seminar by Lorenzo Fontolan</title>
+      <link>https://conect-int.github.io/talk/2023-10-02-conect-seminar-by-lorenzo-fontolan/</link>
+      <pubDate>Mon, 02 Oct 2023 15:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2023-10-02-conect-seminar-by-lorenzo-fontolan/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;When: one Friday a month &lt;em&gt;&lt;strong&gt;11.00am to 12.00am&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Where: &lt;em&gt;salle Vinay (INT)&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Today: &lt;a href=&#34;https://optuna.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;optuna&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;When: Monday &lt;em&gt;&lt;strong&gt;15:00 to 16:00&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Where: &lt;em&gt;salle Laurent Vinay&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Special session on advanced computational tools for neuroscience and open science during the &lt;a href=&#34;https://framateam.org/int-marseille/channels/coding-club&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;coding club&lt;/a&gt; organized by the &lt;a href=&#34;https://www.int.univ-amu.fr/plateformes/nit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIT&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://fontolanl.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lorenzo Fontolan&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Neural mechanisms of memory-guided motor learning&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Come and test recent computational tools that are useful for neuromodeling, analyzing data and much more.&lt;/p&gt;
+&lt;p&gt;Abstract : TBA&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
+    Lorenzo Fontolan is a computational neuroscientist interested in how neural interactions give rise to cognitive phenomena, how brain circuits change during learning, and how mental disorders disrupt communication pathways in the brain. Currently he is a CENTURI Group Leader at Aix-Marseille University in France.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2023-09-22: Coding Club x CONECT on Optuna</title>
+      <link>https://conect-int.github.io/talk/2023-09-22-coding-club-x-conect-on-optuna/</link>
+      <pubDate>Fri, 22 Sep 2023 11:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2023-09-22-coding-club-x-conect-on-optuna/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;When: On Fridays at &lt;em&gt;&lt;strong&gt;11.00am to 12.00am&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Where: &lt;em&gt;salle Laurent Vinay (INT)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is the first occurrence of monthly sessions on advanced computational tools for neuroscience to occur during the &lt;a href=&#34;https://framateam.org/int-marseille/channels/coding-club&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;coding club&lt;/a&gt; organized by the &lt;a href=&#34;https://www.int.univ-amu.fr/plateformes/nit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIT&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This Friday 22th Sept, we will have a look into &lt;a href=&#34;https://optuna.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Optuna&lt;/a&gt;, which is a generic-purpose optimizer for hyperparameters. It combines a diversity of &lt;a href=&#34;https://optuna.readthedocs.io/en/stable/tutorial/10_key_features/003_efficient_optimization_algorithms.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;modern search algorithms&lt;/a&gt; to optimize models in a black-box fashion, namely defining hyperparameters to optimize and an objective/cost function. Check the &lt;a href=&#34;https://optuna.readthedocs.io/en/stable/tutorial/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tutorials&lt;/a&gt; for further information.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;COME TO SHARE AND TEST RECENT COMPUTATIONAL TOOLS FOR NEUROMODELING, ANALYZING YOUR DATA AND MUCH MORE!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The general purpose of these sessions is in line with the Coding Club on promoting open science in our daily practice. The focus of the CONECT contributions is on advanced (e.g. python, R, etc.) computational packages of interest for the local neuroscientific community, both theoreticians and experimentalists. Methodological questions like how to model specific neuronal systems and fitting experimental data are also in the scope of these sessions, with again a focus on practical tools related to simulation and analysis.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
     To CONECT members: Propose topics at &lt;a href=&#34;https://amubox.univ-amu.fr/f/1359219652&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coding Club x CONECT&lt;/a&gt;.
+And check the Mattermost channel for the schedule.
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -52,6 +75,7 @@
     Jason K. Eshraghian is an Assistant Professor with the Department of Electrical and Computer Engineering, University of California, Santa Cruz and the maintainer of &lt;a href=&#34;https://github.com/jeshraghian/snntorch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;snnTorch&lt;/a&gt;.
   &lt;/div&gt;
 &lt;/div&gt;
+&lt;p&gt;In addition, we had a master class in the morning on &lt;a href=&#34;https://snntorch.readthedocs.io/en/latest/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;snnTorch&lt;/a&gt;, get the notebook (upon request).&lt;/p&gt;
 </description>
     </item>
     
