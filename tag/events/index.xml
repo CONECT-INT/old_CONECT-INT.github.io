@@ -5,12 +5,33 @@
     <link>https://conect-int.github.io/tag/events/</link>
       <atom:link href="https://conect-int.github.io/tag/events/index.xml" rel="self" type="application/rss+xml" />
     <description>events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Oct 2023 15:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Mar 2024 15:00:00 +0000</lastBuildDate>
     <image>
       <url>https://conect-int.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>events</title>
       <link>https://conect-int.github.io/tag/events/</link>
     </image>
+    
+    <item>
+      <title>2023-10-02 : CONECT seminar by Danny Burnham</title>
+      <link>https://conect-int.github.io/talk/2023-10-02-conect-seminar-by-danny-burnham/</link>
+      <pubDate>Mon, 11 Mar 2024 15:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2023-10-02-conect-seminar-by-danny-burnham/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;When: Monday &lt;em&gt;&lt;strong&gt;14:&amp;ldquo;0&amp;quot;0 to 16:00&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Where: &lt;em&gt;salle Laurent Vinay&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;During this CONECT seminar, &lt;a href=&#34;https://ion.uoregon.edu/about/person-page/277&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Danny Burnham&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Mice alternate between inference- and stimulus-bound strategies during probabilistic foraging&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Abstract : Essential features of the world are often hidden and must be inferred by constructing internal models based on indirect evidence. During foraging, animals must continually choose between trying to exploit a depleting food source at their current location and leaving to explore a new source at the expense of costly travel epochs. In a deterministic environment, the optimal strategy is to leave the current site when the immediate rate of reward drops below the average rate - a stimulus-bound strategy, assigning each action a value that is updated based on its immediate outcome. This strategy, however, is not optimal in a realistic foraging scenario, where rewards are encountered probabilistically and the optimal strategy is inference-bound, requiring the animal to infer the hidden structure of the world. Motivated by recent studies showing that mice alternate between discrete strategies during perceptual decision-making, we test the hypothesis that mouse behavior during a probabilistic foraging task switches between inference- and stimulus-bound strategies within the same session. To this end, we developed a novel hidden Markov model with linear emissions (LM-HMM) to capture this switching dynamic. When applied to mice engaged in the task, the LM-HMM revealed that mice switch between distinct inference bound and stimulus bound strategies exhibiting varying impulsivities.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Danny Burnham is a computational neuroscientist from the &lt;a href=&#34;https://ion.uoregon.edu/about/person-page/277&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institute of Neuroscience at the university of Oregon&lt;/a&gt; interested in Artificial Neural Network models of learning and memory.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>2023-10-02 : CONECT seminar by Lorenzo Fontolan</title>
