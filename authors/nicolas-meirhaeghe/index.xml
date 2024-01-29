@@ -107,7 +107,6 @@
 &lt;li&gt;this project is part of the CENTURI summer school - and we would like to thank the organizers of the school&amp;hellip;&lt;/li&gt;
 &lt;li&gt;In this short presentation, we will present the challenges that we want to tackle and which we named&amp;hellip;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;who-are-we&#34;&gt;Who are we?&lt;/h2&gt;
@@ -197,7 +196,7 @@
 &lt;h2 id=&#34;dataset-2-time-interval-task&#34;&gt;Dataset 2: time interval task&lt;/h2&gt;
 &lt;img data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset2_time-interval-task/dataset2_fig1A.png&#34; height=&#34;300&#34; /&gt; 
 &lt;span class=&#34;fragment &#34; &gt;
-  &lt;img data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset2_time-interval-task/dataset2_fig2.png&#34; height=&#34;300&#34; /&gt;
+  &lt;img data-src=&#34;https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset2_time-interval-task/dataset2_fig2.png&#34; height=&#34;300&#34; /&gt; 
 &lt;/span&gt;
 &lt;p&gt;Meirhaeghe, Sohn, and Jazayeri (2021) &lt;a href=&#34;https://www.cell.com/neuron/fulltext/S0896-6273%2821%2900622-X&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;doi:10.1016/j.neuron.2021.08.025&lt;/a&gt;&lt;/p&gt;
 &lt;span class=&#34;fragment &#34; &gt;
@@ -273,7 +272,6 @@ Haimerl, Angulo-Garcia *et al*, (2019) [doi:10.1073/pnas.1718518116](https://doi
 &lt;ul&gt;
 &lt;li&gt;we look forward to start working with you on this project !&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;questions-1&#34;&gt;Questions?&lt;/h1&gt;
@@ -345,7 +343,6 @@ Haimerl, Angulo-Garcia *et al*, (2019) [doi:10.1073/pnas.1718518116](https://doi
 &lt;li&gt;as part of the CENTURI summer school - and we would like to thank the organizers of the school&amp;hellip;&lt;/li&gt;
 &lt;li&gt;In this short presentation, we will present the challenges that we want to tackle and which we named&amp;hellip;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;who-are-we&#34;&gt;Who are we?&lt;/h2&gt;
@@ -374,7 +371,6 @@ Haimerl, Angulo-Garcia *et al*, (2019) [doi:10.1073/pnas.1718518116](https://doi
 &lt;li&gt;neural activity is in majority carried by action potentials, or &lt;em&gt;spikes&lt;/em&gt;,&lt;/li&gt;
 &lt;li&gt;we wish to better understand this structure by using machine learning.&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;/aside&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
