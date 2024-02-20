@@ -5,7 +5,7 @@
     <link>https://conect-int.github.io/</link>
       <atom:link href="https://conect-int.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>CONECT | Computational Neuroscience Center @ INT</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Mar 2024 15:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Mar 2024 15:00:00 +0000</lastBuildDate>
     <image>
       <url>https://conect-int.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>CONECT | Computational Neuroscience Center @ INT</title>
@@ -65,6 +65,27 @@
       <description>&lt;p&gt;The Computational Neuroscience Center (CONECT) is an incubator within the INT to promote theoretical and computational neuroscience.&lt;/p&gt;
 &lt;p&gt;It ambitions to contribute to the training of a new generation of neuroscientists, following the revolution experienced by neuroscience over the past decades: tremendous technological advances across several disciplines have dramatically expanded the frontiers of experimentally accessible neuro-scientific facts. CONECT is thus concerned with new analysis tools and models that can account for large and complex datasets, in parallel with the NeuroTech Center that focuses on experimental devices.&lt;/p&gt;
 &lt;p&gt;CONECT aims to build an inter-disciplinary community within the INT to foster interactions between computational neuroscientists and with experimentalists. The tools include scientific animation (journal clubs, seminars) and practical sessions to leanr and master new tools. This will participate in structuring the teaching and research environment around computational neuroscience around AMU beyond INT alone. The plan is to involve not only local research partners of INT like NeuroMarseille and the Laennec Institute, but also engineer schools (PolyTech, Centrale Marseille) and applied mathematics masters.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2024-03-29 : INT/CONECT seminar by Joe McInnes</title>
+      <link>https://conect-int.github.io/talk/2024-03-29-int/conect-seminar-by-joe-mcinnes/</link>
+      <pubDate>Fri, 29 Mar 2024 15:00:00 +0000</pubDate>
+      <guid>https://conect-int.github.io/talk/2024-03-29-int/conect-seminar-by-joe-mcinnes/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;When: Friday, March 29th &lt;em&gt;&lt;strong&gt;14:30 to 15:30&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Where: &lt;em&gt;salle Gastaut&lt;/em&gt; (TBC)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;During this INT/CONECT seminar, &lt;a href=&#34;https://www.swansea.ac.uk/staff/william.macinnes/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr Joe McInnes&lt;/a&gt; will present his recent work on &amp;ldquo;&lt;strong&gt;Casting a wide (neural) net: models and simulations of eye movements and attention&lt;/strong&gt;&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Abstract : Eye movements are an excellent proxy for visual attention, and offer a rich source of behavioural data. Decades of neuroscience and experimental results have provided many interesting artefacts that hint at underlying attentional mechanisms. Models and simulations of attention allow us the opportunity to implement our best theories and test them against a wide variety of experimental and imaging results.  Simulations of human eye movements, for example, can predict where we allocate attention, the temporal distributions of saccades and even the presence of attentional artifacts like Inhibition of Return, errors, anticipations and even virtual TMS lesions.  This talk will cover a couple of recent models that simulate attention and eye movements using deep learning neural nets, spiking network layers and diffusion models to simulate aspects, quirks and mechanisms of human attention.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Joe has an interdisciplinary PhD from Dalhousie University in Canada combining computer science (graphics and machine learning) with psychology (eye movements and attention).  He has worked in psychology departments (University of Toronto, University of Aberdeen, and HSE University Moscow), computer science departments (Dalhousie University, Canada, St Mary’s University, Canada, and Swansea University Wales) and industry research (Data visualization and AI, Canada).  He is currently a senior lecturer in AI at Swansea University department of computer science.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
