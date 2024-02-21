@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  
+  
+  
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Wowchemy 5.5.0 for Hugo">
+
+  
+    <link rel="manifest" href="/manifest.webmanifest">
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png">
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png">
+
+  <link rel="canonical" href="https://conect-int.github.io/slides/2023-06-19-conect-centuri-summer-school/">
+
+  <title>Computational Neuroscience projet | CONECT | Computational Neuroscience Center @ INT</title>
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/reveal.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/theme/white.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.2.1/build/styles/github.min.css" crossorigin="anonymous" id="highlight-theme">
+
+  
+  
+  <link rel="stylesheet" href="/css/reveal_custom.min.css">
+</head>
+<body>
+
+  
+<div class="reveal">
+  <div class="slides">
+    
+    
+    
+
+    
+    
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+<section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image="/media/open-book.jpg"
+  >
+
+<h2 id="neural-computation-through-population-dynamics">Neural computation through population dynamics</h2>
+<h5 id="computational-neuroscience-project">Computational Neuroscience project</h5>
+<h3 id="centuri-summer-school">CENTURI Summer school</h3>
+<p><a href="https://conect-int.github.io/talk/2023-06-20-conect-at-the-centuri-summer-school/" target="_blank" rel="noopener">https://conect-int.github.io/talk/2023-06-20-conect-at-the-centuri-summer-school/</a></p>
+<aside class="notes">
+  <p><strong>1 MINUTE</strong></p>
+<ul>
+<li>Press <code>S</code> key to view</li>
+<li>this project is part of the CENTURI summer school - and we would like to thank the organizers of the school&hellip;</li>
+<li>In this short presentation, we will present the challenges that we want to tackle and which we named&hellip;</li>
+</ul>
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="who-are-we">Who are we?</h2>
+ <table>
+  <tr>
+    <th><img data-src="/authors/nicolas-meirhaeghe/avatar.jpg" height="200" /></th>
+    <th><img data-src="/authors/laurent-u-perrinet/avatar.png" height="200" /></th>
+  </tr>
+  <tr>
+    <td>Nicolas<BR>Meirhaeghe</td>
+    <td>Laurent<BR>Perrinet</td>
+  </tr>
+</table>
+<aside class="notes">
+  <p><strong>2 MINUTE</strong></p>
+<p>This project is supervised by NM and myself. We are both at the INT, working at the interface between neurophysiology and computational modelling.</p>
+
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="challenge-brain-decoding">Challenge: brain decoding</h2>
+<span class="fragment " >
+  <img data-src="https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/decoding.png" height="420" />
+</span>
+<aside class="notes">
+  <p><strong>2 MINUTE</strong></p>
+<ul>
+<li>our brains light up billions of cells, in majority carried by action potentials, or <em>spikes</em>,</li>
+<li>neural activity is structured in a way that allows agents to act on the world</li>
+<li>we wish to better understand this relationship by using machine learning.</li>
+</ul>
+<p>In this example, a monkey is seeing a display for which a reaching task is associated. at the same time neural activity (raster plot) is recorded in the premotor area. our goal is to be able to design a computational method to predict the actual behavior. achieving to do this allows to better understand computational principles of the brain</p>
+<ul>
+<li>application to BCI</li>
+</ul>
+<p>&ldquo;what I can build, I can understand&rdquo;
+(to be more modest, as Feynman said “What I cannot build. I do not understand.” )</p>
+
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="objectives">Objectives</h2>
+<ul>
+<li>Learn computational methods to interpret and interrogate neural data</li>
+<li>Learn to reduce the complexity of high-dimensional neural data</li>
+<li>Learn statistical approaches to perform hypothesis-testing on neural data</li>
+<li>Learn the principles of decoding analyses to relate neural data to behavioral data</li>
+</ul>
+<aside class="notes">
+  <p><strong>2 MINUTES</strong></p>
+<p>The objectives in this project are:
+&hellip;</p>
+
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="datasets">Datasets</h2>
+<ul>
+<li>Dataset 1: reaching task (Hatsopoulos et al., J. Neurophysiol., 2004)</li>
+</ul>
+<span class="fragment " >
+  <ul>
+<li>Dataset 2: time interval task (Meirhaeghe et al., Neuron, 2021)</li>
+</ul>
+</span>
+<aside class="notes">
+  <p><strong>1 MINUTE</strong></p>
+<p>During the project we will focus on two datasets:</p>
+<ul>
+<li>&hellip; which is openly available</li>
+<li>the second &hellip; which will be provided during the course</li>
+</ul>
+
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="dataset-1-reaching-task">Dataset 1: reaching task</h2>
+<span class="fragment " >
+  <p><img data-src="https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/centerout-task.png" height="200" /><img data-src="https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/trajectories.png" height="300" /></p>
+<p>Hatsopoulos, Joshi, and O&rsquo;Leary (2004) <a href="https://journals.physiology.org/doi/full/10.1152/jn.01245.2003" target="_blank" rel="noopener">doi:10.1152/jn.01245.2003</a></p>
+</span>
+<span class="fragment " >
+  <h5 id="goal-decode-intended-arm-movements-from-motor-cortical-activity">Goal: decode intended arm movements from motor cortical activity</h5>
+</span>
+<aside class="notes">
+  <p><strong>1 MINUTE</strong></p>
+<p>The first dataset is a classic reaching task. it consists of recordings in primary motor (MI) and dorsal premotor (PMd) cortices in behaving monkeys doing a reaching task, that is, instructed to move a cursor from the center to a target.</p>
+
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="dataset-2-time-interval-task">Dataset 2: time interval task</h2>
+<img data-src="https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset2_time-interval-task/dataset2_fig1A.png" height="300" /> 
+<span class="fragment " >
+  <img data-src="https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset2_time-interval-task/dataset2_fig2.png" height="300" /> 
+</span>
+<p>Meirhaeghe, Sohn, and Jazayeri (2021) <a href="https://www.cell.com/neuron/fulltext/S0896-6273%2821%2900622-X" target="_blank" rel="noopener">doi:10.1016/j.neuron.2021.08.025</a></p>
+<span class="fragment " >
+  <h5 id="goal-relating-neural-dynamics-to-animals-behavioral-performance">Goal: relating neural dynamics to animals’ behavioral performance</h5>
+</span>
+<aside class="notes">
+  <p><strong>1 MINUTE</strong></p>
+<p>the second dataset is more challenging and involves :</p>
+<ul>
+<li>Monkeys measured time intervals drawn from various distributions</li>
+<li>Activity in the frontal cortex scaled in time with the mean interval</li>
+<li>Temporal scaling allowed time to be encoded predictively relative to the mean</li>
+</ul>
+
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h2 id="dataset-2-time-interval-task-1">Dataset 2: time interval task</h2>
+<img data-src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/malvache2016.png" height="300" />
+<p>Malvache, Reichinnek, Vilette, Haimerl &amp; Cossart (2016) <a href="https://www.science.org/doi/10.1126/science.aaf3319" target="_blank" rel="noopener">doi:10.1126/science.aaf3319</a></p>
+<span class="fragment " >
+  <h5 id="goal-use-precise-spike-times-to-improve-decoding">Goal: use precise spike times to improve decoding</h5>
+</span>
+<aside class="notes">
+  <p><strong>2 MINUTE</strong></p>
+<ul>
+<li>
+<p>our goal is to improve decoding</p>
+</li>
+<li>
+<p>Internal representation of hippocampal neuronal population spans a time-distance continuum.</p>
+</li>
+<li>
+<p>yet the domain is vast, and there s lot to do in SNNs</p>
+</li>
+</ul>
+
+</aside>
+<!-- 
+---
+
+## Dataset 2: time interval task
+
+<img data-src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/haimerl2019.jpg" height="300" />
+
+Haimerl, Angulo-Garcia *et al*, (2019) [doi:10.1073/pnas.1718518116](https://doi.org/10.1073/pnas.1718518116)
+
+##### Goal: use precise spike times to improve decoding 
+
+<aside class="notes">
+  <p><strong>2 MINUTE</strong></p>
+<ul>
+<li>
+<p>our goal is to improve decoding</p>
+</li>
+<li>
+<p>Internal representation of hippocampal neuronal population spans a time-distance continuum.</p>
+</li>
+<li>
+<p>yet the domain is vast, and there s lot to do in SNNs</p>
+</li>
+</ul>
+
+</aside> -->
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h1 id="questions">Questions?</h1>
+<ul>
+<li>home page: <a href="https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/" target="_blank" rel="noopener">https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/</a></li>
+<li>Contact us @ <a href="mailto:nmrghe@gmail.com,laurent.perrinet@univ-amu.fr">nicolas.meirhaeghe@univ-amu.fr, laurent.perrinet@univ-amu.fr</a></li>
+<li>GitHub repository: <a href="https://github.com/CONECT-INT/2023_CENTURI-SummerSchool" target="_blank" rel="noopener">https://github.com/CONECT-INT/2023_CENTURI-SummerSchool</a></li>
+</ul>
+<aside class="notes">
+  <p><strong>1 MINUTE</strong></p>
+<ul>
+<li>we look forward to start working with you on this project !</li>
+</ul>
+</aside>
+
+    </section>
+    
+
+    
+    
+    
+    <section>
+    
+      
+<h1 id="questions-1">Questions?</h1>
+<img data-src="data:image/gif;base64,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" height="300" />
+
+    </section>
+    
+
+    
+    
+  </div>
+</div>
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/dist/reveal.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/markdown/markdown.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/highlight/highlight.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/notes/notes.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/search/search.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/math/math.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.2.1/plugin/zoom/zoom.min.js" crossorigin="anonymous"></script>
+
+  
+  
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js-menu@2.1.0/plugin.js" integrity="sha256-M6JwAjnRAWmi+sbXURR/yAhWZKYhAw7YXnnLvIxrdGs=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js-menu@2.1.0/menu.js" integrity="sha256-l14dklFcW5mWar6w/9KaW0fWVerf3mYr7Wt0+rXzFAA=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js-menu@2.1.0/menu.css" integrity="sha256-0fU8HKLaTjgzfaV9CgSqbsN8ilA3zo6zK1M6rlgULd8=" crossorigin="anonymous">
+  
+
+  
+
+  
+  <script src="/js/wowchemy-slides.js"></script>
+
+</body>
+</html>
